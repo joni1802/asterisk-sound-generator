@@ -1,0 +1,26 @@
+tts --text "Passwort" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-password.wav"
+
+tts --text "Sie haben" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-youhave.wav"
+
+tts --text "Ein" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\digits\1F.wav"
+
+tts --text "Alt" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-Old.wav"
+
+tts --text "Nachricht" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-message.wav"
+
+tts --text "Drücken Sie 1 für" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-onefor.wav"
+
+tts --text "Nachrichten" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-messages.wav"
+
+tts --text "Drücken Sie 2, um Ordner zu wechseln, drücken Sie 3 für erweiterte Optionen, drücken Sie Null für Mailbox-Optionen." --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-opts.wav"
+
+tts --text "Drücken Sie den Stern für Hilfe oder die Quadrattaste zum Beenden." --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-helpexit.wav"
+
+tts --text "Auf Wiedersehen" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-goodbye.wav"
+
+
+Anpassungen
+tts --text "Eine" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\digits\1F.wav"
+
+tts --text "Alte" --model_name "tts_models/de/thorsten/vits" --out_path ".\sounds\vm-Old.wav"
+

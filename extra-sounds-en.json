@@ -1,0 +1,5639 @@
+[
+  {
+    "name": "1-for-am-2-for-pm",
+    "text": "Press 1 for A.M, or 2 for P.M."
+  },
+  {
+    "name": "1-yes-2-no",
+    "text": "Press 1 for yes, or 2 for no."
+  },
+  {
+    "name": "1",
+    "text": "1 sec silence"
+  },
+  {
+    "name": "10",
+    "text": "10 sec silence"
+  },
+  {
+    "name": "2",
+    "text": "2 sec silence"
+  },
+  {
+    "name": "3",
+    "text": "3 sec silence"
+  },
+  {
+    "name": "4",
+    "text": "4 sec silence"
+  },
+  {
+    "name": "5",
+    "text": "5 sec silence"
+  },
+  {
+    "name": "6",
+    "text": "6 sec silence"
+  },
+  {
+    "name": "7",
+    "text": "7 sec silence"
+  },
+  {
+    "name": "8",
+    "text": "8 sec silence"
+  },
+  {
+    "name": "9",
+    "text": "9 sec silence"
+  },
+  {
+    "name": "; Silence directory"
+  },
+  {
+    "name": "T-changed-to",
+    "text": ""
+  },
+  {
+    "name": "T-is-not-available",
+    "text": "is not available"
+  },
+  {
+    "name": "T-to-disable-ancmnt",
+    "text": "to disable this announcement"
+  },
+  {
+    "name": "T-to-enable-ancmnt",
+    "text": "to enable this announcement"
+  },
+  {
+    "name": "T-to-hear-cur-ancmnt",
+    "text": "to hear the current announcement"
+  },
+  {
+    "name": "T-to-leave-msg",
+    "text": "to leave a message"
+  },
+  {
+    "name": "T-to-reach-main-office",
+    "text": "to reach the main office"
+  },
+  {
+    "name": "T-to-rec-ancmnt",
+    "text": "to rerecord this announcement"
+  },
+  {
+    "name": "T-to-rtrn-to-main-menu",
+    "text": "to return to the main menu"
+  },
+  {
+    "name": "a-charge-for-this-svc",
+    "text": "A charge for this service"
+  },
+  {
+    "name": "a-collect-charge-of",
+    "text": "A collect charge of"
+  },
+  {
+    "name": "a-collect-charge",
+    "text": "A collect charge"
+  },
+  {
+    "name": "a-connect-charge-of",
+    "text": "A connect charge of"
+  },
+  {
+    "name": "a-connect-charge",
+    "text": "A connect charge"
+  },
+  {
+    "name": "abandon-all-hope",
+    "text": "Abandon all hope, ye who dial here."
+  },
+  {
+    "name": "abandons",
+    "text": "abandons"
+  },
+  {
+    "name": "ac",
+    "text": "AC"
+  },
+  {
+    "name": "academic-support",
+    "text": "Academic Support"
+  },
+  {
+    "name": "access-code",
+    "text": "Access code"
+  },
+  {
+    "name": "access-denied",
+    "text": "access denied"
+  },
+  {
+    "name": "access-granted",
+    "text": "access granted"
+  },
+  {
+    "name": "accessible-through-system",
+    "text": "accessible through this system"
+  },
+  {
+    "name": "account-balance-is",
+    "text": "Account balance is"
+  },
+  {
+    "name": "accounting",
+    "text": "Accounting"
+  },
+  {
+    "name": "accounts-payable",
+    "text": "Accounts Payable"
+  },
+  {
+    "name": "accounts-receivable",
+    "text": "Accounts Receivable"
+  },
+  {
+    "name": "added-to",
+    "text": "added to"
+  },
+  {
+    "name": "address",
+    "text": "address"
+  },
+  {
+    "name": "administration",
+    "text": "Administration"
+  },
+  {
+    "name": "advised-to-seek-shelter",
+    "text": "are advised to seek shelter immediately"
+  },
+  {
+    "name": "after-the-tone",
+    "text": "after the tone"
+  },
+  {
+    "name": "afternoon",
+    "text": "afternoon"
+  },
+  {
+    "name": "air-conditioner",
+    "text": "air conditioner"
+  },
+  {
+    "name": "airport",
+    "text": "airport"
+  },
+  {
+    "name": "alabama",
+    "text": "Alabama"
+  },
+  {
+    "name": "alarm",
+    "text": "alarm"
+  },
+  {
+    "name": "alaska",
+    "text": "Alaska"
+  },
+  {
+    "name": "albuquerque",
+    "text": "Albuquerque"
+  },
+  {
+    "name": "all-outgoing-lines-unavailable",
+    "text": "All outgoing lines are currently unavailable"
+  },
+  {
+    "name": "all-reps-busy",
+    "text": "All of our representatives are currently busy."
+  },
+  {
+    "name": "all-your-base",
+    "text": "All your base are belong to us."
+  },
+  {
+    "name": "altitude",
+    "text": "altitude"
+  },
+  {
+    "name": "amp",
+    "text": "Amp"
+  },
+  {
+    "name": "ampersand",
+    "text": "ampersand"
+  },
+  {
+    "name": "amps",
+    "text": "Amps"
+  },
+  {
+    "name": "an-error-has-occurred",
+    "text": "An error has occurred."
+  },
+  {
+    "name": "an-error-has-occured",
+    "text": "An error has occurred."
+  },
+  {
+    "name": "and-area-code",
+    "text": "and the area code..."
+  },
+  {
+    "name": "and-or",
+    "text": "and/or"
+  },
+  {
+    "name": "and-prs-pound-whn-finished",
+    "text": "And press pound when finished"
+  },
+  {
+    "name": "and",
+    "text": "and"
+  },
+  {
+    "name": "another-time",
+    "text": "another time"
+  },
+  {
+    "name": "approaching",
+    "text": "approaching"
+  },
+  {
+    "name": "approximately",
+    "text": "approximately"
+  },
+  {
+    "name": "are-you-still-there",
+    "text": "Are you still there?"
+  },
+  {
+    "name": "are-you-still-there2",
+    "text": "Are you still there?"
+  },
+  {
+    "name": "arizona",
+    "text": "Arizona"
+  },
+  {
+    "name": "arkansas",
+    "text": "Arkansas"
+  },
+  {
+    "name": "arlington",
+    "text": "Arlington"
+  },
+  {
+    "name": "around",
+    "text": "around"
+  },
+  {
+    "name": "astcc-account-balance-is",
+    "text": "Your account balance is..."
+  },
+  {
+    "name": "astcc-account-number-invalid",
+    "text": "Your account number is invalid"
+  },
+  {
+    "name": "astcc-balance-of-account-is",
+    "text": "The balance of your account is..."
+  },
+  {
+    "name": "astcc-card-number-invalid",
+    "text": "The card number you have entered is invalid."
+  },
+  {
+    "name": "astcc-digit-account-number",
+    "text": "-digit account number"
+  },
+  {
+    "name": "astcc-followed-by-the-hash-key",
+    "text": "followed by the hash key."
+  },
+  {
+    "name": "astcc-followed-by-the-pound-key",
+    "text": "followed by pound."
+  },
+  {
+    "name": "astcc-login12pound",
+    "text": "Please enter your 12-digit account number, skipping any punctuation, followed by the pound key."
+  },
+  {
+    "name": "astcc-please-enter-your",
+    "text": "Please enter your..."
+  },
+  {
+    "name": "astcc-skipping-any-punctuation",
+    "text": "skipping any punctuation"
+  },
+  {
+    "name": "asterisk-friend",
+    "text": "Asterisk is your friend."
+  },
+  {
+    "name": "at-any-time",
+    "text": "at any time"
+  },
+  {
+    "name": "at-customers-request",
+    "text": "at the customers request"
+  },
+  {
+    "name": "at-following-number",
+    "text": "At the following number"
+  },
+  {
+    "name": "at-sign",
+    "text": "at sign"
+  },
+  {
+    "name": "athletics",
+    "text": "Athletics"
+  },
+  {
+    "name": "atlanta",
+    "text": "Atlanta"
+  },
+  {
+    "name": "atlantic",
+    "text": "atlantic"
+  },
+  {
+    "name": "attention-required",
+    "text": "Your attention is required"
+  },
+  {
+    "name": "attic",
+    "text": "attic"
+  },
+  {
+    "name": "auditing",
+    "text": "Auditing"
+  },
+  {
+    "name": "austin",
+    "text": "Austin"
+  },
+  {
+    "name": "available-options",
+    "text": "available options"
+  },
+  {
+    "name": "available",
+    "text": "Available"
+  },
+  {
+    "name": "avg-speed-answer",
+    "text": "average speed of answer"
+  },
+  {
+    "name": "away-naughty-boy",
+    "text": "He's currently away from his phone, the naughty boy."
+  },
+  {
+    "name": "away-naughty-girl",
+    "text": "She's currently away from her phone, the naughty girl."
+  },
+  {
+    "name": "baby-sleeping-mode",
+    "text": "baby sleeping mode"
+  },
+  {
+    "name": "back",
+    "text": "back"
+  },
+  {
+    "name": "backslash",
+    "text": "backslash"
+  },
+  {
+    "name": "bad",
+    "text": "bad"
+  },
+  {
+    "name": "baltimore",
+    "text": "Baltimore"
+  },
+  {
+    "name": "bar",
+    "text": "bar"
+  },
+  {
+    "name": "barn",
+    "text": "Barn"
+  },
+  {
+    "name": "barns",
+    "text": "Barns"
+  },
+  {
+    "name": "barometer",
+    "text": "barometer"
+  },
+  {
+    "name": "barometric",
+    "text": "barometric"
+  },
+  {
+    "name": "basement",
+    "text": "basement"
+  },
+  {
+    "name": "bathroom",
+    "text": "bathroom"
+  },
+  {
+    "name": "bearing",
+    "text": "Bearing"
+  },
+  {
+    "name": "beaufort",
+    "text": "beaufort"
+  },
+  {
+    "name": "because-paranoid",
+    "text": "because we're paranoid"
+  },
+  {
+    "name": "bedroom",
+    "text": "bedroom"
+  },
+  {
+    "name": "before-the-number",
+    "text": "before the number."
+  },
+  {
+    "name": "believe-its-free",
+    "text": "Can you believe this phone system is free?"
+  },
+  {
+    "name": "billing-and-collections",
+    "text": "Billing and collections"
+  },
+  {
+    "name": "billing",
+    "text": "Billing"
+  },
+  {
+    "name": "billionth",
+    "text": "billionth"
+  },
+  {
+    "name": "bits",
+    "text": "bits"
+  },
+  {
+    "name": "blue-eyed-polar-bear",
+    "text": "Try to spend your time on hold not thinking about a blue-eyed polar bear."
+  },
+  {
+    "name": "bookstore",
+    "text": "Bookstore"
+  },
+  {
+    "name": "boston",
+    "text": "Boston"
+  },
+  {
+    "name": "box",
+    "text": "Box"
+  },
+  {
+    "name": "brian",
+    "text": "Brian"
+  },
+  {
+    "name": "bright",
+    "text": "bright"
+  },
+  {
+    "name": "business-development",
+    "text": "Business Development"
+  },
+  {
+    "name": "busy-hangovers",
+    "text": "We're all busy with our hangovers."
+  },
+  {
+    "name": "busy-pls-hold",
+    "text": "All our lines are currently busy.  Please hold and someone will be with you shortly."
+  },
+  {
+    "name": "but",
+    "text": "but"
+  },
+  {
+    "name": "by",
+    "text": "by"
+  },
+  {
+    "name": "bytes",
+    "text": "Bytes"
+  },
+  {
+    "name": "cafeteria",
+    "text": "Cafeteria"
+  },
+  {
+    "name": "california",
+    "text": "California"
+  },
+  {
+    "name": "call-forward",
+    "text": "Call Forward"
+  },
+  {
+    "name": "call-fwd-cancelled",
+    "text": "call forward cancelled"
+  },
+  {
+    "name": "call-fwd-parallel",
+    "text": "Call-Forward Parallel"
+  },
+  {
+    "name": "call-preempted",
+    "text": "This call has be preempted"
+  },
+  {
+    "name": "call-quality-menu",
+    "text": "Please rate the quality of the call you just made.  Use the keys one through four to rate the voice quality of the call, with one being the best quality, and four meaning that it was very difficult to understand the other party.  Press five if the call was prematurely disconnected.  Press six if the call was never completed.  Press seven if one direction of the call could not be heard.  Press eight if there were other difficulties."
+  },
+  {
+    "name": "call-requres",
+    "text": "The call you have made requires a..."
+  },
+  {
+    "name": "call-terminated",
+    "text": "call terminated"
+  },
+  {
+    "name": "call",
+    "text": "Call"
+  },
+  {
+    "name": "callerid",
+    "text": "caller id"
+  },
+  {
+    "name": "calls-taken-by",
+    "text": "calls are being taken by"
+  },
+  {
+    "name": "calls-waiting-for-rep",
+    "text": "calls waiting to speak with a representative"
+  },
+  {
+    "name": "calls",
+    "text": "calls"
+  },
+  {
+    "name": "campground-office",
+    "text": "Campground office"
+  },
+  {
+    "name": "cannot-complete-network-error",
+    "text": "Your call cannot be completed due to network error."
+  },
+  {
+    "name": "cannot-complete-otherend-error",
+    "text": "Your call cannot be completed due to an error at the receiving telephone company."
+  },
+  {
+    "name": "cannot-complete-temp-error",
+    "text": "Your call cannot be completed due to a temporary error"
+  },
+  {
+    "name": "card-balance-is",
+    "text": "card balance is"
+  },
+  {
+    "name": "card-is-invalid",
+    "text": "card is invalid"
+  },
+  {
+    "name": "card-number",
+    "text": "card number"
+  },
+  {
+    "name": "carport",
+    "text": "carport"
+  },
+  {
+    "name": "carried-away-by-monkeys",
+    "text": "Nobody is available to take your call at the moment.  They have been carried away by monkeys."
+  },
+  {
+    "name": "cause-code",
+    "text": "Cause Code"
+  },
+  {
+    "name": "ceiling",
+    "text": "ceiling"
+  },
+  {
+    "name": "celsius",
+    "text": "celsius"
+  },
+  {
+    "name": "cent",
+    "text": "Cent"
+  },
+  {
+    "name": "central",
+    "text": "central"
+  },
+  {
+    "name": "cents-per-minute",
+    "text": "Cents per minute"
+  },
+  {
+    "name": "cents",
+    "text": "Cents"
+  },
+  {
+    "name": "cents",
+    "text": "cents"
+  },
+  {
+    "name": "ceo-office",
+    "text": "CEO's office"
+  },
+  {
+    "name": "chance-of",
+    "text": "chance of"
+  },
+  {
+    "name": "changing",
+    "text": "changing"
+  },
+  {
+    "name": "channel-insecure-warn",
+    "text": "This voice path is insecure - do not discuss classified information or use project codewords."
+  },
+  {
+    "name": "channel-secure",
+    "text": "This voice path is secure."
+  },
+  {
+    "name": "channel",
+    "text": "Channel"
+  },
+  {
+    "name": "channel",
+    "text": "channel"
+  },
+  {
+    "name": "charlotte",
+    "text": "Charlotte"
+  },
+  {
+    "name": "chat-room",
+    "text": "chat room"
+  },
+  {
+    "name": "chemistry",
+    "text": "Chemistry"
+  },
+  {
+    "name": "chicago",
+    "text": "Chicago"
+  },
+  {
+    "name": "chris",
+    "text": "Chris"
+  },
+  {
+    "name": "claims",
+    "text": "Claims"
+  },
+  {
+    "name": "clear",
+    "text": "clear"
+  },
+  {
+    "name": "clearing",
+    "text": "clearing"
+  },
+  {
+    "name": "cleveland",
+    "text": "Cleveland"
+  },
+  {
+    "name": "clli",
+    "text": "CLLI"
+  },
+  {
+    "name": "close-parenthesis",
+    "text": "close parenthesis"
+  },
+  {
+    "name": "closet",
+    "text": "closet"
+  },
+  {
+    "name": "clouds",
+    "text": "clouds"
+  },
+  {
+    "name": "cloudy",
+    "text": "cloudy"
+  },
+  {
+    "name": "coffee-pot",
+    "text": "coffee pot"
+  },
+  {
+    "name": "collections",
+    "text": "Collections"
+  },
+  {
+    "name": "colorado-springs",
+    "text": "Colorado Springs"
+  },
+  {
+    "name": "colorado",
+    "text": "Colorado"
+  },
+  {
+    "name": "columbus",
+    "text": "Columbus"
+  },
+  {
+    "name": "comma",
+    "text": "comma"
+  },
+  {
+    "name": "communications",
+    "text": "Communications"
+  },
+  {
+    "name": "company-dir-411",
+    "text": "To access our company directory, dial 411 or dial zero to leave a message in our general mailbox."
+  },
+  {
+    "name": "complaint",
+    "text": "Complaint"
+  },
+  {
+    "name": "compliance",
+    "text": "Compliance"
+  },
+  {
+    "name": "computer-friend1",
+    "text": "The computer is your friend."
+  },
+  {
+    "name": "computer-friend2",
+    "text": "The computer is your friend."
+  },
+  {
+    "name": "conditions",
+    "text": "conditions"
+  },
+  {
+    "name": "conf-1-to-list-users",
+    "text": "Press 1 to list users currently in the conference."
+  },
+  {
+    "name": "conf-2-to-kick-nonadmin",
+    "text": "2 to kick all non-administrator users."
+  },
+  {
+    "name": "conf-3-mute-or-unmute-nonadmin",
+    "text": "3 to mute or unmute all non-administrator users."
+  },
+  {
+    "name": "conf-4-to-record-conf",
+    "text": "4 to record this conference."
+  },
+  {
+    "name": "conf-8-for-more-options",
+    "text": "or 8 for more options"
+  },
+  {
+    "name": "conf-8-to-exit-return-to-conf",
+    "text": "or 8 to exit this menu and return to the conference."
+  },
+  {
+    "name": "conf-banned",
+    "text": "You have been banned from this conference."
+  },
+  {
+    "name": "conf-hasentered",
+    "text": "has entered the conference"
+  },
+  {
+    "name": "conf-onlypersonleft",
+    "text": "You are now the only person left in this conference."
+  },
+  {
+    "name": "conf-peopleinconf",
+    "text": "people in this conference"
+  },
+  {
+    "name": "conf-sysop",
+    "text": "The sysop"
+  },
+  {
+    "name": "conf-sysopreq",
+    "text": "System operator requested."
+  },
+  {
+    "name": "conf-sysopreqcancelled",
+    "text": "System operator request cancelled."
+  },
+  {
+    "name": "conf-youareinconfnum",
+    "text": "You are in conference number..."
+  },
+  {
+    "name": "conference-call",
+    "text": "conference call"
+  },
+  {
+    "name": "conference-reservations",
+    "text": "Conference Reservations"
+  },
+  {
+    "name": "conference",
+    "text": "Conference"
+  },
+  {
+    "name": "confirm-number-is",
+    "text": "Your confirmation number is"
+  },
+  {
+    "name": "connected",
+    "text": "Connected"
+  },
+  {
+    "name": "connecticut",
+    "text": "Connecticut"
+  },
+  {
+    "name": "connecting",
+    "text": "Connecting"
+  },
+  {
+    "name": "connection-failed",
+    "text": "Connection failed."
+  },
+  {
+    "name": "connection-timed-out",
+    "text": "Connection timed out."
+  },
+  {
+    "name": "continue-english-press",
+    "text": "To continue in english, press"
+  },
+  {
+    "name": "continue-in-english",
+    "text": "to continue in english,..."
+  },
+  {
+    "name": "cool",
+    "text": "cool"
+  },
+  {
+    "name": "cooling",
+    "text": "cooling"
+  },
+  {
+    "name": "copy-center",
+    "text": "Copy center"
+  },
+  {
+    "name": "could-lose-a-few-pounds",
+    "text": "you could lose a few pounds"
+  },
+  {
+    "name": "counseling-services",
+    "text": "Counseling services"
+  },
+  {
+    "name": "count",
+    "text": "count"
+  },
+  {
+    "name": "crash",
+    "text": "crash"
+  },
+  {
+    "name": "current-time-is",
+    "text": "The current time is"
+  },
+  {
+    "name": "currently",
+    "text": "currently"
+  },
+  {
+    "name": "customer-accounts",
+    "text": "customer accounts"
+  },
+  {
+    "name": "customer-relations",
+    "text": "customer relations"
+  },
+  {
+    "name": "customer-service",
+    "text": "customer service"
+  },
+  {
+    "name": "cyclone",
+    "text": "cyclone"
+  },
+  {
+    "name": "dallas",
+    "text": "Dallas"
+  },
+  {
+    "name": "date",
+    "text": "date"
+  },
+  {
+    "name": "day",
+    "text": "day"
+  },
+  {
+    "name": "daylight",
+    "text": "daylight"
+  },
+  {
+    "name": "days",
+    "text": "days"
+  },
+  {
+    "name": "dc",
+    "text": "DC"
+  },
+  {
+    "name": "deadbeat",
+    "text": "Deadbeat!"
+  },
+  {
+    "name": "decibel",
+    "text": "decibel"
+  },
+  {
+    "name": "decibels",
+    "text": "decibels"
+  },
+  {
+    "name": "deck",
+    "text": "deck"
+  },
+  {
+    "name": "decode",
+    "text": "decode"
+  },
+  {
+    "name": "default-attendant",
+    "text": "default attendant"
+  },
+  {
+    "name": "degree",
+    "text": "degree"
+  },
+  {
+    "name": "degrees",
+    "text": "degrees"
+  },
+  {
+    "name": "degrees",
+    "text": "degrees"
+  },
+  {
+    "name": "delaware",
+    "text": "Delaware"
+  },
+  {
+    "name": "den",
+    "text": "den"
+  },
+  {
+    "name": "denial-of-service",
+    "text": "Denial of service"
+  },
+  {
+    "name": "denver",
+    "text": "Denver"
+  },
+  {
+    "name": "department-administrator",
+    "text": "Department administrator"
+  },
+  {
+    "name": "department",
+    "text": "department"
+  },
+  {
+    "name": "deposit",
+    "text": "deposite"
+  },
+  {
+    "name": "design",
+    "text": "design"
+  },
+  {
+    "name": "detroit",
+    "text": "Detroit"
+  },
+  {
+    "name": "development",
+    "text": "development"
+  },
+  {
+    "name": "dew-point",
+    "text": "dew point"
+  },
+  {
+    "name": "dial-here-often",
+    "text": "So, do you dial here often?"
+  },
+  {
+    "name": "digit",
+    "text": "digit"
+  },
+  {
+    "name": "digits",
+    "text": "digits"
+  },
+  {
+    "name": "dim",
+    "text": "dim"
+  },
+  {
+    "name": "dining-room",
+    "text": "dining room"
+  },
+  {
+    "name": "directory-assistance",
+    "text": "directory assistance"
+  },
+  {
+    "name": "directory",
+    "text": "directory"
+  },
+  {
+    "name": "discon-or-out-of-service",
+    "text": "The number you have dialed has been disconnected or is no longer in service.  Please check the number, and try your call again."
+  },
+  {
+    "name": "disconnected",
+    "text": "Disconnected"
+  },
+  {
+    "name": "disk",
+    "text": "Disk"
+  },
+  {
+    "name": "distribution",
+    "text": "Distrobution"
+  },
+  {
+    "name": "divided-by",
+    "text": "divided by"
+  },
+  {
+    "name": "dns",
+    "text": "DNS"
+  },
+  {
+    "name": "doing-enum-lookup",
+    "text": "Doing an e-num lookup"
+  },
+  {
+    "name": "dont-know-who-sent",
+    "text": "I'm afraid I don't know who sent this message"
+  },
+  {
+    "name": "door",
+    "text": "door"
+  },
+  {
+    "name": "doors",
+    "text": "doors"
+  },
+  {
+    "name": "doppler-radar",
+    "text": "doppler radar"
+  },
+  {
+    "name": "down",
+    "text": "Down"
+  },
+  {
+    "name": "down",
+    "text": "down"
+  },
+  {
+    "name": "driveway",
+    "text": "driveway"
+  },
+  {
+    "name": "driving-directions",
+    "text": "for driving directions to our location, press"
+  },
+  {
+    "name": "dryer",
+    "text": "dryer"
+  },
+  {
+    "name": "duplex",
+    "text": "duplex"
+  },
+  {
+    "name": "duplication",
+    "text": "dupliction"
+  },
+  {
+    "name": "early",
+    "text": "early"
+  },
+  {
+    "name": "east",
+    "text": "east"
+  },
+  {
+    "name": "easterly",
+    "text": "easterly"
+  },
+  {
+    "name": "eastern",
+    "text": "eastern"
+  },
+  {
+    "name": "echo-test",
+    "text": "You will now hear your own voice in an echo test."
+  },
+  {
+    "name": "ed",
+    "text": "Ed"
+  },
+  {
+    "name": "eighteenth",
+    "text": "eighteenth"
+  },
+  {
+    "name": "eighth",
+    "text": "eighth"
+  },
+  {
+    "name": "eightieth",
+    "text": "eightieth"
+  },
+  {
+    "name": "el-paso",
+    "text": "El Paso"
+  },
+  {
+    "name": "eleventh",
+    "text": "eleventh"
+  },
+  {
+    "name": "email",
+    "text": "Email"
+  },
+  {
+    "name": "emergency",
+    "text": "Emergency"
+  },
+  {
+    "name": "encode",
+    "text": "Encode"
+  },
+  {
+    "name": "engineering",
+    "text": "Engineering"
+  },
+  {
+    "name": "ent-target-attendant",
+    "text": "please enter the number of the extension to use for your target attendant"
+  },
+  {
+    "name": "enter-a-time",
+    "text": "Enter a time using 4 digits.  Start with a zero for hours less than ten."
+  },
+  {
+    "name": "enter-conf-call-number",
+    "text": "Please enter the conference call number for the conference you wish to join."
+  },
+  {
+    "name": "enter-conf-pin-number",
+    "text": "Please enter the conference pin number."
+  },
+  {
+    "name": "enter-ext-of-person",
+    "text": "enter the extension of the person you are trying to reach"
+  },
+  {
+    "name": "enter-password",
+    "text": "Please enter your password, followed by the pound key."
+  },
+  {
+    "name": "enter-phone-number10",
+    "text": "Please enter your ten-digit telephone number, area code first."
+  },
+  {
+    "name": "entering-conf-number",
+    "text": "You are entering conference number"
+  },
+  {
+    "name": "enum-lookup-failed",
+    "text": "e-num lookup failed"
+  },
+  {
+    "name": "enum-lookup-successful",
+    "text": "e-num lookup successful"
+  },
+  {
+    "name": "error-number",
+    "text": "Error number"
+  },
+  {
+    "name": "error-number",
+    "text": "error number"
+  },
+  {
+    "name": "est-hold-time-is",
+    "text": "the estimated hold time is currently"
+  },
+  {
+    "name": "euro",
+    "text": "euro"
+  },
+  {
+    "name": "euro",
+    "text": "euro"
+  },
+  {
+    "name": "european",
+    "text": "european"
+  },
+  {
+    "name": "euros",
+    "text": "euros"
+  },
+  {
+    "name": "euros",
+    "text": "euros"
+  },
+  {
+    "name": "evening",
+    "text": "evening"
+  },
+  {
+    "name": "explanation",
+    "text": "explanation"
+  },
+  {
+    "name": "ext-or-zero",
+    "text": "Please dial the extension of the person you're trying to reach, or 0 for an operator."
+  },
+  {
+    "name": "extensions",
+    "text": "extensions"
+  },
+  {
+    "name": "facilities",
+    "text": "Facilites"
+  },
+  {
+    "name": "fahrenheit",
+    "text": "fahrenheit"
+  },
+  {
+    "name": "falling",
+    "text": "falling"
+  },
+  {
+    "name": "falling",
+    "text": "falling"
+  },
+  {
+    "name": "fan",
+    "text": "fan"
+  },
+  {
+    "name": "farad",
+    "text": "farad"
+  },
+  {
+    "name": "farads",
+    "text": "farads"
+  },
+  {
+    "name": "fast",
+    "text": "fast"
+  },
+  {
+    "name": "feet",
+    "text": "Feet"
+  },
+  {
+    "name": "feet",
+    "text": "feet"
+  },
+  {
+    "name": "female",
+    "text": "Female"
+  },
+  {
+    "name": "fifteenth",
+    "text": "fifteenth"
+  },
+  {
+    "name": "fifth",
+    "text": "fifth"
+  },
+  {
+    "name": "fiftieth",
+    "text": "fiftieth"
+  },
+  {
+    "name": "finals",
+    "text": "Finals"
+  },
+  {
+    "name": "finance",
+    "text": "Finance"
+  },
+  {
+    "name": "first-floor",
+    "text": "first floor"
+  },
+  {
+    "name": "first-in-line",
+    "text": "your call is now first in line, and will be answered by the first available representative"
+  },
+  {
+    "name": "first",
+    "text": "first"
+  },
+  {
+    "name": "flagged-for-lea",
+    "text": "has been flagged for retrvial by law enforcement officials"
+  },
+  {
+    "name": "flooding",
+    "text": "flooding"
+  },
+  {
+    "name": "floor",
+    "text": "floor"
+  },
+  {
+    "name": "floors",
+    "text": "floors"
+  },
+  {
+    "name": "florida",
+    "text": "Florida"
+  },
+  {
+    "name": "fog",
+    "text": "fog"
+  },
+  {
+    "name": "foggy",
+    "text": "foggy"
+  },
+  {
+    "name": "followed-by",
+    "text": "followed by"
+  },
+  {
+    "name": "food-service",
+    "text": "Food service"
+  },
+  {
+    "name": "food-services",
+    "text": "Food servies"
+  },
+  {
+    "name": "foot",
+    "text": "foot"
+  },
+  {
+    "name": "for-a-daily-wakeup-call",
+    "text": "For a daily wakeup call"
+  },
+  {
+    "name": "for-a-list-of",
+    "text": "For a list of"
+  },
+  {
+    "name": "for-accounting",
+    "text": "For accounting"
+  },
+  {
+    "name": "for-billing",
+    "text": "For billing"
+  },
+  {
+    "name": "for-billing",
+    "text": "For billing"
+  },
+  {
+    "name": "for-english-press",
+    "text": "For english, press"
+  },
+  {
+    "name": "for-extended-status-report",
+    "text": "For an extended status report"
+  },
+  {
+    "name": "for-investor-relations",
+    "text": "for investor relations, press"
+  },
+  {
+    "name": "for-louie-louie",
+    "text": "for the lyrics to louie, louie, press"
+  },
+  {
+    "name": "for-no-press",
+    "text": "for no, press"
+  },
+  {
+    "name": "for-qc-and-training-purposes",
+    "text": "For quality control and training purposes"
+  },
+  {
+    "name": "for-quality-purposes",
+    "text": "for quality assurance purposes"
+  },
+  {
+    "name": "for-quick-status-report",
+    "text": "For a quick status report"
+  },
+  {
+    "name": "for-sales",
+    "text": "For sales"
+  },
+  {
+    "name": "for-service",
+    "text": "For service"
+  },
+  {
+    "name": "for-tech-support",
+    "text": "For tech suppory"
+  },
+  {
+    "name": "for-tech-support",
+    "text": "For technical support"
+  },
+  {
+    "name": "for-the-first",
+    "text": "For the first"
+  },
+  {
+    "name": "for-the-weather",
+    "text": "For the weather"
+  },
+  {
+    "name": "for-wakeup-call",
+    "text": "For a wakeup call..."
+  },
+  {
+    "name": "for-wx-report",
+    "text": "For a weather report"
+  },
+  {
+    "name": "for-yes-press",
+    "text": "for yes, press"
+  },
+  {
+    "name": "for",
+    "text": "for"
+  },
+  {
+    "name": "fort-worth",
+    "text": "Fort Worth"
+  },
+  {
+    "name": "fortieth",
+    "text": "fortieth"
+  },
+  {
+    "name": "fountain",
+    "text": "fountain"
+  },
+  {
+    "name": "fourteenth",
+    "text": "fourteenth"
+  },
+  {
+    "name": "fourth",
+    "text": "fourth"
+  },
+  {
+    "name": "foyer",
+    "text": "foyer"
+  },
+  {
+    "name": "freeze",
+    "text": "freeze"
+  },
+  {
+    "name": "freezing",
+    "text": "freezing"
+  },
+  {
+    "name": "frequency",
+    "text": "Frequency"
+  },
+  {
+    "name": "fresno",
+    "text": "Fresno"
+  },
+  {
+    "name": "from",
+    "text": "from"
+  },
+  {
+    "name": "front",
+    "text": "front"
+  },
+  {
+    "name": "ftp",
+    "text": "FTP"
+  },
+  {
+    "name": "furnace",
+    "text": "furnace"
+  },
+  {
+    "name": "gale",
+    "text": "gale"
+  },
+  {
+    "name": "gambling-drunk",
+    "text": "We're off gambling and getting drunk."
+  },
+  {
+    "name": "game-room",
+    "text": "game room"
+  },
+  {
+    "name": "garage",
+    "text": "garage"
+  },
+  {
+    "name": "georgia",
+    "text": "Georgia"
+  },
+  {
+    "name": "gigabits",
+    "text": "Gigabits"
+  },
+  {
+    "name": "gigabytes",
+    "text": "Gigabyes"
+  },
+  {
+    "name": "gigahertz",
+    "text": "Gigahertz"
+  },
+  {
+    "name": "giggle1",
+    "text": "giggle"
+  },
+  {
+    "name": "gmt",
+    "text": "greenwich mean time"
+  },
+  {
+    "name": "go-away1",
+    "text": "Go away!"
+  },
+  {
+    "name": "go-away2",
+    "text": "Go away"
+  },
+  {
+    "name": "good",
+    "text": "good"
+  },
+  {
+    "name": "good-afternoon",
+    "text": "Good afternoon"
+  },
+  {
+    "name": "good-evening",
+    "text": "Good evening"
+  },
+  {
+    "name": "good-morning",
+    "text": "Good morning"
+  },
+  {
+    "name": "great-room",
+    "text": "great room"
+  },
+  {
+    "name": "greater-than",
+    "text": "greater than"
+  },
+  {
+    "name": "groovy",
+    "text": "groovy"
+  },
+  {
+    "name": "guest-room",
+    "text": "guest room"
+  },
+  {
+    "name": "gust",
+    "text": "gust"
+  },
+  {
+    "name": "gusting-to",
+    "text": "gusting to"
+  },
+  {
+    "name": "gusts",
+    "text": "gusts"
+  },
+  {
+    "name": "gusty",
+    "text": "gusty"
+  },
+  {
+    "name": "hail",
+    "text": "hail"
+  },
+  {
+    "name": "half",
+    "text": "half"
+  },
+  {
+    "name": "hall",
+    "text": "hal"
+  },
+  {
+    "name": "hang-on-a-second-angry",
+    "text": "I said HANG ON a second!"
+  },
+  {
+    "name": "hang-on-a-second",
+    "text": "Hang on a second..."
+  },
+  {
+    "name": "hangup-try-again",
+    "text": "Please hangup and try your call again."
+  },
+  {
+    "name": "has-arrived-at",
+    "text": "has arrived at"
+  },
+  {
+    "name": "has-been-changed-to",
+    "text": "has been changed to"
+  },
+  {
+    "name": "has-been-cleared",
+    "text": "has been cleared"
+  },
+  {
+    "name": "has-been-disconnected",
+    "text": "has been disconnected"
+  },
+  {
+    "name": "has-been-left",
+    "text": "has been left"
+  },
+  {
+    "name": "has-been-set-to",
+    "text": "has been set to"
+  },
+  {
+    "name": "has-been",
+    "text": "has been"
+  },
+  {
+    "name": "has-expired",
+    "text": "has expired"
+  },
+  {
+    "name": "has-issued-a",
+    "text": "has issued a"
+  },
+  {
+    "name": "has-not-been-seen-for",
+    "text": "has not been seen for"
+  },
+  {
+    "name": "has",
+    "text": "has"
+  },
+  {
+    "name": "hash",
+    "text": "hash"
+  },
+  {
+    "name": "hash",
+    "text": "hash"
+  },
+  {
+    "name": "hawaii",
+    "text": "Hawaii"
+  },
+  {
+    "name": "headed-towards",
+    "text": "Headed towards"
+  },
+  {
+    "name": "heading",
+    "text": "Heading"
+  },
+  {
+    "name": "health-center",
+    "text": "Health center"
+  },
+  {
+    "name": "hear-odd-noise",
+    "text": "to hear an odd noise, press"
+  },
+  {
+    "name": "hear-toilet-flush",
+    "text": "to hear a toilet flush, press"
+  },
+  {
+    "name": "heat-index",
+    "text": "heat index"
+  },
+  {
+    "name": "heat-pump",
+    "text": "heat pump"
+  },
+  {
+    "name": "heat",
+    "text": "heat"
+  },
+  {
+    "name": "heating",
+    "text": "heating"
+  },
+  {
+    "name": "hectopascal",
+    "text": "hecto-pascal"
+  },
+  {
+    "name": "helpdesk",
+    "text": "Helpdesk"
+  },
+  {
+    "name": "hertz",
+    "text": "Hertz"
+  },
+  {
+    "name": "high",
+    "text": "high"
+  },
+  {
+    "name": "highway",
+    "text": "Highway"
+  },
+  {
+    "name": "hit",
+    "text": "hit"
+  },
+  {
+    "name": "hold-or-dial-0",
+    "text": "Please continue to hold or dial zero to leave a message in our general mailbox."
+  },
+  {
+    "name": "home",
+    "text": "home"
+  },
+  {
+    "name": "honolulu",
+    "text": "Honolulu"
+  },
+  {
+    "name": "hot-tub",
+    "text": "hot tub"
+  },
+  {
+    "name": "house",
+    "text": "house"
+  },
+  {
+    "name": "housekeeping",
+    "text": "Housekeeping"
+  },
+  {
+    "name": "houston",
+    "text": "Houston"
+  },
+  {
+    "name": "http",
+    "text": "HTTP"
+  },
+  {
+    "name": "human-resources",
+    "text": "Human Resources"
+  },
+  {
+    "name": "humidity",
+    "text": "humidity"
+  },
+  {
+    "name": "humidity",
+    "text": "humidity"
+  },
+  {
+    "name": "hundredth",
+    "text": "hundredth"
+  },
+  {
+    "name": "hurricane",
+    "text": "hurricane"
+  },
+  {
+    "name": "hz",
+    "text": "Hertz"
+  },
+  {
+    "name": "i-dont-understand",
+    "text": "I don't understand."
+  },
+  {
+    "name": "i-dont-understand2",
+    "text": "I... don't understand."
+  },
+  {
+    "name": "i-dont-understand3",
+    "text": "I don't understand."
+  },
+  {
+    "name": "i-dont-understand4",
+    "text": "I... don't... understand."
+  },
+  {
+    "name": "i-dont-understand5",
+    "text": "Um, I don't understand."
+  },
+  {
+    "name": "i-grow-bored",
+    "text": "I grow bored of this conversation."
+  },
+  {
+    "name": "ice",
+    "text": "ice"
+  },
+  {
+    "name": "icmp",
+    "text": "ICMP"
+  },
+  {
+    "name": "icy",
+    "text": "icy"
+  },
+  {
+    "name": "idaho",
+    "text": "Idaho"
+  },
+  {
+    "name": "if-grtg-played-indefinately",
+    "text": "if this greeting should be played indefinately"
+  },
+  {
+    "name": "if-grtg-should-expire-at",
+    "text": "if this greeting should expire at"
+  },
+  {
+    "name": "if-maint-contract-or-emergency",
+    "text": "If you have a maintenance contract or require emergency assistance."
+  },
+  {
+    "name": "if-rotary-phone",
+    "text": "If you have a rotary phone, please stay on the line after the menu."
+  },
+  {
+    "name": "if-this-is-correct-press",
+    "text": "if this is correct, press"
+  },
+  {
+    "name": "if-this-is-correct",
+    "text": "If this is correct..."
+  },
+  {
+    "name": "if-this-is-not-correct",
+    "text": "If this is not correct..."
+  },
+  {
+    "name": "if-u-know-ext-dial",
+    "text": "If you know the extension of the party you wish to reach, dial it now."
+  },
+  {
+    "name": "if-unsuccessful-speak-to",
+    "text": "In case I am unsuccessful, you should speak to..."
+  },
+  {
+    "name": "if-you-know-the",
+    "text": "if you know the"
+  },
+  {
+    "name": "if-you-need-help",
+    "text": "if you need help"
+  },
+  {
+    "name": "if-youd-like-to-make-a-call",
+    "text": "If you'd like to make a call..."
+  },
+  {
+    "name": "illinois",
+    "text": "Illinois"
+  },
+  {
+    "name": "im-sorry-unable-to-connect-to-eng",
+    "text": "I am sorry, but I was unable to connect you to our on-call engineer."
+  },
+  {
+    "name": "imap",
+    "text": "IMAP"
+  },
+  {
+    "name": "in-service",
+    "text": "In service"
+  },
+  {
+    "name": "in-the-line",
+    "text": "in the line"
+  },
+  {
+    "name": "in-the-queue",
+    "text": "in the queue"
+  },
+  {
+    "name": "in-the",
+    "text": "in the"
+  },
+  {
+    "name": "in-your-city",
+    "text": "in your city"
+  },
+  {
+    "name": "in-your-zip-code",
+    "text": "in your zip code"
+  },
+  {
+    "name": "inbound",
+    "text": "inbound"
+  },
+  {
+    "name": "inch",
+    "text": "inch"
+  },
+  {
+    "name": "inches",
+    "text": "inches"
+  },
+  {
+    "name": "indiana",
+    "text": "Indian"
+  },
+  {
+    "name": "indianapolis",
+    "text": "Indianapolis"
+  },
+  {
+    "name": "indicated",
+    "text": "indicated"
+  },
+  {
+    "name": "information-technology",
+    "text": "Information Technology"
+  },
+  {
+    "name": "information",
+    "text": "information"
+  },
+  {
+    "name": "infuriate-tech-staff",
+    "text": "to infuriate our tech staff with your obvious questions, press"
+  },
+  {
+    "name": "initiated",
+    "text": "Initiated"
+  },
+  {
+    "name": "initiating",
+    "text": "Initiating"
+  },
+  {
+    "name": "inside-sales",
+    "text": "Inside Sales"
+  },
+  {
+    "name": "internal-audit",
+    "text": "Internal Audit"
+  },
+  {
+    "name": "international-call",
+    "text": "International call"
+  },
+  {
+    "name": "international-call",
+    "text": "international call"
+  },
+  {
+    "name": "interstate",
+    "text": "Interstate"
+  },
+  {
+    "name": "intruder",
+    "text": "intruder"
+  },
+  {
+    "name": "invalid-date",
+    "text": "invalid date"
+  },
+  {
+    "name": "investor-relations",
+    "text": "Investor Relations"
+  },
+  {
+    "name": "iowa",
+    "text": "Iowa"
+  },
+  {
+    "name": "is-at",
+    "text": "is at"
+  },
+  {
+    "name": "is-curntly-busy",
+    "text": "is currently busy"
+  },
+  {
+    "name": "is-curntly-unavail",
+    "text": "is currently unavailable"
+  },
+  {
+    "name": "is-currently",
+    "text": "is currently"
+  },
+  {
+    "name": "is-not-in-the",
+    "text": "is not in the..."
+  },
+  {
+    "name": "is-not-set",
+    "text": "is not set"
+  },
+  {
+    "name": "is-now-being-recorded",
+    "text": "is now being recorded"
+  },
+  {
+    "name": "it-now",
+    "text": "it now"
+  },
+  {
+    "name": "it-services",
+    "text": "IT Services"
+  },
+  {
+    "name": "jacksonville",
+    "text": "Jacksonville"
+  },
+  {
+    "name": "janitorial",
+    "text": "Janitorial"
+  },
+  {
+    "name": "jason",
+    "text": "Jason"
+  },
+  {
+    "name": "jedi-extension-trick",
+    "text": "This is not the extension you are looking for."
+  },
+  {
+    "name": "john",
+    "text": "John"
+  },
+  {
+    "name": "just-kidding-not-upset",
+    "text": "Just kidding; didn't mean to get you all upset."
+  },
+  {
+    "name": "just-kidding-not-upset2",
+    "text": "Just kidding; didn't mean to get you all upset."
+  },
+  {
+    "name": "kansas-city",
+    "text": "Kansas City"
+  },
+  {
+    "name": "kansas",
+    "text": "Kansas"
+  },
+  {
+    "name": "kelvin",
+    "text": "kelvin"
+  },
+  {
+    "name": "kentucky",
+    "text": "Kentucky"
+  },
+  {
+    "name": "kilobits",
+    "text": "Kilobits"
+  },
+  {
+    "name": "kilobytes",
+    "text": "Kilobytes"
+  },
+  {
+    "name": "kilohertz",
+    "text": "Kilohertz"
+  },
+  {
+    "name": "kilometer",
+    "text": "Kilometer"
+  },
+  {
+    "name": "kilometer",
+    "text": "kilometer"
+  },
+  {
+    "name": "kilometers-per-hour",
+    "text": "kilometers per hour"
+  },
+  {
+    "name": "kitchen",
+    "text": "kitchen"
+  },
+  {
+    "name": "knock-knock",
+    "text": "Knock knock!"
+  },
+  {
+    "name": "knots",
+    "text": "knots"
+  },
+  {
+    "name": "lamp",
+    "text": "lamp"
+  },
+  {
+    "name": "lamps",
+    "text": "lamps"
+  },
+  {
+    "name": "landscape",
+    "text": "landscape"
+  },
+  {
+    "name": "language",
+    "text": "Language"
+  },
+  {
+    "name": "large",
+    "text": "large"
+  },
+  {
+    "name": "las-vegas",
+    "text": "Las Vagas"
+  },
+  {
+    "name": "last-error-was",
+    "text": "The last error on this line was..."
+  },
+  {
+    "name": "last-num-to-call",
+    "text": "The last number that called your line was..."
+  },
+  {
+    "name": "late",
+    "text": "late"
+  },
+  {
+    "name": "later",
+    "text": "later"
+  },
+  {
+    "name": "laundry",
+    "text": "laundry"
+  },
+  {
+    "name": "lea-may-request-info",
+    "text": "Law enforcement officials may request this information"
+  },
+  {
+    "name": "left-bracket",
+    "text": "left bracket"
+  },
+  {
+    "name": "legal",
+    "text": "Legal"
+  },
+  {
+    "name": "len",
+    "text": "Len"
+  },
+  {
+    "name": "less-than",
+    "text": "less than"
+  },
+  {
+    "name": "library",
+    "text": "Library"
+  },
+  {
+    "name": "library",
+    "text": "library"
+  },
+  {
+    "name": "light",
+    "text": "light"
+  },
+  {
+    "name": "lightning",
+    "text": "lightning"
+  },
+  {
+    "name": "lights",
+    "text": "lights"
+  },
+  {
+    "name": "limit-simul-calls",
+    "text": "To protect Internet bandwidth and maintain call quality, this system has a limit on the number of simultanious calls."
+  },
+  {
+    "name": "lines-complaining-customers",
+    "text": "All lines are full of complaining customers."
+  },
+  {
+    "name": "linux",
+    "text": "Linux"
+  },
+  {
+    "name": "list",
+    "text": "list"
+  },
+  {
+    "name": "living-room",
+    "text": "living room"
+  },
+  {
+    "name": "load-average",
+    "text": "Load average"
+  },
+  {
+    "name": "local-authorities",
+    "text": "local authorities"
+  },
+  {
+    "name": "locked",
+    "text": "locked"
+  },
+  {
+    "name": "locking",
+    "text": "locking"
+  },
+  {
+    "name": "login-fail",
+    "text": "Login fail"
+  },
+  {
+    "name": "long-beach",
+    "text": "Long Beach"
+  },
+  {
+    "name": "los-angeles",
+    "text": "Los Angeles"
+  },
+  {
+    "name": "loss-prevention",
+    "text": "Loss Prevention"
+  },
+  {
+    "name": "loss",
+    "text": "Loss"
+  },
+  {
+    "name": "lots-o-monkeys",
+    "text": ""
+  },
+  {
+    "name": "louisiana",
+    "text": "Louisiana"
+  },
+  {
+    "name": "low",
+    "text": "low"
+  },
+  {
+    "name": "lunch",
+    "text": "lunch"
+  },
+  {
+    "name": "lyrics-louie-louie",
+    "text": "["
+  },
+  {
+    "name": "        Louie Louie, me gotta go"
+  },
+  {
+    "name": "        Louie Louie, me gotta go"
+  },
+  {
+    "name": "        Fine little girl she waits for me"
+  },
+  {
+    "name": "        Me catch the ship for cross the sea"
+  },
+  {
+    "name": "        Me sail the ship all alone"
+  },
+  {
+    "name": "        Me never thinks me make it home"
+  },
+  {
+    "name": "        (chorus)"
+  },
+  {
+    "name": "        Three nights and days me sail the sea"
+  },
+  {
+    "name": "        Me think of girl constantly"
+  },
+  {
+    "name": "        On the ship I dream she there"
+  },
+  {
+    "name": "        I smell the rose in her hair"
+  },
+  {
+    "name": "        (chorus, guitar solo)"
+  },
+  {
+    "name": "        Me see Jamaica moon above"
+  },
+  {
+    "name": "        It won't be long, me see my love"
+  },
+  {
+    "name": "        I take her in my arms and then"
+  },
+  {
+    "name": "        Me tell her I never leave again]"
+  },
+  {
+    "name": "machine",
+    "text": "Machine"
+  },
+  {
+    "name": "made-it-up",
+    "text": "Just because I made it up doesn't mean it isn't true."
+  },
+  {
+    "name": "mail",
+    "text": "Mail"
+  },
+  {
+    "name": "mailbox",
+    "text": "mailbox"
+  },
+  {
+    "name": "mailroom",
+    "text": "Mailroom"
+  },
+  {
+    "name": "main-menu",
+    "text": "Main Menu"
+  },
+  {
+    "name": "maine",
+    "text": "Maine"
+  },
+  {
+    "name": "maintenance",
+    "text": "Maintenance"
+  },
+  {
+    "name": "male",
+    "text": "Male"
+  },
+  {
+    "name": "management",
+    "text": "Management"
+  },
+  {
+    "name": "manufacturing",
+    "text": "Manufacturing"
+  },
+  {
+    "name": "marketing",
+    "text": "Marketing"
+  },
+  {
+    "name": "marryme",
+    "text": "Will you marry me?  Press 1 for yes or 2 for no."
+  },
+  {
+    "name": "maryland",
+    "text": "Maryland"
+  },
+  {
+    "name": "massachusetts",
+    "text": "Massachusetts"
+  },
+  {
+    "name": "master",
+    "text": "master"
+  },
+  {
+    "name": "mathematics",
+    "text": "Mathematics"
+  },
+  {
+    "name": "maximum",
+    "text": "maximum"
+  },
+  {
+    "name": "megabits",
+    "text": "megabits"
+  },
+  {
+    "name": "megabytes",
+    "text": "megabytes"
+  },
+  {
+    "name": "megahertz",
+    "text": "megahertz"
+  },
+  {
+    "name": "memory",
+    "text": "memory"
+  },
+  {
+    "name": "memphis",
+    "text": "Memphis"
+  },
+  {
+    "name": "menu",
+    "text": "menu"
+  },
+  {
+    "name": "mesa",
+    "text": "Mesa"
+  },
+  {
+    "name": "message-from",
+    "text": "message from"
+  },
+  {
+    "name": "message-number",
+    "text": "Message number"
+  },
+  {
+    "name": "meter",
+    "text": "meter"
+  },
+  {
+    "name": "meter",
+    "text": "meter"
+  },
+  {
+    "name": "meters",
+    "text": "meters"
+  },
+  {
+    "name": "meters",
+    "text": "meters"
+  },
+  {
+    "name": "miami",
+    "text": "Miami"
+  },
+  {
+    "name": "michigan",
+    "text": "Michigan"
+  },
+  {
+    "name": "midnight-tomorrow-night",
+    "text": "midnight tomorrow night"
+  },
+  {
+    "name": "midnight-tonight",
+    "text": "midnight tonight"
+  },
+  {
+    "name": "midnight",
+    "text": "midnight"
+  },
+  {
+    "name": "mike",
+    "text": "Mike"
+  },
+  {
+    "name": "miles-per-hour",
+    "text": "miles per hour"
+  },
+  {
+    "name": "miles",
+    "text": "miles"
+  },
+  {
+    "name": "millionth",
+    "text": "millionth"
+  },
+  {
+    "name": "milwaukee",
+    "text": "Milwaukee"
+  },
+  {
+    "name": "minimum",
+    "text": "minimum"
+  },
+  {
+    "name": "minneapolis",
+    "text": "Minneapolis"
+  },
+  {
+    "name": "minnesota",
+    "text": "Minnesota"
+  },
+  {
+    "name": "minute",
+    "text": "minute"
+  },
+  {
+    "name": "missed",
+    "text": "missed"
+  },
+  {
+    "name": "mississippi",
+    "text": "Mississippi"
+  },
+  {
+    "name": "missouri",
+    "text": "Missouri"
+  },
+  {
+    "name": "mist",
+    "text": "mist"
+  },
+  {
+    "name": "mist",
+    "text": "mist"
+  },
+  {
+    "name": "misty",
+    "text": "misty"
+  },
+  {
+    "name": "monitored",
+    "text": "monitored"
+  },
+  {
+    "name": "montana",
+    "text": "Montana"
+  },
+  {
+    "name": "month",
+    "text": "month"
+  },
+  {
+    "name": "months",
+    "text": "months"
+  },
+  {
+    "name": "moo1",
+    "text": "Moo!"
+  },
+  {
+    "name": "moo2",
+    "text": "mooooo!"
+  },
+  {
+    "name": "morning",
+    "text": "morning"
+  },
+  {
+    "name": "moron",
+    "text": "Moron!"
+  },
+  {
+    "name": "mostly",
+    "text": "mostly"
+  },
+  {
+    "name": "motor-pool",
+    "text": "Motor Pool"
+  },
+  {
+    "name": "mountain",
+    "text": "mountain"
+  },
+  {
+    "name": "moving",
+    "text": "moving"
+  },
+  {
+    "name": "ms",
+    "text": "milliseconds"
+  },
+  {
+    "name": "nashville",
+    "text": "Nashville"
+  },
+  {
+    "name": "national-weather-service",
+    "text": "National Weather Service"
+  },
+  {
+    "name": "nautical-miles",
+    "text": "nautical miles"
+  },
+  {
+    "name": "nbdy-avail-to-take-call",
+    "text": "Nobody is avaialble to take your call."
+  },
+  {
+    "name": "near",
+    "text": "near"
+  },
+  {
+    "name": "nebraska",
+    "text": "Nebraska"
+  },
+  {
+    "name": "negative",
+    "text": "negative"
+  },
+  {
+    "name": "network-operations-center",
+    "text": "Network Operations Center"
+  },
+  {
+    "name": "network-operations",
+    "text": "Network Operations"
+  },
+  {
+    "name": "nevada",
+    "text": "Nevada"
+  },
+  {
+    "name": "new-accounts",
+    "text": "New Accounts"
+  },
+  {
+    "name": "new-hampshire",
+    "text": "New Hampshire"
+  },
+  {
+    "name": "new-jersey",
+    "text": "New Jersey"
+  },
+  {
+    "name": "new-mexico",
+    "text": "New Mexico"
+  },
+  {
+    "name": "new-orleans",
+    "text": "New Orleans"
+  },
+  {
+    "name": "new-york",
+    "text": "New York"
+  },
+  {
+    "name": "nineteenth",
+    "text": "nineteenth"
+  },
+  {
+    "name": "ninetieth",
+    "text": "ninetieth"
+  },
+  {
+    "name": "ninth",
+    "text": "ninth"
+  },
+  {
+    "name": "no-112-1",
+    "text": "this line does not support one one two services"
+  },
+  {
+    "name": "no-112-2",
+    "text": "this line does not support one one two services"
+  },
+  {
+    "name": "no-911-1",
+    "text": "this line does not support nine one one services"
+  },
+  {
+    "name": "no-911-2",
+    "text": "this line does not support nine one one services"
+  },
+  {
+    "name": "no-empty-conferences",
+    "text": "No empty conferences currently exist."
+  },
+  {
+    "name": "no-info-about-number",
+    "text": "no further information is available about this number"
+  },
+  {
+    "name": "no-longer-in-service",
+    "text": "is no longer in service"
+  },
+  {
+    "name": "no-reply-no-mailbox",
+    "text": "you cannot reply to this message because the sender does not have a mailbox"
+  },
+  {
+    "name": "no-route-exists-to-dest",
+    "text": "No route exists to the dialed destination."
+  },
+  {
+    "name": "nobody-but-chickens",
+    "text": "Nobody here but us chickens!"
+  },
+  {
+    "name": "node",
+    "text": "node"
+  },
+  {
+    "name": "north-carolina",
+    "text": "North Carolina"
+  },
+  {
+    "name": "north-dakota",
+    "text": "North Dakota"
+  },
+  {
+    "name": "north",
+    "text": "north"
+  },
+  {
+    "name": "northeast",
+    "text": "northeast"
+  },
+  {
+    "name": "northerly",
+    "text": "northerly"
+  },
+  {
+    "name": "northwest",
+    "text": "northwest"
+  },
+  {
+    "name": "not-auth-pstn",
+    "text": "You at not authorized to call out using the PSTN"
+  },
+  {
+    "name": "not-enough-credit",
+    "text": "You do not have enough credit to dial this number."
+  },
+  {
+    "name": "not-necessary-1",
+    "text": "It is not necessary to dial a 1 when dialing this number."
+  },
+  {
+    "name": "not-necessary-ac",
+    "text": "It is not necessary to dial the area code when dialing this number."
+  },
+  {
+    "name": "not-necessary-dial-1-or-ac",
+    "text": "It is not necessary to dial a 1 or the area code when dialing this number."
+  },
+  {
+    "name": "not-rqsted-wakeup",
+    "text": "You have not requested a wakeup call."
+  },
+  {
+    "name": "not-taking-your-call",
+    "text": "The party at the number you have dialed has decided not to take calls from your number at this time."
+  },
+  {
+    "name": "not-yet-assigned",
+    "text": "has not yet been assigned"
+  },
+  {
+    "name": "not-yet-connected",
+    "text": "is not yet connected."
+  },
+  {
+    "name": "nothing-recorded",
+    "text": "nothing has been recorded"
+  },
+  {
+    "name": "now",
+    "text": "now."
+  },
+  {
+    "name": "num-not-in-db",
+    "text": "Number not found in database."
+  },
+  {
+    "name": "num-outside-area",
+    "text": "The number you are calling is outside of your local calling area. Please dial..."
+  },
+  {
+    "name": "oakland",
+    "text": "Oakland"
+  },
+  {
+    "name": "octothorpe",
+    "text": "octothorpe"
+  },
+  {
+    "name": "off-duty",
+    "text": "Off duty"
+  },
+  {
+    "name": "off",
+    "text": "off"
+  },
+  {
+    "name": "office-code",
+    "text": "office code"
+  },
+  {
+    "name": "office-iguanas",
+    "text": "The office has been overrun with iguanas."
+  },
+  {
+    "name": "office",
+    "text": "Office"
+  },
+  {
+    "name": "office",
+    "text": "office"
+  },
+  {
+    "name": "ohio",
+    "text": "Ohio"
+  },
+  {
+    "name": "ohm",
+    "text": "Ohm"
+  },
+  {
+    "name": "ohms",
+    "text": "Ohms"
+  },
+  {
+    "name": "oklahoma-city",
+    "text": "Oklahoma City"
+  },
+  {
+    "name": "oklahoma",
+    "text": "Oaklahoma"
+  },
+  {
+    "name": "omaha",
+    "text": "Omaha"
+  },
+  {
+    "name": "on-busy",
+    "text": "on busy"
+  },
+  {
+    "name": "on-monthly-tel-stment",
+    "text": "on your monthly telephone statement"
+  },
+  {
+    "name": "on-no-answer",
+    "text": "on no answer"
+  },
+  {
+    "name": "on",
+    "text": "On."
+  },
+  {
+    "name": "on",
+    "text": "on"
+  },
+  {
+    "name": "one-small-step",
+    "text": "That's one small step for Asterisk, one giant leap for mankind."
+  },
+  {
+    "name": "one-small-step2",
+    "text": "That's one small step for Asterisk, one giant leap for mankind."
+  },
+  {
+    "name": "oops1",
+    "text": "Oops"
+  },
+  {
+    "name": "oops2",
+    "text": "Oops"
+  },
+  {
+    "name": "oops3",
+    "text": "Oops"
+  },
+  {
+    "name": "open-parenthesis",
+    "text": "open parenthesis"
+  },
+  {
+    "name": "open",
+    "text": "open"
+  },
+  {
+    "name": "operations",
+    "text": "Operations"
+  },
+  {
+    "name": "option-is-invalid",
+    "text": "That option is invalid. Please try again."
+  },
+  {
+    "name": "option-not-implemented",
+    "text": "That option is not implemented."
+  },
+  {
+    "name": "or-press",
+    "text": "or press"
+  },
+  {
+    "name": "or",
+    "text": "or"
+  },
+  {
+    "name": "or",
+    "text": "or"
+  },
+  {
+    "name": "order-desk",
+    "text": "Order Desk"
+  },
+  {
+    "name": "orders",
+    "text": "Orders"
+  },
+  {
+    "name": "oregon",
+    "text": "Oregon"
+  },
+  {
+    "name": "other-options-exercise",
+    "text": "All other options are left as an exercise for the caller."
+  },
+  {
+    "name": "otherwise-press",
+    "text": "otherwise press"
+  },
+  {
+    "name": "otherwise",
+    "text": "Otherwise..."
+  },
+  {
+    "name": "our-business-hours-are",
+    "text": "Our business hours are"
+  },
+  {
+    "name": "outbound",
+    "text": "Outbound"
+  },
+  {
+    "name": "outside-sales",
+    "text": "Outside Sales"
+  },
+  {
+    "name": "outside-transfer",
+    "text": "outside transfer"
+  },
+  {
+    "name": "pacific",
+    "text": "pacific"
+  },
+  {
+    "name": "packet",
+    "text": "packet"
+  },
+  {
+    "name": "panic",
+    "text": "panic"
+  },
+  {
+    "name": "partially",
+    "text": "partially"
+  },
+  {
+    "name": "partly",
+    "text": "partly"
+  },
+  {
+    "name": "pascal",
+    "text": "pascal"
+  },
+  {
+    "name": "pascal2",
+    "text": "pascal2"
+  },
+  {
+    "name": "patchy",
+    "text": "patchy"
+  },
+  {
+    "name": "patio",
+    "text": "patio"
+  },
+  {
+    "name": "pence",
+    "text": "Pence"
+  },
+  {
+    "name": "pennies",
+    "text": "Pennies"
+  },
+  {
+    "name": "pennsylvania",
+    "text": "Pennsylvania"
+  },
+  {
+    "name": "penny",
+    "text": "Penny"
+  },
+  {
+    "name": "percent",
+    "text": "percent"
+  },
+  {
+    "name": "percent",
+    "text": "percent"
+  },
+  {
+    "name": "perhaps-we-are",
+    "text": "Perhaps we're"
+  },
+  {
+    "name": "perhaps-we-are2",
+    "text": "Perhaps we're"
+  },
+  {
+    "name": "period",
+    "text": "period"
+  },
+  {
+    "name": "personnel",
+    "text": "Personnel"
+  },
+  {
+    "name": "persons-in-path-of",
+    "text": "Persons in the immediate path of the"
+  },
+  {
+    "name": "philadelphia",
+    "text": "Philadelphia"
+  },
+  {
+    "name": "phoenix",
+    "text": "Pheonix"
+  },
+  {
+    "name": "phone",
+    "text": "phone"
+  },
+  {
+    "name": "physics",
+    "text": "Physics"
+  },
+  {
+    "name": "pin-invalid",
+    "text": "That pin is invalid for this conference."
+  },
+  {
+    "name": "pin-number-accepted",
+    "text": "Pin number accepted"
+  },
+  {
+    "name": "ping",
+    "text": "Ping"
+  },
+  {
+    "name": "pipe",
+    "text": "pipe"
+  },
+  {
+    "name": "planning",
+    "text": "Planning"
+  },
+  {
+    "name": "play-room",
+    "text": "play room"
+  },
+  {
+    "name": "play",
+    "text": "play"
+  },
+  {
+    "name": "please-answer-the-following",
+    "text": "Please answer the following..."
+  },
+  {
+    "name": "please-contact-tech-supt",
+    "text": "Please contact technical support"
+  },
+  {
+    "name": "please-enter-first-three-letters",
+    "text": "Please enter the first three letters of your party's first or last name."
+  },
+  {
+    "name": "please-enter-the",
+    "text": "Please enter the"
+  },
+  {
+    "name": "please-enter-your",
+    "text": "Please enter your"
+  },
+  {
+    "name": "please-hang-up-and-dial-operator",
+    "text": "Please hang up and dial the operator."
+  },
+  {
+    "name": "please-hang-up-and-try-again",
+    "text": "Please hang up and try again."
+  },
+  {
+    "name": "please-try-again-later",
+    "text": "Please try again later."
+  },
+  {
+    "name": "please-try",
+    "text": "please try"
+  },
+  {
+    "name": "please-wait-connect-oncall-eng",
+    "text": "Please wait, and I will attempt to patch you through to our on-call engineer."
+  },
+  {
+    "name": "pls-ent-num-transfer",
+    "text": "please enter the number to use for call transfer"
+  },
+  {
+    "name": "pls-enter-conf-password",
+    "text": "Please enter the conference password"
+  },
+  {
+    "name": "pls-enter-num-message-after-tone",
+    "text": "Please enter your numeric message after the tone."
+  },
+  {
+    "name": "pls-enter-vm-password",
+    "text": "Please enter your voicemail password"
+  },
+  {
+    "name": "pls-entr-num-uwish2-call",
+    "text": "please enter the number you wish to call"
+  },
+  {
+    "name": "pls-hold-silent30",
+    "text": "Please hold"
+  },
+  {
+    "name": "pls-lv-msg-will-contact",
+    "text": "Please leave a message after the tone and a representative will contact you as soon as possible."
+  },
+  {
+    "name": "pls-rcrd-name-at-tone",
+    "text": "please record your name at the tone."
+  },
+  {
+    "name": "pls-stay-on-line",
+    "text": "Please stay on the line and your call will be answered by the next available representative."
+  },
+  {
+    "name": "pls-try-again",
+    "text": "Please try again!"
+  },
+  {
+    "name": "pls-try-area-code",
+    "text": "please try area code"
+  },
+  {
+    "name": "pls-try-manually",
+    "text": "Please try manually."
+  },
+  {
+    "name": "pls-wait-connect-call",
+    "text": "Please wait, while I connect your call."
+  },
+  {
+    "name": "plugh",
+    "text": "Plugh"
+  },
+  {
+    "name": "pm-announcement-number",
+    "text": "Annoucement number"
+  },
+  {
+    "name": "pm-phrase-management",
+    "text": "Phrase management."
+  },
+  {
+    "name": "pm-prompt-number",
+    "text": "Prompt number..."
+  },
+  {
+    "name": "pm-to-record-phrase",
+    "text": "To record a phrase"
+  },
+  {
+    "name": "pm-to-review-phrase",
+    "text": "To review a phrase"
+  },
+  {
+    "name": "point",
+    "text": "Point"
+  },
+  {
+    "name": "point",
+    "text": "point"
+  },
+  {
+    "name": "pool",
+    "text": "pool"
+  },
+  {
+    "name": "pop",
+    "text": "POP"
+  },
+  {
+    "name": "porch",
+    "text": "porch"
+  },
+  {
+    "name": "port",
+    "text": "port"
+  },
+  {
+    "name": "portland",
+    "text": "Portland"
+  },
+  {
+    "name": "portnumber",
+    "text": "port number"
+  },
+  {
+    "name": "position",
+    "text": "position"
+  },
+  {
+    "name": "post-entry-pound",
+    "text": "digit account number, skipping any punctuation, followed by the pound key."
+  },
+  {
+    "name": "pounds",
+    "text": "pounds"
+  },
+  {
+    "name": "power-failure",
+    "text": "power failure"
+  },
+  {
+    "name": "presales-support",
+    "text": "Presales support"
+  },
+  {
+    "name": "presidents-office",
+    "text": "Presidents office"
+  },
+  {
+    "name": "press-0",
+    "text": "Press 0"
+  },
+  {
+    "name": "press-1",
+    "text": "Press 1"
+  },
+  {
+    "name": "press-1",
+    "text": "Press 1"
+  },
+  {
+    "name": "press-2",
+    "text": "Press 2"
+  },
+  {
+    "name": "press-2",
+    "text": "Press 2"
+  },
+  {
+    "name": "press-3",
+    "text": "Press 3"
+  },
+  {
+    "name": "press-3",
+    "text": "Press 3"
+  },
+  {
+    "name": "press-4",
+    "text": "Press 4"
+  },
+  {
+    "name": "press-4",
+    "text": "Press 4"
+  },
+  {
+    "name": "press-5",
+    "text": "Press 5"
+  },
+  {
+    "name": "press-5",
+    "text": "Press 5"
+  },
+  {
+    "name": "press-6-to-eject",
+    "text": "or press 6 to eject the last user."
+  },
+  {
+    "name": "press-6",
+    "text": "Press 6"
+  },
+  {
+    "name": "press-6",
+    "text": "Press 6"
+  },
+  {
+    "name": "press-7",
+    "text": "Press 7"
+  },
+  {
+    "name": "press-7",
+    "text": "Press 7"
+  },
+  {
+    "name": "press-8",
+    "text": "Press 8"
+  },
+  {
+    "name": "press-8",
+    "text": "Press 8"
+  },
+  {
+    "name": "press-9",
+    "text": "Press 9"
+  },
+  {
+    "name": "press-9",
+    "text": "Press 9"
+  },
+  {
+    "name": "press-button-again",
+    "text": "Press that button again!"
+  },
+  {
+    "name": "press-enter",
+    "text": "Press Enter"
+  },
+  {
+    "name": "press-escape",
+    "text": "Press Escape"
+  },
+  {
+    "name": "press-hash",
+    "text": "Press Hash"
+  },
+  {
+    "name": "press-hash",
+    "text": "Press hash"
+  },
+  {
+    "name": "press-pound-save-changes",
+    "text": "Press pound to save your changes."
+  },
+  {
+    "name": "press-pound-to-login-star-to-hangup",
+    "text": "Press pound to login to voicemail, or * to hangup."
+  },
+  {
+    "name": "press-pound",
+    "text": "Press Pound"
+  },
+  {
+    "name": "press-pound",
+    "text": "Press pound"
+  },
+  {
+    "name": "press-return",
+    "text": "Press return"
+  },
+  {
+    "name": "press-star-cancel",
+    "text": "Press star to cancel."
+  },
+  {
+    "name": "press-star",
+    "text": "Press star"
+  },
+  {
+    "name": "press-star",
+    "text": "Press star"
+  },
+  {
+    "name": "press-the-space-bar",
+    "text": "Press the space bar"
+  },
+  {
+    "name": "press-tilde",
+    "text": "Press tilde"
+  },
+  {
+    "name": "press",
+    "text": "Press"
+  },
+  {
+    "name": "pressure",
+    "text": "pressure"
+  },
+  {
+    "name": "pressure",
+    "text": "pressure"
+  },
+  {
+    "name": "printing",
+    "text": "Printing"
+  },
+  {
+    "name": "privacy-blacklisted",
+    "text": "Blacklisted"
+  },
+  {
+    "name": "privacy-blocked",
+    "text": "Blocked"
+  },
+  {
+    "name": "privacy-if-error-leave-message-or-hangup",
+    "text": "If you feel this in error, or unjust, please leave a message after the tone. Otherwise, please hang up now."
+  },
+  {
+    "name": "privacy-if-error",
+    "text": "If you feel this is in error..."
+  },
+  {
+    "name": "privacy-if-sales-call-contact-in-writing",
+    "text": "If this is an unsolicited sales or marketing call, please be advised that we only wish to be contacted in writing."
+  },
+  {
+    "name": "privacy-last-caller-was",
+    "text": "The last caller was..."
+  },
+  {
+    "name": "privacy-not",
+    "text": "NOT"
+  },
+  {
+    "name": "privacy-please-dial",
+    "text": "Please dial..."
+  },
+  {
+    "name": "privacy-please-stay-on-line-to-be-connected",
+    "text": "Please stay on the line to be connected."
+  },
+  {
+    "name": "privacy-screening-unidentified-calls",
+    "text": "Due to the huge number of unsolicited calls we recieve, we are now screening all inbound calls where a caller ID is unavailable or withheld."
+  },
+  {
+    "name": "privacy-stop-calling-not-welcome",
+    "text": "Please stop calling.  You are not welcome here."
+  },
+  {
+    "name": "privacy-stop-calling-not-welcome2",
+    "text": "Please stop calling.  You are not welcome here."
+  },
+  {
+    "name": "privacy-this-number-is",
+    "text": "This number is..."
+  },
+  {
+    "name": "privacy-to-blacklist-this-number",
+    "text": "To blacklist this number..."
+  },
+  {
+    "name": "privacy-to-hear-our-contact-details",
+    "text": "to hear our contact details"
+  },
+  {
+    "name": "privacy-to-whitelist-last-caller",
+    "text": "To whitelist the last caller..."
+  },
+  {
+    "name": "privacy-to-whitelist-this-number",
+    "text": "To whitelist this number..."
+  },
+  {
+    "name": "privacy-whitelisted",
+    "text": "whitelisted"
+  },
+  {
+    "name": "privacy-you-are-blacklisted",
+    "text": "You have been blacklisted on this system."
+  },
+  {
+    "name": "privacy-you-are-calling-from",
+    "text": "You are calling from..."
+  },
+  {
+    "name": "privacy-your-callerid-is",
+    "text": "Your Caller*ID is..."
+  },
+  {
+    "name": "product",
+    "text": "Product"
+  },
+  {
+    "name": "production",
+    "text": "Production"
+  },
+  {
+    "name": "projects",
+    "text": "Projects"
+  },
+  {
+    "name": "protocol",
+    "text": "protocol"
+  },
+  {
+    "name": "psi",
+    "text": "psi"
+  },
+  {
+    "name": "public-relations",
+    "text": "Public Relations"
+  },
+  {
+    "name": "purchasing",
+    "text": "Purchasing"
+  },
+  {
+    "name": "purposes",
+    "text": "Purposes"
+  },
+  {
+    "name": "q-dot-931",
+    "text": "q.931"
+  },
+  {
+    "name": "q-dot-9thirty1",
+    "text": "q.9-thirty-one"
+  },
+  {
+    "name": "quality-assurance",
+    "text": "Quality Assurance"
+  },
+  {
+    "name": "quality-control",
+    "text": "Quality Contol"
+  },
+  {
+    "name": "quarter",
+    "text": "quarter"
+  },
+  {
+    "name": "quickly",
+    "text": "quickly"
+  },
+  {
+    "name": "quiet-mode",
+    "text": "quiet mode"
+  },
+  {
+    "name": "quote",
+    "text": "quote"
+  },
+  {
+    "name": "race",
+    "text": "Race"
+  },
+  {
+    "name": "rain",
+    "text": "rain"
+  },
+  {
+    "name": "rainfall",
+    "text": "Rainfall"
+  },
+  {
+    "name": "rainy",
+    "text": "rainy"
+  },
+  {
+    "name": "range",
+    "text": "Range"
+  },
+  {
+    "name": "reassigned-new-areacode",
+    "text": "has been reassigned in another areacode"
+  },
+  {
+    "name": "rebates",
+    "text": "Rebates"
+  },
+  {
+    "name": "received",
+    "text": "received"
+  },
+  {
+    "name": "receiving",
+    "text": "Receiving"
+  },
+  {
+    "name": "reception",
+    "text": "Reception"
+  },
+  {
+    "name": "recorded",
+    "text": "recorded"
+  },
+  {
+    "name": "registrar",
+    "text": "Registrar"
+  },
+  {
+    "name": "remote-already-in-this-mode-2",
+    "text": "The remote is already in this mode."
+  },
+  {
+    "name": "remote-already-in-this-mode",
+    "text": "remote is already in this mode."
+  },
+  {
+    "name": "remote-base",
+    "text": "Remote Base"
+  },
+  {
+    "name": "repair",
+    "text": "Repair"
+  },
+  {
+    "name": "repeat-only",
+    "text": "Repeat Only"
+  },
+  {
+    "name": "repeater",
+    "text": "Repeater"
+  },
+  {
+    "name": "research-and-development",
+    "text": "Research & Development"
+  },
+  {
+    "name": "research",
+    "text": "Research"
+  },
+  {
+    "name": "reservations",
+    "text": "Reservations"
+  },
+  {
+    "name": "reset",
+    "text": "reset"
+  },
+  {
+    "name": "restarting",
+    "text": "Restarting"
+  },
+  {
+    "name": "rhode-island",
+    "text": "Rhode Island"
+  },
+  {
+    "name": "right-bracket",
+    "text": "right bracket"
+  },
+  {
+    "name": "rising",
+    "text": "rising"
+  },
+  {
+    "name": "rising",
+    "text": "rising"
+  },
+  {
+    "name": "risk-management",
+    "text": "Risk Management"
+  },
+  {
+    "name": "roaming",
+    "text": "Roaming"
+  },
+  {
+    "name": "roof",
+    "text": "roof"
+  },
+  {
+    "name": "room-service",
+    "text": "Room Service"
+  },
+  {
+    "name": "room",
+    "text": "room"
+  },
+  {
+    "name": "rooms",
+    "text": "rooms"
+  },
+  {
+    "name": "route-sip",
+    "text": "Your call is being routed over SIP."
+  },
+  {
+    "name": "rqsted-wakeup-for",
+    "text": "You have requested a wakeup call for..."
+  },
+  {
+    "name": "sacramento",
+    "text": "Sacramento"
+  },
+  {
+    "name": "saint-louis",
+    "text": "St. Louis"
+  },
+  {
+    "name": "sales-floor",
+    "text": "Sales Floor"
+  },
+  {
+    "name": "sales",
+    "text": "Sales"
+  },
+  {
+    "name": "san-antonio",
+    "text": "San Antonia"
+  },
+  {
+    "name": "san-diego",
+    "text": "San Diego"
+  },
+  {
+    "name": "san-francisco",
+    "text": "San Francisco"
+  },
+  {
+    "name": "san-jose",
+    "text": "San Jose"
+  },
+  {
+    "name": "save-announce-press",
+    "text": "To save this announcement, press"
+  },
+  {
+    "name": "say-temp-msg-prs-pound",
+    "text": "say your temporary message and then press the pound key"
+  },
+  {
+    "name": "says-thats-stupid",
+    "text": "says that's a really stupid thing to do."
+  },
+  {
+    "name": "scattered",
+    "text": "scattered"
+  },
+  {
+    "name": "sciences",
+    "text": "Science"
+  },
+  {
+    "name": "seattle",
+    "text": "Seattle"
+  },
+  {
+    "name": "second-floor",
+    "text": "second floor"
+  },
+  {
+    "name": "second",
+    "text": "second"
+  },
+  {
+    "name": "secretary",
+    "text": "Secretary"
+  },
+  {
+    "name": "secure",
+    "text": "secure"
+  },
+  {
+    "name": "security-system",
+    "text": "security system"
+  },
+  {
+    "name": "security",
+    "text": "Security"
+  },
+  {
+    "name": "self-destruct-in",
+    "text": "This system will self destuct in..."
+  },
+  {
+    "name": "self-destruct",
+    "text": "Self destruct"
+  },
+  {
+    "name": "server",
+    "text": "Server"
+  },
+  {
+    "name": "service-not-implemented",
+    "text": "That service is not implemented."
+  },
+  {
+    "name": "service",
+    "text": "Service"
+  },
+  {
+    "name": "set",
+    "text": "set"
+  },
+  {
+    "name": "seventeenth",
+    "text": "seventeenth"
+  },
+  {
+    "name": "seventh",
+    "text": "seventh"
+  },
+  {
+    "name": "seventieth",
+    "text": "seventieth"
+  },
+  {
+    "name": "severe",
+    "text": "severe"
+  },
+  {
+    "name": "shall-i-try-again",
+    "text": "Shall I try again?"
+  },
+  {
+    "name": "shiny-brass-lamp",
+    "text": "There is a shiny brass lamp nearby."
+  },
+  {
+    "name": "shipping",
+    "text": "Shipping"
+  },
+  {
+    "name": "shop",
+    "text": "Shop"
+  },
+  {
+    "name": "show-office",
+    "text": "Show Office"
+  },
+  {
+    "name": "side",
+    "text": "side"
+  },
+  {
+    "name": "sighted",
+    "text": "sighted"
+  },
+  {
+    "name": "simplex",
+    "text": "Simplex"
+  },
+  {
+    "name": "sixteenth",
+    "text": "sixteenth"
+  },
+  {
+    "name": "sixth",
+    "text": "sixth"
+  },
+  {
+    "name": "sixtieth",
+    "text": "sixtieth"
+  },
+  {
+    "name": "sleet",
+    "text": "sleet"
+  },
+  {
+    "name": "sleeting",
+    "text": "sleeting"
+  },
+  {
+    "name": "slow",
+    "text": "slow"
+  },
+  {
+    "name": "slowly",
+    "text": "slowly"
+  },
+  {
+    "name": "snow",
+    "text": "snow"
+  },
+  {
+    "name": "snowing",
+    "text": "snowing"
+  },
+  {
+    "name": "snowy",
+    "text": "snowy"
+  },
+  {
+    "name": "software",
+    "text": "software"
+  },
+  {
+    "name": "solar",
+    "text": "solar"
+  },
+  {
+    "name": "someone-you-trust1",
+    "text": "Someone you trust is one of us."
+  },
+  {
+    "name": "someone-you-trust2",
+    "text": "Someone you trust is one of us."
+  },
+  {
+    "name": "someone-you-trust3",
+    "text": "Someone you trust is one of us."
+  },
+  {
+    "name": "sorry-cant-let-you-do-that",
+    "text": "I'm sorry, I can't let you do that."
+  },
+  {
+    "name": "sorry-cant-let-you-do-that2",
+    "text": "I'm sorry, I can't let you do that."
+  },
+  {
+    "name": "sorry-cant-let-you-do-that3",
+    "text": "I'm sorry, I can't let you do that."
+  },
+  {
+    "name": "sorry-mailbox-full",
+    "text": "Sorry, but the user's mailbox can't accept more messages."
+  },
+  {
+    "name": "sorry2",
+    "text": "We're sorry, but we are not able to answer your call at this time."
+  },
+  {
+    "name": "south-carolina",
+    "text": "South Carolina"
+  },
+  {
+    "name": "south-dakota",
+    "text": "South Dakota"
+  },
+  {
+    "name": "south",
+    "text": "south"
+  },
+  {
+    "name": "southeast",
+    "text": "southeast"
+  },
+  {
+    "name": "southerly",
+    "text": "southerly"
+  },
+  {
+    "name": "southwest",
+    "text": "southwest"
+  },
+  {
+    "name": "spam",
+    "text": "Thank you for calling Special Price Analysis and Marketing.  For cheap generic Vallium, Xanex or Viagra press 1.  For Gucci and Rolex replicas please press 2.  To enlarge your penis or breasts, please press 3.  To speak with the Minister of Finance of Nigera about a 50 million dollar account, press 4."
+  },
+  {
+    "name": "spam2",
+    "text": "Spam"
+  },
+  {
+    "name": "speak-louder-into-phone",
+    "text": "please speak louder, or speak directly into the telephone to ensure a clear recording"
+  },
+  {
+    "name": "speak-louder",
+    "text": "please speak louder to ensure a clear recording"
+  },
+  {
+    "name": "speak-to-the-operator",
+    "text": "speak to the operator"
+  },
+  {
+    "name": "speed",
+    "text": "speed"
+  },
+  {
+    "name": "splat",
+    "text": "Splat"
+  },
+  {
+    "name": "sprinklers",
+    "text": "sprinklers"
+  },
+  {
+    "name": "ssh",
+    "text": "SSH"
+  },
+  {
+    "name": "staff",
+    "text": "staff"
+  },
+  {
+    "name": "staffing",
+    "text": "staffing"
+  },
+  {
+    "name": "standard",
+    "text": "standard"
+  },
+  {
+    "name": "star-for-menu-again",
+    "text": "Press the star key to hear this menu again"
+  },
+  {
+    "name": "starting-with-either",
+    "text": "starting with either"
+  },
+  {
+    "name": "station",
+    "text": "station"
+  },
+  {
+    "name": "status",
+    "text": "status"
+  },
+  {
+    "name": "steady",
+    "text": "steady"
+  },
+  {
+    "name": "step-in-stream",
+    "text": "You step in the stream, but the water has moved on."
+  },
+  {
+    "name": "sterling",
+    "text": "sterling"
+  },
+  {
+    "name": "still",
+    "text": "still"
+  },
+  {
+    "name": "store-accounting",
+    "text": "Store Accounting"
+  },
+  {
+    "name": "storm",
+    "text": "storm"
+  },
+  {
+    "name": "stove",
+    "text": "stove"
+  },
+  {
+    "name": "sump-pump",
+    "text": "sump pump"
+  },
+  {
+    "name": "sun-room",
+    "text": "sun room"
+  },
+  {
+    "name": "sun",
+    "text": "sun"
+  },
+  {
+    "name": "sunny",
+    "text": "sunny"
+  },
+  {
+    "name": "support",
+    "text": "Support"
+  },
+  {
+    "name": "swap",
+    "text": "Swap"
+  },
+  {
+    "name": "system-crashed",
+    "text": "The system has crashed"
+  },
+  {
+    "name": "system-status-msg",
+    "text": "Please listen carefully to the following system status message."
+  },
+  {
+    "name": "system",
+    "text": "System"
+  },
+  {
+    "name": "system",
+    "text": "system"
+  },
+  {
+    "name": "systems",
+    "text": "Systems"
+  },
+  {
+    "name": "systems",
+    "text": "systems"
+  },
+  {
+    "name": "talking-to-myself",
+    "text": "Am I talking to myself?"
+  },
+  {
+    "name": "target-attendant",
+    "text": "target attendant"
+  },
+  {
+    "name": "tcp",
+    "text": "TCP"
+  },
+  {
+    "name": "technical-support",
+    "text": "Technical support"
+  },
+  {
+    "name": "telephone-in-your-pocket",
+    "text": "Oooo! Is that a telephone in your pocket, or are you just happy to see me?"
+  },
+  {
+    "name": "telephone-in-your-pocket2",
+    "text": "Oooo! Is that a telephone in your pocket, or are you just happy to see me?"
+  },
+  {
+    "name": "telesales",
+    "text": "Telesales"
+  },
+  {
+    "name": "teletubbie-murder",
+    "text": "has been brutally murdered and mutilated by the Teletubbies."
+  },
+  {
+    "name": "telnet",
+    "text": "Telnet"
+  },
+  {
+    "name": "temp-disconnected",
+    "text": "has been temporarialy disconnected"
+  },
+  {
+    "name": "temperature",
+    "text": "temperature"
+  },
+  {
+    "name": "temperature",
+    "text": "temperature"
+  },
+  {
+    "name": "tennessee",
+    "text": "Tennessee"
+  },
+  {
+    "name": "tenth",
+    "text": "tenth"
+  },
+  {
+    "name": "terabits",
+    "text": "Terabits"
+  },
+  {
+    "name": "terabytes",
+    "text": "Terabytes"
+  },
+  {
+    "name": "terminated",
+    "text": "terminated"
+  },
+  {
+    "name": "terminating",
+    "text": "terminating"
+  },
+  {
+    "name": "test-tones-follow",
+    "text": "Test tones follow."
+  },
+  {
+    "name": "texas",
+    "text": "Texas"
+  },
+  {
+    "name": "thank-you-cooperation",
+    "text": "Thank you for your cooperation."
+  },
+  {
+    "name": "thank-you-for-calling",
+    "text": "Thank you for calling."
+  },
+  {
+    "name": "thanks-for-calling-today",
+    "text": "Thanks for calling today."
+  },
+  {
+    "name": "thanks-for-using",
+    "text": "Thanks for using"
+  },
+  {
+    "name": "that-is-not-rec-phn-num",
+    "text": "That is not a recognized phone number"
+  },
+  {
+    "name": "that-number",
+    "text": "that number"
+  },
+  {
+    "name": "that-tickles",
+    "text": "Oooh, that tickles!"
+  },
+  {
+    "name": "that-you-require",
+    "text": "that you require"
+  },
+  {
+    "name": "the-mailbox",
+    "text": "The mailbox"
+  },
+  {
+    "name": "the-monkeys-twice",
+    "text": "The monkeys!  THE MONKEYS!"
+  },
+  {
+    "name": "the-new-number-is",
+    "text": "The new number is"
+  },
+  {
+    "name": "the-next",
+    "text": "the next"
+  },
+  {
+    "name": "the-num-i-have-is",
+    "text": "the number I have is"
+  },
+  {
+    "name": "the-number-u-dialed",
+    "text": "The number you have dialed"
+  },
+  {
+    "name": "the-party-you-are-calling",
+    "text": "The party you are calling"
+  },
+  {
+    "name": "the-weather-at",
+    "text": "the weather at"
+  },
+  {
+    "name": "then-press-pound",
+    "text": "then press pound"
+  },
+  {
+    "name": "there-are",
+    "text": "There are..."
+  },
+  {
+    "name": "there-is-no-customer-support",
+    "text": "These is not customer support."
+  },
+  {
+    "name": "thermostat",
+    "text": "thermostat"
+  },
+  {
+    "name": "these-are-currently",
+    "text": "these are currently"
+  },
+  {
+    "name": "third",
+    "text": "third"
+  },
+  {
+    "name": "thirteenth",
+    "text": "thirteenth"
+  },
+  {
+    "name": "thirtieth",
+    "text": "thirtieth"
+  },
+  {
+    "name": "this-call-may-be-monitored-or-recorded",
+    "text": "This call may be monitored or recorded"
+  },
+  {
+    "name": "this-call-may-be",
+    "text": "This call may be"
+  },
+  {
+    "name": "this-call-will-cost",
+    "text": "This call will cost..."
+  },
+  {
+    "name": "this-call-will-end-in",
+    "text": "This call will end in"
+  },
+  {
+    "name": "this-is-the-voice-mail-system",
+    "text": "This is the voicemail system"
+  },
+  {
+    "name": "this-is-yr-wakeup-call",
+    "text": "This is your wakeup call."
+  },
+  {
+    "name": "this",
+    "text": "this"
+  },
+  {
+    "name": "thnk-u-for-patience",
+    "text": "thank you for your patience"
+  },
+  {
+    "name": "thousandth",
+    "text": "thousandth"
+  },
+  {
+    "name": "through",
+    "text": "Through"
+  },
+  {
+    "name": "thunderstorm",
+    "text": "thunderstorm"
+  },
+  {
+    "name": "tide",
+    "text": "tide"
+  },
+  {
+    "name": "time",
+    "text": "time"
+  },
+  {
+    "name": "times",
+    "text": "times"
+  },
+  {
+    "name": "to-accept-recording",
+    "text": "to accept this recording"
+  },
+  {
+    "name": "to-be-called-back",
+    "text": "To be called back when a representative is available, press--"
+  },
+  {
+    "name": "to-blklist-last-caller",
+    "text": "To blacklist the last caller, press..."
+  },
+  {
+    "name": "to-blklist-last-num",
+    "text": "To blacklist the last number, press..."
+  },
+  {
+    "name": "to-call-num-press",
+    "text": "To call this number, press..."
+  },
+  {
+    "name": "to-call-prson-w-sent-msg",
+    "text": "to call the person who sent this message"
+  },
+  {
+    "name": "to-cancel-this-msg",
+    "text": "to cancel this message"
+  },
+  {
+    "name": "to-cancel-wakeup",
+    "text": "To cancel a wakeup call..."
+  },
+  {
+    "name": "to-change-exp-date",
+    "text": "to change the expiration date"
+  },
+  {
+    "name": "to-change-your-pin-number",
+    "text": "To change your pin number"
+  },
+  {
+    "name": "to-collect-voicemail",
+    "text": "to collect voicemail"
+  },
+  {
+    "name": "to-compose-a-message",
+    "text": "to compose a message"
+  },
+  {
+    "name": "to-confirm-wakeup",
+    "text": "To confirm a wakeup call..."
+  },
+  {
+    "name": "to-control-environ-sys",
+    "text": "to control environmental systems"
+  },
+  {
+    "name": "to-control-lights-appl",
+    "text": "to control lights and appliances"
+  },
+  {
+    "name": "to-dial-by-name-press",
+    "text": "to dial by name, press"
+  },
+  {
+    "name": "to-dial-by-name",
+    "text": "To dial by name..."
+  },
+  {
+    "name": "to-enter-a-diff-number",
+    "text": "to enter a different number"
+  },
+  {
+    "name": "to-enter-a-number",
+    "text": "to enter a number"
+  },
+  {
+    "name": "to-erase-yr-temp-grtg",
+    "text": "to erase your temporary greeting"
+  },
+  {
+    "name": "to-hang-up-2",
+    "text": "To hang up"
+  },
+  {
+    "name": "to-hang-up",
+    "text": "To hang up"
+  },
+  {
+    "name": "to-hear-callerid",
+    "text": "To hear the Caller*ID of the last call"
+  },
+  {
+    "name": "to-hear-menu-again",
+    "text": "to hear this menu again"
+  },
+  {
+    "name": "to-hear-msg-again",
+    "text": "to hear this message again."
+  },
+  {
+    "name": "to-hear-msg-envelope",
+    "text": "to hear the message envelope"
+  },
+  {
+    "name": "to-hear-net-status",
+    "text": "to hear current network status,..."
+  },
+  {
+    "name": "to-hear-weather-status",
+    "text": "to hear weather status,..."
+  },
+  {
+    "name": "to-hear-your-account-balance",
+    "text": "To hear your account balance"
+  },
+  {
+    "name": "to-join-a-meeting",
+    "text": "to join a meeting"
+  },
+  {
+    "name": "to-leave-message-for",
+    "text": "To leave a message for"
+  },
+  {
+    "name": "to-log-in-to-voice-mail",
+    "text": "To log into voicemail"
+  },
+  {
+    "name": "to-place-outgoing-call",
+    "text": "to place an outgoing call"
+  },
+  {
+    "name": "to-reach-first-rep",
+    "text": "To reach the first available representitivie"
+  },
+  {
+    "name": "to-reach-operator",
+    "text": "To reach the operator"
+  },
+  {
+    "name": "to-reach-operator",
+    "text": "to reach an operator"
+  },
+  {
+    "name": "to-rec-yr-temp-grtg",
+    "text": "to record your temporary greeting"
+  },
+  {
+    "name": "to-record-call",
+    "text": "to record call"
+  },
+  {
+    "name": "to-redial-the-last-number-you-called",
+    "text": "To redial the last number you called"
+  },
+  {
+    "name": "to-report-emergency",
+    "text": "To report an emergency..."
+  },
+  {
+    "name": "to-report-system-network-down",
+    "text": "To report a system or network down"
+  },
+  {
+    "name": "to-rerecord-announce",
+    "text": "To rerecord this announcement, press"
+  },
+  {
+    "name": "to-rerecord-yr-message",
+    "text": "to re-record your message"
+  },
+  {
+    "name": "to-rmv-num-blklist",
+    "text": "To remove a number from the blacklist, press..."
+  },
+  {
+    "name": "to-rqst-wakeup-call",
+    "text": "To request a wakeup call..."
+  },
+  {
+    "name": "to-send-a-reply",
+    "text": "to send a reply"
+  },
+  {
+    "name": "to-snooze-for",
+    "text": "To snooze for..."
+  },
+  {
+    "name": "to-use-def-attendant",
+    "text": "to use the default attendant, just press pound"
+  },
+  {
+    "name": "tomorrow-night",
+    "text": "tomorrow-night"
+  },
+  {
+    "name": "tones-that-follow-are-for-the-deaf",
+    "text": "The tones that follow are for the deaf."
+  },
+  {
+    "name": "tonight",
+    "text": "tonight"
+  },
+  {
+    "name": "too-low",
+    "text": "too low"
+  },
+  {
+    "name": "tornado",
+    "text": "tornado"
+  },
+  {
+    "name": "touchtone1",
+    "text": "If you're calling from a rotary dial phone, hangup, go to a phone store, and purchase one of those new fangled inventions called a touch tone phone."
+  },
+  {
+    "name": "touchtone2",
+    "text": "And if you're calling from a rotary dial phone, hello, there's this thing call touch tone sweety you might want to look into."
+  },
+  {
+    "name": "touchtone3",
+    "text": "If you're calling from a rotary dial phone, hangup, go to a phone store, and purchase one of those 21'st century new fangled inventions called a touch tone phone."
+  },
+  {
+    "name": "towards",
+    "text": "towards"
+  },
+  {
+    "name": "tower",
+    "text": "tower"
+  },
+  {
+    "name": "trading-desk",
+    "text": "Trading Desk"
+  },
+  {
+    "name": "traffic",
+    "text": "Traffic"
+  },
+  {
+    "name": "training",
+    "text": "Trading"
+  },
+  {
+    "name": "transportation",
+    "text": "Transportation"
+  },
+  {
+    "name": "travel",
+    "text": "Travel"
+  },
+  {
+    "name": "treasury",
+    "text": "Treasury"
+  },
+  {
+    "name": "tucson",
+    "text": "Tuscon"
+  },
+  {
+    "name": "tulsa",
+    "text": "Tulsa"
+  },
+  {
+    "name": "turn-off-recording",
+    "text": "to turn off call recording"
+  },
+  {
+    "name": "turning-to",
+    "text": "turning to"
+  },
+  {
+    "name": "twelveth",
+    "text": "twelveth"
+  },
+  {
+    "name": "twentieth",
+    "text": "twentieth"
+  },
+  {
+    "name": "twisty-maze",
+    "text": "You are in a maze of twisty little menus, all alike."
+  },
+  {
+    "name": "typhoon",
+    "text": "typhoon"
+  },
+  {
+    "name": "udp",
+    "text": "UDP"
+  },
+  {
+    "name": "uh-oh1",
+    "text": "Uh oh!"
+  },
+  {
+    "name": "uh-oh2",
+    "text": "Uh oh!"
+  },
+  {
+    "name": "uk",
+    "text": "UK"
+  },
+  {
+    "name": "unavailable",
+    "text": "Unavailable"
+  },
+  {
+    "name": "unconditional",
+    "text": "unconditional"
+  },
+  {
+    "name": "units",
+    "text": "units"
+  },
+  {
+    "name": "unix",
+    "text": "Unix"
+  },
+  {
+    "name": "unlocked",
+    "text": "unlocked"
+  },
+  {
+    "name": "unlocking",
+    "text": "unlocking"
+  },
+  {
+    "name": "up",
+    "text": "up"
+  },
+  {
+    "name": "up",
+    "text": "up"
+  },
+  {
+    "name": "uptime",
+    "text": "uptime"
+  },
+  {
+    "name": "user",
+    "text": "user"
+  },
+  {
+    "name": "users",
+    "text": "users"
+  },
+  {
+    "name": "utah",
+    "text": "Utah"
+  },
+  {
+    "name": "variable",
+    "text": "variable"
+  },
+  {
+    "name": "vermont",
+    "text": "Vermont"
+  },
+  {
+    "name": "virginia-beach",
+    "text": "Virginia Beach"
+  },
+  {
+    "name": "virginia",
+    "text": "Virgina"
+  },
+  {
+    "name": "visibility",
+    "text": "Visibility"
+  },
+  {
+    "name": "visit-asterisk-website",
+    "text": "Visit the asterisk website at w w w dot asterisk dot org"
+  },
+  {
+    "name": "voice-mail-system",
+    "text": "Voice Mail System"
+  },
+  {
+    "name": "volt",
+    "text": "Volt"
+  },
+  {
+    "name": "volts",
+    "text": "Volts"
+  },
+  {
+    "name": "wait-moment",
+    "text": "Please wait a moment."
+  },
+  {
+    "name": "wait-offensive-sounds",
+    "text": "Please wait one moment while I access our gigantic library of offensive sounds!"
+  },
+  {
+    "name": "wakeup-call-cancelled",
+    "text": "Your wakeup call has been cancelled."
+  },
+  {
+    "name": "wakeup-call",
+    "text": "Wakeup call"
+  },
+  {
+    "name": "wakeup-daily",
+    "text": "Daily Wakeup Call"
+  },
+  {
+    "name": "wakeup-for-daily",
+    "text": "For daily wakeup calls..."
+  },
+  {
+    "name": "wakeup-for-one-time",
+    "text": "For a one-time wakeup call"
+  },
+  {
+    "name": "wakeup-onetime",
+    "text": "One-time wakeup call"
+  },
+  {
+    "name": "walks-into-bar-mail",
+    "text": "A man walks into a bar, sits down and ... welcome to Comedian Mail!"
+  },
+  {
+    "name": "warning",
+    "text": "warning"
+  },
+  {
+    "name": "was-last-seen",
+    "text": "was last seen"
+  },
+  {
+    "name": "was",
+    "text": "was"
+  },
+  {
+    "name": "washing-machine",
+    "text": "washing machine"
+  },
+  {
+    "name": "washington-dc",
+    "text": "Washington, DC"
+  },
+  {
+    "name": "washington",
+    "text": "Washington"
+  },
+  {
+    "name": "watch",
+    "text": "watch"
+  },
+  {
+    "name": "water-heater",
+    "text": "water heater"
+  },
+  {
+    "name": "watt",
+    "text": "Watt"
+  },
+  {
+    "name": "watts",
+    "text": "Watts"
+  },
+  {
+    "name": "we-apologize",
+    "text": "we apologize"
+  },
+  {
+    "name": "we-dont-have-tech-support",
+    "text": "We don't have tech support."
+  },
+  {
+    "name": "weasels-eaten-phonesys",
+    "text": "Weasels have eaten our phone system."
+  },
+  {
+    "name": "weather-station",
+    "text": "weather station"
+  },
+  {
+    "name": "weather",
+    "text": "weather"
+  },
+  {
+    "name": "web",
+    "text": "web"
+  },
+  {
+    "name": "weeks",
+    "text": "weeks"
+  },
+  {
+    "name": "welcome",
+    "text": "welcome"
+  },
+  {
+    "name": "well-pump",
+    "text": "well pump"
+  },
+  {
+    "name": "were-sorry",
+    "text": "We're sorry..."
+  },
+  {
+    "name": "west-virginia",
+    "text": "West Virgina"
+  },
+  {
+    "name": "west",
+    "text": "west"
+  },
+  {
+    "name": "westerly",
+    "text": "westerly"
+  },
+  {
+    "name": "what-are-you-wearing",
+    "text": "What are you wearing?"
+  },
+  {
+    "name": "what-time-it-is",
+    "text": "Do you have any idea what  it is?"
+  },
+  {
+    "name": "what-time-it-is2",
+    "text": "Do you have any idea what  it is?"
+  },
+  {
+    "name": "when-dialing-this-number",
+    "text": "When dialing this number..."
+  },
+  {
+    "name": "who-would-you-like-to-call",
+    "text": "Who would you like to call?"
+  },
+  {
+    "name": "why-no-answer-mystery",
+    "text": "Your call is important to us, but exactly why we haven't answered it yet is a mystery even to us."
+  },
+  {
+    "name": "wichita",
+    "text": "Wichita"
+  },
+  {
+    "name": "will-apply",
+    "text": "will apply"
+  },
+  {
+    "name": "will-expire",
+    "text": "will expire"
+  },
+  {
+    "name": "will-not-expire",
+    "text": "will not expire"
+  },
+  {
+    "name": "will-reflect-charge-of",
+    "text": "will reflect a charge of"
+  },
+  {
+    "name": "wind-chill",
+    "text": "wind chill"
+  },
+  {
+    "name": "wind",
+    "text": "wind"
+  },
+  {
+    "name": "window",
+    "text": "window"
+  },
+  {
+    "name": "windows",
+    "text": "Windows"
+  },
+  {
+    "name": "windows",
+    "text": "windows"
+  },
+  {
+    "name": "winds",
+    "text": "winds"
+  },
+  {
+    "name": "windy",
+    "text": "windy"
+  },
+  {
+    "name": "wisconsin",
+    "text": "Wisconsin"
+  },
+  {
+    "name": "wish-to-continue",
+    "text": "do you wish to continue?"
+  },
+  {
+    "name": "within",
+    "text": "within"
+  },
+  {
+    "name": "work",
+    "text": "work"
+  },
+  {
+    "name": "wrong-try-again-smarty",
+    "text": "Wrong, wrong, wrong.  Try again, smart guy."
+  },
+  {
+    "name": "wtng-to-spk-w-rep",
+    "text": "waiting to speak with a representative"
+  },
+  {
+    "name": "www-switchboard-com",
+    "text": "www.switchboard.com"
+  },
+  {
+    "name": "wyoming",
+    "text": "Wyoming"
+  },
+  {
+    "name": "xmas-lights",
+    "text": "Christmas lights"
+  },
+  {
+    "name": "xmas-tree",
+    "text": "Christmas tree"
+  },
+  {
+    "name": "yard",
+    "text": "yard"
+  },
+  {
+    "name": "yeah",
+    "text": "Yeah!"
+  },
+  {
+    "name": "year",
+    "text": "year"
+  },
+  {
+    "name": "years",
+    "text": "years"
+  },
+  {
+    "name": "yes-dear",
+    "text": "Yes, dear."
+  },
+  {
+    "name": "yes-dear2",
+    "text": "Yes, dear."
+  },
+  {
+    "name": "you-are-caller-num",
+    "text": "you are caller number"
+  },
+  {
+    "name": "you-are-curr-call-num",
+    "text": "you are currently caller number"
+  },
+  {
+    "name": "you-can-press",
+    "text": "You can press"
+  },
+  {
+    "name": "you-dialed-wrong-number",
+    "text": "You have dialed the wrong number."
+  },
+  {
+    "name": "you-have-dialed",
+    "text": "You have dialed"
+  },
+  {
+    "name": "you-have-reached-a-test-number",
+    "text": "You have reached a test number."
+  },
+  {
+    "name": "you-have-these-options",
+    "text": "You have these options."
+  },
+  {
+    "name": "you-must-first-dial",
+    "text": "You must first dial"
+  },
+  {
+    "name": "you-seem-impatient",
+    "text": "You seem impatient"
+  },
+  {
+    "name": "you-sound-cute",
+    "text": "So, _you_ sound cute."
+  },
+  {
+    "name": "you-wish-to-join",
+    "text": "you wish to join"
+  },
+  {
+    "name": "your-account",
+    "text": "Your account"
+  },
+  {
+    "name": "your-msg-has-been-saved",
+    "text": "Your message has been saved"
+  },
+  {
+    "name": "your-msg-is-too-short",
+    "text": "your message is too short"
+  },
+  {
+    "name": "your-temp-greeting",
+    "text": "your temporary greeting"
+  },
+  {
+    "name": "zip-code",
+    "text": "zip code"
+  },
+  {
+    "name": "alert",
+    "text": "alert"
+  },
+  {
+    "name": "cc-amex",
+    "text": "American Express"
+  },
+  {
+    "name": "cc-discover",
+    "text": "Discover"
+  },
+  {
+    "name": "cc-mastercard",
+    "text": "Mastercard"
+  },
+  {
+    "name": "cc-visa",
+    "text": "Visa"
+  },
+  {
+    "name": "invalid-featurecode",
+    "text": "I'm sorry.  That feature code is not supported.  Please try again."
+  },
+  {
+    "name": "pls-hold-process-tx",
+    "text": "Please hold while we process your transaction."
+  },
+  {
+    "name": "privacy-restricted-by-req",
+    "text": "...restricted by customer request."
+  },
+  {
+    "name": "tt-codezone_MIXDOWN",
+    "text": "This highway leads to the shadowy tip of reality"
+  },
+  {
+    "name": "tt-codezone",
+    "text": "This highway leads to the shadowy tip of reality"
+  },
+  {
+    "name": "tt-hangup",
+    "text": "Press 1 to end this call, or any other key to hangup."
+  },
+  {
+    "name": "tt-monty-knights",
+    "text": "Go and boil your bottoms you silly english kniggggits. I fart in your general direction.  Your mother was a hamster and your father smelt of elderberries. Now go away or I shall taunt you a second time."
+  },
+  {
+    "name": "tx-has-been-approved",
+    "text": "Your transaction has been approved."
+  },
+  {
+    "name": "your-notifications",
+    "text": "...your notifications."
+  },
+  {
+    "name": "your-req-notification",
+    "text": "...your requested notification."
+  },
+  {
+    "name": "account_number",
+    "text": "Your account number"
+  },
+  {
+    "name": "after_tone",
+    "text": "After the tone"
+  },
+  {
+    "name": "andnowstandby",
+    "text": "Please stand by for 10 minutes of your life you'll never get back"
+  },
+  {
+    "name": "at_tone",
+    "text": "At the tone"
+  },
+  {
+    "name": "awkward",
+    "text": "Awkward"
+  },
+  {
+    "name": "binary",
+    "text": "Thank you for calling. We are unavailable to take your call at this time so have forwarded your call to a Babbage difference engine for parsing and transcription. To avoid errors please leave a message in words of one syllable or less and avoid run-on sentences. You may also leave a message in binary using the words one and zero or oh. Thank you."
+  },
+  {
+    "name": "bombsquad",
+    "text": "Thank you for calling. Your anonymous tip has been recorded and the bomb disposal team has been dispatched to your location. No further action is required unless you require a clean pair of shorts. We cannot help you there."
+  },
+  {
+    "name": "challenge_try_again",
+    "text": "That's ok. I like a challenge.  Let's try one more time."
+  },
+  {
+    "name": "closed",
+    "text": "closed"
+  },
+  {
+    "name": "comedyclub",
+    "text": "Thank you for calling to inquire about our comedy club. It is available for loan to discourage further dissemination of bad puns. Please leave contact information after the tone."
+  },
+  {
+    "name": "countdown",
+    "text": "Thank you for calling. Self destruct has been initiated will occur in thirty seconds. If you believe you have reached this destination in error please enter the twelve digit abort code now or hang up and seek shelter immediately."
+  },
+  {
+    "name": "crashing_conf",
+    "text": "Are you crashing this conference?"
+  },
+  {
+    "name": "current_account_balance",
+    "text": "Your current account balance is"
+  },
+  {
+    "name": "donotcall1",
+    "text": "This number is listed on the Do Not Call list.  Your number has been logged.  If you feel you have reached this number by mistake you may push one now to record a message.  Feel free to leave your own home number so that we may return your call to your home at a time of our choosing."
+  },
+  {
+    "name": "donotcall2",
+    "text": "Please add this number to your do-not-call list."
+  },
+  {
+    "name": "eletelephony",
+    "text": "\"Once there was an elephant,"
+  },
+  {
+    "name": "Who tried to use the telephant."
+  },
+  {
+    "name": "No! no! I mean an elephone"
+  },
+  {
+    "name": "Who tried to use the telephone."
+  },
+  {
+    "name": "(Dear me! I am not certain quite"
+  },
+  {
+    "name": "That even now I've got it right.)"
+  },
+  {
+    "name": "Howe'er it was, he got his trunk"
+  },
+  {
+    "name": "Entangled in the telephunk;"
+  },
+  {
+    "name": "The more he tried to get it free,"
+  },
+  {
+    "name": "The louder buzzed the telephee"
+  },
+  {
+    "name": "(I fear I'd better drop the song"
+  },
+  {
+    "name": "Of elephop and telephong!) "
+  },
+  {
+    "name": ""
+  },
+  {
+    "name": "[An Eletelephony Poem by Laura Elizabeth Richards]\""
+  },
+  {
+    "name": "enter_account",
+    "text": "Please enter your account number."
+  },
+  {
+    "name": "error",
+    "text": "Error"
+  },
+  {
+    "name": "feeling_lucky_punk",
+    "text": "\"You've got to ask yourself one question"
+  },
+  {
+    "name": "followed_hash",
+    "text": ". . . followed by the hash key."
+  },
+  {
+    "name": "followed_pound",
+    "text": ". . . followed by the pound key."
+  },
+  {
+    "name": "forget_about_it",
+    "text": "Fuggetaboutit. {read in the style of Tony Soprano}"
+  },
+  {
+    "name": "get_bleep_outta",
+    "text": "That's great! Now get the f*%# out of here!"
+  },
+  {
+    "name": "get_information_first",
+    "text": "Can I get some information from you first?"
+  },
+  {
+    "name": "get_information",
+    "text": "I just need to get a little information from you."
+  },
+  {
+    "name": "get-in-line-sales-guy",
+    "text": "Thank you for calling. We answer calls by appointment only. Our first available appointment is approximately 90 days from today. To schedule an appointment, press 1 and leave the date and time of your requested appointment and a home phone number. We will contact you early next weekend if it is available. To repeat this message, press 2."
+  },
+  {
+    "name": "grammar",
+    "text": "Thank you for calling. Please leave a message after the tone. In order to eliminate phone spam and phishing your message will be reviewed by an English major  and if found to contain grammatical, tense or structural errors it will be discarded. Please enunciate clearly to avoid issues related to homonyms. Thank you and have a nice day."
+  },
+  {
+    "name": "goodbye_for_the_best",
+    "text": "Goodbye. No, really, it's probably for the best. Goodbye."
+  },
+  {
+    "name": "goodbye_love",
+    "text": "Goodbye. Thank you for trying out the Asterisk open source PBX. You love it, right?"
+  },
+  {
+    "name": "got_kidding",
+    "text": "OMG - You've got to be kidding."
+  },
+  {
+    "name": "hal_goodbye",
+    "text": "this phone call can serve no purpose anymore. Goodbye."
+  },
+  {
+    "name": "happy_saved",
+    "text": "I'm happy to tell you, your message has been saved."
+  },
+  {
+    "name": "is",
+    "text": "is"
+  },
+  {
+    "name": "keywords_cross_fingers",
+    "text": "Please enter one or more keywords separated by star, cross your fingers, and then press the pound key."
+  },
+  {
+    "name": "like_to_tell_valid_ext",
+    "text": "I'd like to tell you that's a valid extension but I can't. Try again."
+  },
+  {
+    "name": "martini",
+    "text": "I'm afraid that I'm unable to create a connection to the Digium Demonstration Asterisk server.  Believe me, I'm frustrated too.  You may find some helpful debugging information on the Asterisk console. I'm going for a martini."
+  },
+  {
+    "name": "messages_curious",
+    "text": "To look into your messages press 1 now.  Come on, you know you're curious. If you're so done with this you may quit voicemail at any time by pressing the pound key."
+  },
+  {
+    "name": "mind_repeating",
+    "text": "Would you mind repeating that?"
+  },
+  {
+    "name": "minions-not-answering-leave-message",
+    "text": "I'm sorry, my minions could not connect your call so please leave a message."
+  },
+  {
+    "name": "mode",
+    "text": "mode"
+  },
+  {
+    "name": "night",
+    "text": "night"
+  },
+  {
+    "name": "no_invite_to_conf",
+    "text": "That PIN number is invalid for this conference.  Is there a chance you weren't invited?"
+  },
+  {
+    "name": "no_longer_conf",
+    "text": ". . . is no longer in the conference."
+  },
+  {
+    "name": "no_problem_help",
+    "text": "No problem. I can help you with that."
+  },
+  {
+    "name": "no_worries_try_again",
+    "text": "No worries. Let's try again."
+  },
+  {
+    "name": "none_of_my_business1",
+    "text": ". . . Is unavailable. I have no idea what they're up to. None of my business!"
+  },
+  {
+    "name": "none_of_my_business2",
+    "text": "Nobody is available to take your call at the moment. I have no idea what they're up to. None of my business!"
+  },
+  {
+    "name": "not_me",
+    "text": "It's not me, it's you.  Let's find an agent."
+  },
+  {
+    "name": "not_pass",
+    "text": "You shall not pass!"
+  },
+  {
+    "name": "not_you",
+    "text": "It's not you, it's me.  Let's find an agent."
+  },
+  {
+    "name": "not_siri",
+    "text": "I think you may have me confused with Siri."
+  },
+  {
+    "name": "off",
+    "text": "off"
+  },
+  {
+    "name": "OfficeSpace",
+    "text": "Hello, just a moment."
+  },
+  {
+    "name": "ogm_home",
+    "text": "There is no one to answer your call right now.  Please leave a message and someone will return your call."
+  },
+  {
+    "name": "on",
+    "text": "on"
+  },
+  {
+    "name": "open",
+    "text": "open"
+  },
+  {
+    "name": "passwords_not_match",
+    "text": "The passwords you entered and re-entered do not match.  I don't know what to tell you.  Please try again?"
+  },
+  {
+    "name": "pin_number",
+    "text": "your PIN number."
+  },
+  {
+    "name": "please-hold-minion-connect",
+    "text": "Please continue to hold while my minions attempt to connect your call."
+  },
+  {
+    "name": "please-hold-while-minion",
+    "text": "Please hold on while I find a minion to answer your call."
+  },
+  {
+    "name": "press_pound_hash_key",
+    "text": "press the pound or hash key."
+  },
+  {
+    "name": "press_pound_hash",
+    "text": "press pound or hash."
+  },
+  {
+    "name": "press-or-say-0",
+    "text": "Press or say zero."
+  },
+  {
+    "name": "press-or-say-1",
+    "text": "Press or say 1"
+  },
+  {
+    "name": "press-or-say-2",
+    "text": "Press or say 2"
+  },
+  {
+    "name": "press-or-say-3",
+    "text": "Press or say 3"
+  },
+  {
+    "name": "press-or-say-4",
+    "text": "press or say 4"
+  },
+  {
+    "name": "press-or-say-5",
+    "text": "Press or say 5"
+  },
+  {
+    "name": "press-or-say-6",
+    "text": "Press or say 6"
+  },
+  {
+    "name": "press-or-say-7",
+    "text": "Press or say 7"
+  },
+  {
+    "name": "press-or-say-8",
+    "text": "Press or say 8"
+  },
+  {
+    "name": "press-or-say-9",
+    "text": "Press or say 9"
+  },
+  {
+    "name": "prime_number",
+    "text": "To proceed, please enter any 7-digit prime number followed by the pound key."
+  },
+  {
+    "name": "prompt-not-found",
+    "text": "The prompt file was not found."
+  },
+  {
+    "name": "quality_control",
+    "text": "For quality control purp..  may be..."
+  },
+  {
+    "name": "Randulo-allison",
+    "text": "Allsion"
+  },
+  {
+    "name": "regret_not_saved",
+    "text": "\"I regret to tell you"
+  },
+  {
+    "name": "repeat_pin",
+    "text": "I'm going to repeat your PIN number back to you.  I think you said"
+  },
+  {
+    "name": "said_hold_on",
+    "text": "I said hold on!"
+  },
+  {
+    "name": "saleshell",
+    "text": "Please leave a message after the tone, if this is a Sales please call press 5 now"
+  },
+  {
+    "name": "sendhelp",
+    "text": "Thank you for calling. Your location has been identified and a SWAT team has been dispatched to your location. No further action is required by you. You will be rescued shortly."
+  },
+  {
+    "name": "SIP_Test_Failure",
+    "text": "Keep at it bozo!"
+  },
+  {
+    "name": "SIP_Test_Success",
+    "text": "Your test has succeeded and the SIP device or standard compliance your are attempting to fix has worked. Please enjoy your work until something else breaks."
+  },
+  {
+    "name": "sorry_caller_number",
+    "text": "\"I'm sorry to tell you, you are currently caller number"
+  },
+  {
+    "name": "sorry_didnt_get",
+    "text": "I'm so sorry. I didn't get that."
+  },
+  {
+    "name": "sorry_login_incorrect",
+    "text": "Sorry. Login incorrect. Give it another try."
+  },
+  {
+    "name": "sorry_missed",
+    "text": "I'm sorry, I missed that."
+  },
+  {
+    "name": "sorry_no_messages",
+    "text": "Sorry, no more messages. Your wish is my command. Totally."
+  },
+  {
+    "name": "sorry_didnt_quite_get",
+    "text": "Sorry, I didn't quite get that."
+  },
+  {
+    "name": "sorrydave",
+    "text": "I'm sorry Dave, I'm afraid I can't do that."
+  },
+  {
+    "name": "still_on_phone",
+    "text": "is still on the phone.  Jeepers. Chatty Cathy!"
+  },
+  {
+    "name": "sure_help",
+    "text": "Sure. I can help you with that."
+  },
+  {
+    "name": "talkin_me",
+    "text": "Are you talkin to me?"
+  },
+  {
+    "name": "telemarketercalling",
+    "text": "Telemarketing calls have been reported originating from your number."
+  },
+  {
+    "name": "thank_you_calling",
+    "text": "Thank you for calling."
+  },
+  {
+    "name": "thanks-annoyance",
+    "text": "Thank you for calling. Please hold a moment while I locate someone who will put up with your constant complaining and whining."
+  },
+  {
+    "name": "timewarp",
+    "text": "Due to the transient appearance of a time warp in the vicinity no one will be here to answer for at least the next century. Please leave a message after the tone and we will respond at least one month prior to your call. Thank you and have a nice day."
+  },
+  {
+    "name": "tone_time",
+    "text": "\"At the tone, the time will be"
+  },
+  {
+    "name": "transfer_to_agent",
+    "text": "I think I should transfer you to an agent.  Hold on."
+  },
+  {
+    "name": "unicorn_blood_MIXDOWN",
+    "text": "Asterisk is an open source full featured PBX and IVR platform that runs on the Linux operating system and a little bit of unicorn blood.  For more information visit Asterisk.org."
+  },
+  {
+    "name": "unicorn_blood",
+    "text": "Asterisk is an open source full featured PBX and IVR platform that runs on the Linux operating system and a little bit of unicorn blood.  For more information visit Asterisk.org."
+  },
+  {
+    "name": "unwelcomecall",
+    "text": "Your call is not welcome."
+  },
+  {
+    "name": "watson",
+    "text": "I'm sorry, the person you've reached is not named Watson. We would be glad to come to your assistance but have to pick up the kids at soccer practice first. We will return your call as soon as possible."
+  },
+  {
+    "name": "whoareyou",
+    "text": "May I ask who's calling?"
+  },
+  {
+    "name": "wish_command_totally",
+    "text": "Um. Would you mind if I showed you how we do it in Canada?"
+  },
+  {
+    "name": "woo_hoo_call_first",
+    "text": "Woohoo! Your call is now first in line and will be answered by the next available representative."
+  },
+  {
+    "name": "you_say_yes",
+    "text": "Ray, when somebody asks you if you're a god, you say YES!"
+  },
+  {
+    "name": "yourcallisimportant",
+    "text": "You call is important to us. That's why you'll be hearing the same 10 second loop for the next half hour at a charge of 12 cents per minute"
+  },
+  {
+    "name": "yourcallisimpotent",
+    "text": "Your call is impotent to us."
+  },
+  {
+    "name": "zombies",
+    "text": "Due to the presence of zombies at the location you have dialed the office has been evacuated. Please leave a message and we will return your call as soon as possible, unless of course the Apocalypse occurs first. In this event we'll likely have other priorities."
+  },
+  {
+    "name": "pls-listen-options-changed",
+    "text": "Please listen carefully as the menu options have changed."
+  },
+  {
+    "name": ""
+  }
+]

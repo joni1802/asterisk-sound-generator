@@ -1,0 +1,33 @@
+Voicemail:
+-- <PJSIP/101-00000001> Playing 'vm-password.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'vm-youhave.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'digits/1F.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'vm-Old.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'vm-message.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'vm-onefor.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'vm-Old.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'vm-messages.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'vm-opts.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'vm-helpexit.ulaw' (language 'de')
+    -- <PJSIP/101-00000001> Playing 'vm-goodbye.ulaw' (language 'de')
+
+
+Aufnahme:
+-- <PJSIP/101-0000000d> Playing 'to-listen-to-it.ulaw' (language 'de_DE')
+    -- <PJSIP/101-0000000d> Playing 'press-1.ulaw' (language 'de_DE')
+    -- <PJSIP/101-0000000d> Playing 'to-accept-recording.ulaw' (language 'de_DE')
+    -- <PJSIP/101-0000000d> Playing 'press-2.ulaw' (language 'de_DE')
+    -- <PJSIP/101-0000000d> Playing 'to-rerecord-it.ulaw' (language 'de_DE')
+    -- <PJSIP/101-0000000d> Playing 'press-star.ulaw' (language 'de_DE')
+    -- <PJSIP/101-0000000d> Playing 'language.ulaw' (language 'de_DE')
+    -- <PJSIP/101-0000000d> Playing 'press-3.ulaw' (language 'de_DE')
+
+
+<PJSIP/101-0000000e> Playing 'to-listen-to-it.ulaw' (language 'en')
+    -- <PJSIP/101-0000000e> Playing 'press-1.ulaw' (language 'en')
+    -- <PJSIP/101-0000000e> Playing 'to-accept-recording.ulaw' (language 'en')
+    -- <PJSIP/101-0000000e> Playing 'press-2.ulaw' (language 'en')
+    -- <PJSIP/101-0000000e> Playing 'to-rerecord-it.ulaw' (language 'en')
+    -- <PJSIP/101-0000000e> Playing 'press-star.ulaw' (language 'en')
+    -- <PJSIP/101-0000000e> Playing 'language.ulaw' (language 'en')
+    -- <PJSIP/101-0000000e> Playing 'press-3.ulaw' (language 'en')

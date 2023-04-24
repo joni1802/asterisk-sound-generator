@@ -1,0 +1,1416 @@
+1-for-am-2-for-pm: Press 1 for A.M, or 2 for P.M.
+1-yes-2-no: Press 1 for yes, or 2 for no.
+1: 1 sec silence
+10: 10 sec silence
+2: 2 sec silence
+3: 3 sec silence
+4: 4 sec silence
+5: 5 sec silence
+6: 6 sec silence
+7: 7 sec silence
+8: 8 sec silence
+9: 9 sec silence
+; Silence directory
+T-changed-to: [T] has been changed to [Extension Y]
+T-is-not-available: [T] is not available 
+T-to-disable-ancmnt: [T] to disable this announcement
+T-to-enable-ancmnt: [T] to enable this announcement
+T-to-hear-cur-ancmnt: [T] to hear the current announcement
+T-to-leave-msg: [T] to leave a message
+T-to-reach-main-office: [T] to reach the main office
+T-to-rec-ancmnt: [T] to rerecord this announcement
+T-to-rtrn-to-main-menu: [T] to return to the main menu
+a-charge-for-this-svc: A charge for this service
+a-collect-charge-of: A collect charge of
+a-collect-charge: A collect charge
+a-connect-charge-of: A connect charge of
+a-connect-charge: A connect charge
+abandon-all-hope: Abandon all hope, ye who dial here.
+abandons: abandons
+ac: AC
+academic-support: Academic Support
+access-code: Access code:
+access-denied: access denied
+access-granted: access granted
+accessible-through-system: accessible through this system
+account-balance-is: Account balance is
+accounting: Accounting
+accounts-payable: Accounts Payable
+accounts-receivable: Accounts Receivable
+added-to: added to
+address: address
+administration: Administration
+advised-to-seek-shelter: are advised to seek shelter immediately
+after-the-tone: after the tone
+afternoon: afternoon
+air-conditioner: air conditioner
+airport: airport
+alabama: Alabama
+alarm: alarm
+alaska: Alaska
+albuquerque: Albuquerque
+all-outgoing-lines-unavailable: All outgoing lines are currently unavailable
+all-reps-busy: All of our representatives are currently busy.
+all-your-base: All your base are belong to us.
+altitude: altitude
+amp: Amp
+ampersand: ampersand
+amps: Amps
+an-error-has-occurred: An error has occurred.
+an-error-has-occured: An error has occurred. (Symlink to 'an-error-has-occurred')
+and-area-code: and the area code...
+and-or: and/or
+and-prs-pound-whn-finished: And press pound when finished
+and: and
+another-time: another time
+approaching: approaching
+approximately: approximately
+are-you-still-there: Are you still there?(Disbelief)
+are-you-still-there2: Are you still there?(Funny)
+arizona: Arizona
+arkansas: Arkansas
+arlington: Arlington
+around: around
+astcc-account-balance-is: Your account balance is...
+astcc-account-number-invalid: Your account number is invalid
+astcc-balance-of-account-is: The balance of your account is...
+astcc-card-number-invalid: The card number you have entered is invalid.
+astcc-digit-account-number: -digit account number
+astcc-followed-by-the-hash-key: followed by the hash key.
+astcc-followed-by-the-pound-key: followed by pound.
+astcc-login12pound: Please enter your 12-digit account number, skipping any punctuation, followed by the pound key.
+astcc-please-enter-your: Please enter your...
+astcc-skipping-any-punctuation: skipping any punctuation
+asterisk-friend: Asterisk is your friend.
+at-any-time: at any time
+at-customers-request: at the customers request
+at-following-number: At the following number
+at-sign: at sign
+athletics: Athletics
+atlanta: Atlanta
+atlantic: atlantic
+attention-required: Your attention is required
+attic: attic
+auditing: Auditing
+austin: Austin
+available-options: available options
+available: Available
+avg-speed-answer: average speed of answer
+away-naughty-boy: He's currently away from his phone, the naughty boy.
+away-naughty-girl: She's currently away from her phone, the naughty girl.
+baby-sleeping-mode: baby sleeping mode
+back: back
+backslash: backslash
+bad: bad
+baltimore: Baltimore
+bar: bar
+barn: Barn
+barns: Barns
+barometer: barometer
+barometric: barometric
+basement: basement
+bathroom: bathroom
+bearing: Bearing
+beaufort: beaufort
+because-paranoid: because we're paranoid
+bedroom: bedroom
+before-the-number: before the number.
+believe-its-free: Can you believe this phone system is free?
+billing-and-collections: Billing and collections
+billing: Billing
+billionth: billionth
+bits: bits
+blue-eyed-polar-bear: Try to spend your time on hold not thinking about a blue-eyed polar bear.
+bookstore: Bookstore
+boston: Boston
+box: Box
+brian: Brian
+bright: bright
+business-development: Business Development
+busy-hangovers: We're all busy with our hangovers.
+busy-pls-hold: All our lines are currently busy.  Please hold and someone will be with you shortly.
+but: but (not emphasized, like "all but me")
+by: by
+bytes: Bytes
+cafeteria: Cafeteria
+california: California
+call-forward: Call Forward
+call-fwd-cancelled: call forward cancelled
+call-fwd-parallel: Call-Forward Parallel
+call-preempted: This call has be preempted
+call-quality-menu: Please rate the quality of the call you just made.  Use the keys one through four to rate the voice quality of the call, with one being the best quality, and four meaning that it was very difficult to understand the other party.  Press five if the call was prematurely disconnected.  Press six if the call was never completed.  Press seven if one direction of the call could not be heard.  Press eight if there were other difficulties.
+call-requres: The call you have made requires a...
+call-terminated: call terminated
+call: Call
+callerid: caller id
+calls-taken-by: calls are being taken by
+calls-waiting-for-rep: calls waiting to speak with a representative
+calls: calls
+campground-office: Campground office
+cannot-complete-network-error: Your call cannot be completed due to network error.
+cannot-complete-otherend-error: Your call cannot be completed due to an error at the receiving telephone company.
+cannot-complete-temp-error: Your call cannot be completed due to a temporary error
+card-balance-is: card balance is
+card-is-invalid: card is invalid
+card-number: card number
+carport: carport
+carried-away-by-monkeys: Nobody is available to take your call at the moment.  They have been carried away by monkeys.
+cause-code: Cause Code
+ceiling: ceiling
+celsius: celsius
+cent: Cent
+central: central
+cents-per-minute: Cents per minute
+cents: Cents
+cents: cents
+ceo-office: CEO's office
+chance-of: chance of
+changing: changing
+channel-insecure-warn: This voice path is insecure - do not discuss classified information or use project codewords.
+channel-secure: This voice path is secure.
+channel: Channel
+channel: channel
+charlotte: Charlotte
+chat-room: chat room
+chemistry: Chemistry
+chicago: Chicago
+chris: Chris
+claims: Claims
+clear: clear
+clearing: clearing
+cleveland: Cleveland
+clli: CLLI
+close-parenthesis: close parenthesis
+closet: closet
+clouds: clouds
+cloudy: cloudy
+coffee-pot: coffee pot
+collections: Collections
+colorado-springs: Colorado Springs
+colorado: Colorado
+columbus: Columbus
+comma: comma
+communications: Communications
+company-dir-411: To access our company directory, dial 411 or dial zero to leave a message in our general mailbox.
+complaint: Complaint
+compliance: Compliance
+computer-friend1: The computer is your friend.
+computer-friend2: The computer is your friend.
+conditions: conditions
+conf-1-to-list-users: Press 1 to list users currently in the conference.
+conf-2-to-kick-nonadmin: 2 to kick all non-administrator users.
+conf-3-mute-or-unmute-nonadmin: 3 to mute or unmute all non-administrator users.
+conf-4-to-record-conf: 4 to record this conference.
+conf-8-for-more-options: or 8 for more options
+conf-8-to-exit-return-to-conf: or 8 to exit this menu and return to the conference.
+conf-banned: You have been banned from this conference.
+conf-hasentered: has entered the conference
+conf-onlypersonleft: You are now the only person left in this conference.
+conf-peopleinconf: people in this conference
+conf-sysop: The sysop
+conf-sysopreq: System operator requested.
+conf-sysopreqcancelled: System operator request cancelled.
+conf-youareinconfnum: You are in conference number...
+conference-call: conference call
+conference-reservations: Conference Reservations
+conference: Conference
+confirm-number-is: Your confirmation number is
+connected: Connected
+connecticut: Connecticut
+connecting: Connecting
+connection-failed: Connection failed.
+connection-timed-out: Connection timed out.
+continue-english-press: To continue in english, press
+continue-in-english: to continue in english,...
+cool: cool
+cooling: cooling
+copy-center: Copy center
+could-lose-a-few-pounds: you could lose a few pounds
+counseling-services: Counseling services
+count: count
+crash: crash
+current-time-is: The current time is
+currently: currently
+customer-accounts: customer accounts
+customer-relations: customer relations
+customer-service: customer service
+cyclone: cyclone
+dallas: Dallas
+date: date
+day: day
+daylight: daylight
+days: days
+dc: DC
+deadbeat: Deadbeat!
+decibel: decibel
+decibels: decibels
+deck: deck
+decode: decode
+default-attendant: default attendant
+degree: degree
+degrees: degrees
+degrees: degrees
+delaware: Delaware
+den: den
+denial-of-service: Denial of service
+denver: Denver
+department-administrator: Department administrator
+department: department
+deposit: deposite
+design: design
+detroit: Detroit
+development: development
+dew-point: dew point
+dial-here-often: So, do you dial here often?
+digit: digit
+digits: digits
+dim: dim
+dining-room: dining room
+directory-assistance: directory assistance
+directory: directory
+discon-or-out-of-service: The number you have dialed has been disconnected or is no longer in service.  Please check the number, and try your call again.
+disconnected: Disconnected
+disk: Disk
+distribution: Distrobution
+divided-by: divided by
+dns: DNS
+doing-enum-lookup: Doing an e-num lookup
+dont-know-who-sent: I'm afraid I don't know who sent this message
+door: door
+doors: doors
+doppler-radar: doppler radar
+down: Down
+down: down
+driveway: driveway
+driving-directions: for driving directions to our location, press
+dryer: dryer
+duplex: duplex
+duplication: dupliction
+early: early
+east: east
+easterly: easterly
+eastern: eastern
+echo-test: You will now hear your own voice in an echo test.
+ed: Ed
+eighteenth: eighteenth
+eighth: eighth
+eightieth: eightieth
+el-paso: El Paso
+eleventh: eleventh
+email: Email
+emergency: Emergency
+encode: Encode
+engineering: Engineering
+ent-target-attendant: please enter the number of the extension to use for your target attendant
+enter-a-time: Enter a time using 4 digits.  Start with a zero for hours less than ten. 
+enter-conf-call-number: Please enter the conference call number for the conference you wish to join.
+enter-conf-pin-number: Please enter the conference pin number.
+enter-ext-of-person: enter the extension of the person you are trying to reach
+enter-password: Please enter your password, followed by the pound key.
+enter-phone-number10: Please enter your ten-digit telephone number, area code first.
+entering-conf-number: You are entering conference number
+enum-lookup-failed: e-num lookup failed
+enum-lookup-successful: e-num lookup successful
+error-number: Error number
+error-number: error number
+est-hold-time-is: the estimated hold time is currently
+euro: euro
+euro: euro
+european: european
+euros: euros
+euros: euros
+evening: evening
+explanation: explanation
+ext-or-zero: Please dial the extension of the person you're trying to reach, or 0 for an operator.
+extensions: extensions
+facilities: Facilites
+fahrenheit: fahrenheit
+falling: falling
+falling: falling
+fan: fan
+farad: farad
+farads: farads
+fast: fast
+feet: Feet
+feet: feet
+female: Female
+fifteenth: fifteenth
+fifth: fifth
+fiftieth: fiftieth
+finals: Finals
+finance: Finance
+first-floor: first floor
+first-in-line: your call is now first in line, and will be answered by the first available representative
+first: first
+flagged-for-lea: has been flagged for retrvial by law enforcement officials
+flooding: flooding
+floor: floor
+floors: floors
+florida: Florida
+fog: fog
+foggy: foggy
+followed-by: followed by
+food-service: Food service
+food-services: Food servies
+foot: foot
+for-a-daily-wakeup-call: For a daily wakeup call
+for-a-list-of: For a list of 
+for-accounting: For accounting
+for-billing: For billing
+for-billing: For billing
+for-english-press: For english, press
+for-extended-status-report: For an extended status report
+for-investor-relations: for investor relations, press 
+for-louie-louie: for the lyrics to louie, louie, press 
+for-no-press: for no, press
+for-qc-and-training-purposes: For quality control and training purposes
+for-quality-purposes: for quality assurance purposes
+for-quick-status-report: For a quick status report
+for-sales: For sales
+for-service: For service
+for-tech-support: For tech suppory
+for-tech-support: For technical support
+for-the-first: For the first
+for-the-weather: For the weather
+for-wakeup-call: For a wakeup call...
+for-wx-report: For a weather report
+for-yes-press: for yes, press
+for: for
+fort-worth: Fort Worth
+fortieth: fortieth
+fountain: fountain
+fourteenth: fourteenth
+fourth: fourth
+foyer: foyer
+freeze: freeze
+freezing: freezing
+frequency: Frequency
+fresno: Fresno
+from: from (empasized)
+front: front
+ftp: FTP
+furnace: furnace
+gale: gale
+gambling-drunk: We're off gambling and getting drunk.
+game-room: game room
+garage: garage
+georgia: Georgia
+gigabits: Gigabits
+gigabytes: Gigabyes
+gigahertz: Gigahertz
+giggle1: giggle
+gmt: greenwich mean time
+go-away1: Go away!
+go-away2: Go away (playful)
+good: good
+good-afternoon: Good afternoon
+good-evening: Good evening
+good-morning: Good morning
+great-room: great room
+greater-than: greater than
+groovy: groovy
+guest-room: guest room
+gust: gust
+gusting-to: gusting to
+gusts: gusts
+gusty: gusty
+hail: hail
+half: half
+hall: hal
+hang-on-a-second-angry: I said HANG ON a second!
+hang-on-a-second: Hang on a second...
+hangup-try-again: Please hangup and try your call again.
+has-arrived-at: has arrived at
+has-been-changed-to: has been changed to
+has-been-cleared: has been cleared
+has-been-disconnected: has been disconnected
+has-been-left: has been left
+has-been-set-to: has been set to
+has-been: has been
+has-expired: has expired
+has-issued-a: has issued a
+has-not-been-seen-for: has not been seen for
+has: has
+hash: hash
+hash: hash
+hawaii: Hawaii
+headed-towards: Headed towards
+heading: Heading
+health-center: Health center
+hear-odd-noise: to hear an odd noise, press 
+hear-toilet-flush: to hear a toilet flush, press 
+heat-index: heat index
+heat-pump: heat pump
+heat: heat
+heating: heating
+hectopascal: hecto-pascal
+helpdesk: Helpdesk
+hertz: Hertz
+high: high
+highway: Highway
+hit: hit
+hold-or-dial-0: Please continue to hold or dial zero to leave a message in our general mailbox.
+home: home
+honolulu: Honolulu
+hot-tub: hot tub
+house: house
+housekeeping: Housekeeping
+houston: Houston
+http: HTTP
+human-resources: Human Resources
+humidity: humidity
+humidity: humidity
+hundredth: hundredth
+hurricane: hurricane
+hz: Hertz (again?)
+i-dont-understand: I don't understand. (emotionless)
+i-dont-understand2: I... don't understand. (confused?)
+i-dont-understand3: (faint laugh)I don't understand.
+i-dont-understand4: I... don't... understand. (William Shatner-like)
+i-dont-understand5: Um, I don't understand. (spoken quickly)
+i-grow-bored: I grow bored of this conversation.
+ice: ice
+icmp: ICMP
+icy: icy
+idaho: Idaho
+if-grtg-played-indefinately: if this greeting should be played indefinately
+if-grtg-should-expire-at: if this greeting should expire at
+if-maint-contract-or-emergency: If you have a maintenance contract or require emergency assistance.
+if-rotary-phone: If you have a rotary phone, please stay on the line after the menu.
+if-this-is-correct-press: if this is correct, press
+if-this-is-correct: If this is correct...
+if-this-is-not-correct: If this is not correct...
+if-u-know-ext-dial: If you know the extension of the party you wish to reach, dial it now. 
+if-unsuccessful-speak-to: In case I am unsuccessful, you should speak to...
+if-you-know-the: if you know the
+if-you-need-help: if you need help
+if-youd-like-to-make-a-call: If you'd like to make a call...
+illinois: Illinois
+im-sorry-unable-to-connect-to-eng: I am sorry, but I was unable to connect you to our on-call engineer.
+imap: IMAP
+in-service: In service
+in-the-line: in the line
+in-the-queue: in the queue
+in-the: in the
+in-your-city: in your city
+in-your-zip-code: in your zip code
+inbound: inbound
+inch: inch
+inches: inches
+indiana: Indian
+indianapolis: Indianapolis
+indicated: indicated
+information-technology: Information Technology
+information: information
+infuriate-tech-staff: to infuriate our tech staff with your obvious questions, press [X]
+initiated: Initiated
+initiating: Initiating
+inside-sales: Inside Sales
+internal-audit: Internal Audit
+international-call: International call
+international-call: international call
+interstate: Interstate
+intruder: intruder
+invalid-date: invalid date
+investor-relations: Investor Relations
+iowa: Iowa
+is-at: is at
+is-curntly-busy: is currently busy
+is-curntly-unavail: is currently unavailable
+is-currently: is currently
+is-not-in-the: is not in the...
+is-not-set: is not set
+is-now-being-recorded: is now being recorded
+it-now: it now
+it-services: IT Services
+jacksonville: Jacksonville
+janitorial: Janitorial
+jason: Jason 
+jedi-extension-trick: This is not the extension you are looking for.
+john: John
+just-kidding-not-upset: Just kidding; didn't mean to get you all upset.
+just-kidding-not-upset2: Just kidding; didn't mean to get you all upset.
+kansas-city: Kansas City
+kansas: Kansas
+kelvin: kelvin
+kentucky: Kentucky
+kilobits: Kilobits
+kilobytes: Kilobytes
+kilohertz: Kilohertz
+kilometer: Kilometer
+kilometer: kilometer
+kilometers-per-hour: kilometers per hour
+kitchen: kitchen
+knock-knock: Knock knock!
+knots: knots
+lamp: lamp
+lamps: lamps
+landscape: landscape
+language: Language
+large: large
+las-vegas: Las Vagas
+last-error-was: The last error on this line was...
+last-num-to-call: The last number that called your line was...
+late: late
+later: later
+laundry: laundry
+lea-may-request-info: Law enforcement officials may request this information
+left-bracket: left bracket
+legal: Legal
+len: Len
+less-than: less than
+library: Library
+library: library
+light: light
+lightning: lightning
+lights: lights
+limit-simul-calls: To protect Internet bandwidth and maintain call quality, this system has a limit on the number of simultanious calls.
+lines-complaining-customers: All lines are full of complaining customers.
+linux: Linux
+list: list
+living-room: living room
+load-average: Load average
+local-authorities: local authorities
+locked: locked
+locking: locking
+login-fail: Login fail
+long-beach: Long Beach
+los-angeles: Los Angeles
+loss-prevention: Loss Prevention
+loss: Loss
+lots-o-monkeys: (sound effects of many angry monkeys)
+louisiana: Louisiana
+low: low
+lunch: lunch
+lyrics-louie-louie: [
+        Louie Louie, me gotta go
+        Louie Louie, me gotta go
+        Fine little girl she waits for me
+        Me catch the ship for cross the sea
+        Me sail the ship all alone
+        Me never thinks me make it home
+        (chorus)
+        Three nights and days me sail the sea
+        Me think of girl constantly
+        On the ship I dream she there
+        I smell the rose in her hair
+        (chorus, guitar solo)
+        Me see Jamaica moon above
+        It won't be long, me see my love
+        I take her in my arms and then
+        Me tell her I never leave again]
+machine: Machine
+made-it-up: Just because I made it up doesn't mean it isn't true.
+mail: Mail
+mailbox: mailbox
+mailroom: Mailroom
+main-menu: Main Menu
+maine: Maine
+maintenance: Maintenance
+male: Male
+management: Management
+manufacturing: Manufacturing
+marketing: Marketing
+marryme: Will you marry me?  Press 1 for yes or 2 for no.
+maryland: Maryland
+massachusetts: Massachusetts
+master: master
+mathematics: Mathematics
+maximum: maximum
+megabits: megabits
+megabytes: megabytes
+megahertz: megahertz
+memory: memory
+memphis: Memphis
+menu: menu
+mesa: Mesa
+message-from: message from
+message-number: Message number
+meter: meter
+meter: meter
+meters: meters
+meters: meters
+miami: Miami
+michigan: Michigan
+midnight-tomorrow-night: midnight tomorrow night
+midnight-tonight: midnight tonight
+midnight: midnight
+mike: Mike
+miles-per-hour: miles per hour
+miles: miles
+millionth: millionth
+milwaukee: Milwaukee
+minimum: minimum
+minneapolis: Minneapolis
+minnesota: Minnesota
+minute: minute
+missed: missed
+mississippi: Mississippi
+missouri: Missouri
+mist: mist
+mist: mist
+misty: misty
+monitored: monitored
+montana: Montana
+month: month
+months: months
+moo1: Moo!
+moo2: mooooo!
+morning: morning
+moron: Moron! (said by an angry Allison)
+mostly: mostly
+motor-pool: Motor Pool
+mountain: mountain
+moving: moving
+ms: milliseconds
+nashville: Nashville
+national-weather-service: National Weather Service
+nautical-miles: nautical miles
+nbdy-avail-to-take-call: Nobody is avaialble to take your call.
+near: near
+nebraska: Nebraska
+negative: negative
+network-operations-center: Network Operations Center
+network-operations: Network Operations
+nevada: Nevada
+new-accounts: New Accounts
+new-hampshire: New Hampshire
+new-jersey: New Jersey
+new-mexico: New Mexico
+new-orleans: New Orleans
+new-york: New York
+nineteenth: nineteenth
+ninetieth: ninetieth
+ninth: ninth
+no-112-1: this line does not support one one two services [quickly]
+no-112-2: this line does not support one one two services
+no-911-1: this line does not support nine one one services [quickly]
+no-911-2: this line does not support nine one one services 
+no-empty-conferences: No empty conferences currently exist.
+no-info-about-number: no further information is available about this number
+no-longer-in-service: is no longer in service
+no-reply-no-mailbox: you cannot reply to this message because the sender does not have a mailbox
+no-route-exists-to-dest: No route exists to the dialed destination.
+nobody-but-chickens: Nobody here but us chickens!
+node: node
+north-carolina: North Carolina
+north-dakota: North Dakota
+north: north
+northeast: northeast
+northerly: northerly
+northwest: northwest
+not-auth-pstn: You at not authorized to call out using the PSTN
+not-enough-credit: You do not have enough credit to dial this number.
+not-necessary-1: It is not necessary to dial a 1 when dialing this number.
+not-necessary-ac: It is not necessary to dial the area code when dialing this number.
+not-necessary-dial-1-or-ac: It is not necessary to dial a 1 or the area code when dialing this number.
+not-rqsted-wakeup: You have not requested a wakeup call.
+not-taking-your-call: The party at the number you have dialed has decided not to take calls from your number at this time.
+not-yet-assigned: has not yet been assigned
+not-yet-connected: is not yet connected.
+nothing-recorded: nothing has been recorded
+now: now.
+num-not-in-db: Number not found in database.
+num-outside-area: The number you are calling is outside of your local calling area. Please dial...
+oakland: Oakland
+octothorpe: octothorpe
+off-duty: Off duty
+off: off
+office-code: office code
+office-iguanas: The office has been overrun with iguanas.
+office: Office
+office: office
+ohio: Ohio
+ohm: Ohm
+ohms: Ohms
+oklahoma-city: Oklahoma City
+oklahoma: Oaklahoma
+omaha: Omaha
+on-busy: on busy
+on-monthly-tel-stment: on your monthly telephone statement
+on-no-answer: on no answer
+on: On.
+on: on
+one-small-step: That's one small step for Asterisk, one giant leap for mankind.
+one-small-step2: That's one small step for Asterisk, one giant leap for mankind.
+oops1: Oops
+oops2: Oops (laughy)
+oops3: Oops (long o)
+open-parenthesis: open parenthesis
+open: open
+operations: Operations
+option-is-invalid: That option is invalid. Please try again.
+option-not-implemented: That option is not implemented.
+or-press: or press
+or: or
+or: or
+order-desk: Order Desk
+orders: Orders
+oregon: Oregon
+other-options-exercise: All other options are left as an exercise for the caller.
+otherwise-press: otherwise press
+otherwise: Otherwise...
+our-business-hours-are: Our business hours are
+outbound: Outbound
+outside-sales: Outside Sales
+outside-transfer: outside transfer
+pacific: pacific
+packet: packet
+panic: panic
+partially: partially
+partly: partly
+pascal: pascal
+pascal2: pascal2
+patchy: patchy
+patio: patio
+pence: Pence
+pennies: Pennies
+pennsylvania: Pennsylvania
+penny: Penny
+percent: percent
+percent: percent
+perhaps-we-are: Perhaps we're
+perhaps-we-are2: Perhaps we're
+period: period
+personnel: Personnel
+persons-in-path-of: Persons in the immediate path of the
+philadelphia: Philadelphia
+phoenix: Pheonix
+phone: phone
+physics: Physics
+pin-invalid: That pin is invalid for this conference.
+pin-number-accepted: Pin number accepted
+ping: Ping
+pipe: pipe
+planning: Planning
+play-room: play room
+play: play
+please-answer-the-following: Please answer the following...
+please-contact-tech-supt: Please contact technical support
+please-enter-first-three-letters: Please enter the first three letters of your party's first or last name.
+please-enter-the: Please enter the
+please-enter-your: Please enter your
+please-hang-up-and-dial-operator: Please hang up and dial the operator.
+please-hang-up-and-try-again: Please hang up and try again.
+please-try-again-later: Please try again later.
+please-try: please try
+please-wait-connect-oncall-eng: Please wait, and I will attempt to patch you through to our on-call engineer.
+pls-ent-num-transfer: please enter the number to use for call transfer
+pls-enter-conf-password: Please enter the conference password
+pls-enter-num-message-after-tone: Please enter your numeric message after the tone.
+pls-enter-vm-password: Please enter your voicemail password
+pls-entr-num-uwish2-call: please enter the number you wish to call
+pls-hold-silent30: Please hold (silence for 30 seconds)
+pls-lv-msg-will-contact: Please leave a message after the tone and a representative will contact you as soon as possible.
+pls-rcrd-name-at-tone: please record your name at the tone.
+pls-stay-on-line: Please stay on the line and your call will be answered by the next available representative.
+pls-try-again: Please try again!
+pls-try-area-code: please try area code
+pls-try-manually: Please try manually.
+pls-wait-connect-call: Please wait, while I connect your call.
+plugh: Plugh (ploo-g)
+pm-announcement-number: Annoucement number
+pm-phrase-management: Phrase management.
+pm-prompt-number: Prompt number...
+pm-to-record-phrase: To record a phrase
+pm-to-review-phrase: To review a phrase
+point: Point
+point: point
+pool: pool
+pop: POP
+porch: porch
+port: port
+portland: Portland
+portnumber: port number
+position: position
+post-entry-pound: digit account number, skipping any punctuation, followed by the pound key.
+pounds: pounds
+power-failure: power failure
+presales-support: Presales support
+presidents-office: Presidents office
+press-0: Press 0
+press-1: Press 1
+press-1: Press 1
+press-2: Press 2
+press-2: Press 2
+press-3: Press 3
+press-3: Press 3
+press-4: Press 4
+press-4: Press 4
+press-5: Press 5
+press-5: Press 5
+press-6-to-eject: or press 6 to eject the last user.
+press-6: Press 6
+press-6: Press 6
+press-7: Press 7
+press-7: Press 7
+press-8: Press 8
+press-8: Press 8
+press-9: Press 9
+press-9: Press 9
+press-button-again: Press that button again!
+press-enter: Press Enter
+press-escape: Press Escape
+press-hash: Press Hash
+press-hash: Press hash
+press-pound-save-changes: Press pound to save your changes.
+press-pound-to-login-star-to-hangup: Press pound to login to voicemail, or * to hangup.
+press-pound: Press Pound
+press-pound: Press pound
+press-return: Press return
+press-star-cancel: Press star to cancel.
+press-star: Press star
+press-star: Press star
+press-the-space-bar: Press the space bar
+press-tilde: Press tilde
+press: Press
+pressure: pressure
+pressure: pressure
+printing: Printing
+privacy-blacklisted: Blacklisted
+privacy-blocked: Blocked
+privacy-if-error-leave-message-or-hangup: If you feel this in error, or unjust, please leave a message after the tone. Otherwise, please hang up now.
+privacy-if-error: If you feel this is in error...
+privacy-if-sales-call-contact-in-writing: If this is an unsolicited sales or marketing call, please be advised that we only wish to be contacted in writing.
+privacy-last-caller-was: The last caller was...
+privacy-not: NOT
+privacy-please-dial: Please dial...
+privacy-please-stay-on-line-to-be-connected: Please stay on the line to be connected.
+privacy-screening-unidentified-calls: Due to the huge number of unsolicited calls we recieve, we are now screening all inbound calls where a caller ID is unavailable or withheld.
+privacy-stop-calling-not-welcome: Please stop calling.  You are not welcome here.
+privacy-stop-calling-not-welcome2: Please stop calling.  You are not welcome here. (annoyed)
+privacy-this-number-is: This number is...
+privacy-to-blacklist-this-number: To blacklist this number...
+privacy-to-hear-our-contact-details: to hear our contact details
+privacy-to-whitelist-last-caller: To whitelist the last caller...
+privacy-to-whitelist-this-number: To whitelist this number...
+privacy-whitelisted: whitelisted
+privacy-you-are-blacklisted: You have been blacklisted on this system.
+privacy-you-are-calling-from: You are calling from...
+privacy-your-callerid-is: Your Caller*ID is...
+product: Product
+production: Production
+projects: Projects
+protocol: protocol
+psi: psi
+public-relations: Public Relations
+purchasing: Purchasing
+purposes: Purposes
+q-dot-931: q.931
+q-dot-9thirty1: q.9-thirty-one
+quality-assurance: Quality Assurance
+quality-control: Quality Contol
+quarter: quarter
+quickly: quickly
+quiet-mode: quiet mode
+quote: quote
+race: Race
+rain: rain
+rainfall: Rainfall
+rainy: rainy
+range: Range
+reassigned-new-areacode: has been reassigned in another areacode
+rebates: Rebates
+received: received
+receiving: Receiving
+reception: Reception
+recorded: recorded
+registrar: Registrar
+remote-already-in-this-mode-2: The remote is already in this mode.
+remote-already-in-this-mode: remote is already in this mode.
+remote-base: Remote Base
+repair: Repair
+repeat-only: Repeat Only
+repeater: Repeater
+research-and-development: Research & Development
+research: Research
+reservations: Reservations
+reset: reset
+restarting: Restarting
+rhode-island: Rhode Island
+right-bracket: right bracket
+rising: rising
+rising: rising
+risk-management: Risk Management
+roaming: Roaming
+roof: roof
+room-service: Room Service
+room: room
+rooms: rooms
+route-sip: Your call is being routed over SIP.
+rqsted-wakeup-for: You have requested a wakeup call for...
+sacramento: Sacramento
+saint-louis: St. Louis
+sales-floor: Sales Floor
+sales: Sales
+san-antonio: San Antonia
+san-diego: San Diego
+san-francisco: San Francisco
+san-jose: San Jose
+save-announce-press: To save this announcement, press
+say-temp-msg-prs-pound: say your temporary message and then press the pound key
+says-thats-stupid: says that's a really stupid thing to do.
+scattered: scattered
+sciences: Science
+seattle: Seattle
+second-floor: second floor
+second: second
+secretary: Secretary
+secure: secure
+security-system: security system
+security: Security
+self-destruct-in: This system will self destuct in...
+self-destruct: Self destruct
+server: Server
+service-not-implemented: That service is not implemented.
+service: Service
+set: set
+seventeenth: seventeenth
+seventh: seventh
+seventieth: seventieth
+severe: severe
+shall-i-try-again: Shall I try again?
+shiny-brass-lamp: There is a shiny brass lamp nearby.
+shipping: Shipping
+shop: Shop
+show-office: Show Office
+side: side
+sighted: sighted
+simplex: Simplex
+sixteenth: sixteenth
+sixth: sixth
+sixtieth: sixtieth
+sleet: sleet
+sleeting: sleeting
+slow: slow
+slowly: slowly
+snow: snow
+snowing: snowing
+snowy: snowy
+software: software
+solar: solar
+someone-you-trust1: Someone you trust is one of us.
+someone-you-trust2: Someone you trust is one of us.
+someone-you-trust3: Someone you trust is one of us.
+sorry-cant-let-you-do-that: I'm sorry, I can't let you do that.
+sorry-cant-let-you-do-that2: I'm sorry, I can't let you do that.
+sorry-cant-let-you-do-that3: I'm sorry, I can't let you do that.
+sorry-mailbox-full: Sorry, but the user's mailbox can't accept more messages. 
+sorry2: We're sorry, but we are not able to answer your call at this time.
+south-carolina: South Carolina
+south-dakota: South Dakota
+south: south
+southeast: southeast
+southerly: southerly
+southwest: southwest
+spam: Thank you for calling Special Price Analysis and Marketing.  For cheap generic Vallium, Xanex or Viagra press 1.  For Gucci and Rolex replicas please press 2.  To enlarge your penis or breasts, please press 3.  To speak with the Minister of Finance of Nigera about a 50 million dollar account, press 4.
+spam2: Spam
+speak-louder-into-phone: please speak louder, or speak directly into the telephone to ensure a clear recording
+speak-louder: please speak louder to ensure a clear recording
+speak-to-the-operator: speak to the operator
+speed: speed
+splat: Splat
+sprinklers: sprinklers
+ssh: SSH
+staff: staff
+staffing: staffing
+standard: standard
+star-for-menu-again: Press the star key to hear this menu again
+starting-with-either: starting with either
+station: station
+status: status
+steady: steady
+step-in-stream: You step in the stream, but the water has moved on.
+sterling: sterling
+still: still
+store-accounting: Store Accounting
+storm: storm
+stove: stove
+sump-pump: sump pump
+sun-room: sun room
+sun: sun
+sunny: sunny
+support: Support
+swap: Swap
+system-crashed: The system has crashed
+system-status-msg: Please listen carefully to the following system status message.
+system: System
+system: system
+systems: Systems
+systems: systems
+talking-to-myself: Am I talking to myself?
+target-attendant: target attendant
+tcp: TCP
+technical-support: Technical support
+telephone-in-your-pocket: Oooo! Is that a telephone in your pocket, or are you just happy to see me?
+telephone-in-your-pocket2: Oooo! Is that a telephone in your pocket, or are you just happy to see me?
+telesales: Telesales
+teletubbie-murder: has been brutally murdered and mutilated by the Teletubbies. 
+telnet: Telnet
+temp-disconnected: has been temporarialy disconnected
+temperature: temperature
+temperature: temperature 
+tennessee: Tennessee
+tenth: tenth
+terabits: Terabits
+terabytes: Terabytes
+terminated: terminated
+terminating: terminating
+test-tones-follow: Test tones follow.
+texas: Texas
+thank-you-cooperation: Thank you for your cooperation.
+thank-you-for-calling: Thank you for calling.
+thanks-for-calling-today: Thanks for calling today.
+thanks-for-using: Thanks for using
+that-is-not-rec-phn-num: That is not a recognized phone number
+that-number: that number
+that-tickles: Oooh, that tickles!
+that-you-require: that you require
+the-mailbox: The mailbox
+the-monkeys-twice: The monkeys!  THE MONKEYS!
+the-new-number-is: The new number is
+the-next: the next
+the-num-i-have-is: the number I have is
+the-number-u-dialed: The number you have dialed
+the-party-you-are-calling: The party you are calling
+the-weather-at: the weather at
+then-press-pound: then press pound
+there-are: There are...
+there-is-no-customer-support: These is not customer support.
+thermostat: thermostat
+these-are-currently: these are currently
+third: third
+thirteenth: thirteenth
+thirtieth: thirtieth
+this-call-may-be-monitored-or-recorded: This call may be monitored or recorded
+this-call-may-be: This call may be
+this-call-will-cost: This call will cost...
+this-call-will-end-in: This call will end in
+this-is-the-voice-mail-system: This is the voicemail system
+this-is-yr-wakeup-call: This is your wakeup call.
+this: this
+thnk-u-for-patience: thank you for your patience
+thousandth: thousandth
+through: Through
+thunderstorm: thunderstorm
+tide: tide
+time: time
+times: times
+to-accept-recording: to accept this recording
+to-be-called-back: To be called back when a representative is available, press-- 
+to-blklist-last-caller: To blacklist the last caller, press...
+to-blklist-last-num: To blacklist the last number, press...
+to-call-num-press: To call this number, press...
+to-call-prson-w-sent-msg: to call the person who sent this message
+to-cancel-this-msg: to cancel this message
+to-cancel-wakeup: To cancel a wakeup call...
+to-change-exp-date: to change the expiration date
+to-change-your-pin-number: To change your pin number
+to-collect-voicemail: to collect voicemail
+to-compose-a-message: to compose a message
+to-confirm-wakeup: To confirm a wakeup call...
+to-control-environ-sys: to control environmental systems
+to-control-lights-appl: to control lights and appliances
+to-dial-by-name-press: to dial by name, press
+to-dial-by-name: To dial by name...
+to-enter-a-diff-number: to enter a different number
+to-enter-a-number: to enter a number
+to-erase-yr-temp-grtg: to erase your temporary greeting
+to-hang-up-2: To hang up
+to-hang-up: To hang up (slower)
+to-hear-callerid: To hear the Caller*ID of the last call
+to-hear-menu-again: to hear this menu again
+to-hear-msg-again: to hear this message again.
+to-hear-msg-envelope: to hear the message envelope
+to-hear-net-status: to hear current network status,...
+to-hear-weather-status: to hear weather status,...
+to-hear-your-account-balance: To hear your account balance
+to-join-a-meeting: to join a meeting
+to-leave-message-for: To leave a message for
+to-log-in-to-voice-mail: To log into voicemail
+to-place-outgoing-call: to place an outgoing call
+to-reach-first-rep: To reach the first available representitivie
+to-reach-operator: To reach the operator
+to-reach-operator: to reach an operator
+to-rec-yr-temp-grtg: to record your temporary greeting
+to-record-call: to record call
+to-redial-the-last-number-you-called: To redial the last number you called
+to-report-emergency: To report an emergency...
+to-report-system-network-down: To report a system or network down
+to-rerecord-announce: To rerecord this announcement, press
+to-rerecord-yr-message: to re-record your message
+to-rmv-num-blklist: To remove a number from the blacklist, press...
+to-rqst-wakeup-call: To request a wakeup call...
+to-send-a-reply: to send a reply
+to-snooze-for: To snooze for...
+to-use-def-attendant: to use the default attendant, just press pound
+tomorrow-night: tomorrow-night
+tones-that-follow-are-for-the-deaf: The tones that follow are for the deaf.
+tonight: tonight: 
+too-low: too low
+tornado: tornado
+touchtone1: If you're calling from a rotary dial phone, hangup, go to a phone store, and purchase one of those new fangled inventions called a touch tone phone.
+touchtone2: And if you're calling from a rotary dial phone, hello, there's this thing call touch tone sweety you might want to look into.
+touchtone3: If you're calling from a rotary dial phone, hangup, go to a phone store, and purchase one of those 21'st century new fangled inventions called a touch tone phone.
+towards: towards
+tower: tower
+trading-desk: Trading Desk
+traffic: Traffic
+training: Trading
+transportation: Transportation
+travel: Travel
+treasury: Treasury
+tucson: Tuscon
+tulsa: Tulsa
+turn-off-recording: to turn off call recording
+turning-to: turning to
+twelveth: twelveth
+twentieth: twentieth
+twisty-maze: You are in a maze of twisty little menus, all alike.
+typhoon: typhoon
+udp: UDP
+uh-oh1: Uh oh!  [in a cutesy, Teletubbie's like voice] 
+uh-oh2: Uh oh!  [in a cutesy, Teletubbie's like voice] 
+uk: UK
+unavailable: Unavailable
+unconditional: unconditional
+units: units
+unix: Unix
+unlocked: unlocked
+unlocking: unlocking
+up: up
+up: up
+uptime: uptime
+user: user
+users: users
+utah: Utah
+variable: variable
+vermont: Vermont
+virginia-beach: Virginia Beach
+virginia: Virgina
+visibility: Visibility
+visit-asterisk-website: Visit the asterisk website at w w w dot asterisk dot org
+voice-mail-system: Voice Mail System
+volt: Volt
+volts: Volts
+wait-moment: Please wait a moment.
+wait-offensive-sounds: Please wait one moment while I access our gigantic library of offensive sounds!
+wakeup-call-cancelled: Your wakeup call has been cancelled.
+wakeup-call: Wakeup call
+wakeup-daily: Daily Wakeup Call
+wakeup-for-daily: For daily wakeup calls...
+wakeup-for-one-time: For a one-time wakeup call
+wakeup-onetime: One-time wakeup call
+walks-into-bar-mail: A man walks into a bar, sits down and ... welcome to Comedian Mail!
+warning: warning
+was-last-seen: was last seen
+was: was
+washing-machine: washing machine
+washington-dc: Washington, DC
+washington: Washington
+watch: watch
+water-heater: water heater
+watt: Watt
+watts: Watts
+we-apologize: we apologize
+we-dont-have-tech-support: We don't have tech support.
+weasels-eaten-phonesys: Weasels have eaten our phone system.
+weather-station: weather station
+weather: weather
+web: web
+weeks: weeks
+welcome: welcome
+well-pump: well pump
+were-sorry: We're sorry...
+west-virginia: West Virgina
+west: west
+westerly: westerly
+what-are-you-wearing: What are you wearing?
+what-time-it-is: Do you have any idea what <emph> time </emph> it is?
+what-time-it-is2: Do you have any idea what <emph> time </emph> it is?
+when-dialing-this-number: When dialing this number...
+who-would-you-like-to-call: Who would you like to call?
+why-no-answer-mystery: Your call is important to us, but exactly why we haven't answered it yet is a mystery even to us.
+wichita: Wichita
+will-apply: will apply
+will-expire: will expire
+will-not-expire: will not expire
+will-reflect-charge-of: will reflect a charge of 
+wind-chill: wind chill
+wind: wind
+window: window
+windows: Windows
+windows: windows
+winds: winds
+windy: windy
+wisconsin: Wisconsin
+wish-to-continue: do you wish to continue?
+within: within
+work: work
+wrong-try-again-smarty: Wrong, wrong, wrong.  Try again, smart guy.
+wtng-to-spk-w-rep: waiting to speak with a representative
+www-switchboard-com: www.switchboard.com
+wyoming: Wyoming
+xmas-lights: Christmas lights
+xmas-tree: Christmas tree
+yard: yard
+yeah: Yeah!
+year: year
+years: years
+yes-dear: Yes, dear. (annoyed)
+yes-dear2: Yes, dear. (playful)
+you-are-caller-num: you are caller number
+you-are-curr-call-num: you are currently caller number
+you-can-press: You can press
+you-dialed-wrong-number: You have dialed the wrong number.
+you-have-dialed: You have dialed:
+you-have-reached-a-test-number: You have reached a test number.
+you-have-these-options: You have these options.
+you-must-first-dial: You must first dial
+you-seem-impatient: You seem impatient
+you-sound-cute: So, _you_ sound cute.
+you-wish-to-join: you wish to join
+your-account: Your account
+your-msg-has-been-saved: Your message has been saved
+your-msg-is-too-short: your message is too short
+your-temp-greeting: your temporary greeting
+zip-code: zip code
+alert: alert
+cc-amex: American Express
+cc-discover: Discover
+cc-mastercard: Mastercard
+cc-visa: Visa
+invalid-featurecode: I'm sorry.  That feature code is not supported.  Please try again.
+pls-hold-process-tx: Please hold while we process your transaction.
+privacy-restricted-by-req: ...restricted by customer request.
+tt-codezone_MIXDOWN: This highway leads to the shadowy tip of reality: you're on a through route to the land of the different, the bizarre, the unexplainable...Go as far as you like on this road. Its limits are only those of mind itself. Ladies and Gentlemen, you're entering the wondrous dimension of imagination. Next stop....The Code Zone.
+tt-codezone: This highway leads to the shadowy tip of reality: you're on a through route to the land of the different, the bizarre, the unexplainable...Go as far as you like on this road. Its limits are only those of mind itself. Ladies and Gentlemen, you're entering the wondrous dimension of imagination. Next stop....The Code Zone.
+tt-hangup: Press 1 to end this call, or any other key to hangup.
+tt-monty-knights: Go and boil your bottoms you silly english kniggggits. I fart in your general direction.  Your mother was a hamster and your father smelt of elderberries. Now go away or I shall taunt you a second time.
+tx-has-been-approved: Your transaction has been approved.
+your-notifications: ...your notifications.
+your-req-notification: ...your requested notification.
+account_number: Your account number
+after_tone: After the tone
+andnowstandby: Please stand by for 10 minutes of your life you'll never get back
+at_tone: At the tone
+awkward: Awkward (sung)
+binary: Thank you for calling. We are unavailable to take your call at this time so have forwarded your call to a Babbage difference engine for parsing and transcription. To avoid errors please leave a message in words of one syllable or less and avoid run-on sentences. You may also leave a message in binary using the words one and zero or oh. Thank you.
+bombsquad: Thank you for calling. Your anonymous tip has been recorded and the bomb disposal team has been dispatched to your location. No further action is required unless you require a clean pair of shorts. We cannot help you there.
+challenge_try_again: That's ok. I like a challenge.  Let's try one more time.
+closed: closed
+comedyclub: Thank you for calling to inquire about our comedy club. It is available for loan to discourage further dissemination of bad puns. Please leave contact information after the tone.
+countdown: Thank you for calling. Self destruct has been initiated will occur in thirty seconds. If you believe you have reached this destination in error please enter the twelve digit abort code now or hang up and seek shelter immediately.
+crashing_conf: Are you crashing this conference?
+current_account_balance: Your current account balance is
+donotcall1: This number is listed on the Do Not Call list.  Your number has been logged.  If you feel you have reached this number by mistake you may push one now to record a message.  Feel free to leave your own home number so that we may return your call to your home at a time of our choosing.
+donotcall2: Please add this number to your do-not-call list.
+eletelephony: "Once there was an elephant,
+Who tried to use the telephant.
+No! no! I mean an elephone
+Who tried to use the telephone.
+(Dear me! I am not certain quite
+That even now I've got it right.)
+Howe'er it was, he got his trunk
+Entangled in the telephunk;
+The more he tried to get it free,
+The louder buzzed the telephee
+(I fear I'd better drop the song
+Of elephop and telephong!) 
+
+[An Eletelephony Poem by Laura Elizabeth Richards]"
+enter_account: Please enter your account number.
+error: Error
+feeling_lucky_punk: "You've got to ask yourself one question:  'Do I feel lucky?'... Well, do you, punk?"
+followed_hash: . . . followed by the hash key.
+followed_pound: . . . followed by the pound key.
+forget_about_it: Fuggetaboutit. {read in the style of Tony Soprano}
+get_bleep_outta: That's great! Now get the f*%# out of here!
+get_information_first: Can I get some information from you first?
+get_information: I just need to get a little information from you.
+get-in-line-sales-guy: Thank you for calling. We answer calls by appointment only. Our first available appointment is approximately 90 days from today. To schedule an appointment, press 1 and leave the date and time of your requested appointment and a home phone number. We will contact you early next weekend if it is available. To repeat this message, press 2.
+grammar: Thank you for calling. Please leave a message after the tone. In order to eliminate phone spam and phishing your message will be reviewed by an English major (or majorette) and if found to contain grammatical, tense or structural errors it will be discarded. Please enunciate clearly to avoid issues related to homonyms. Thank you and have a nice day.
+goodbye_for_the_best: Goodbye. No, really, it's probably for the best. Goodbye.
+goodbye_love: Goodbye. Thank you for trying out the Asterisk open source PBX. You love it, right?
+got_kidding: OMG - You've got to be kidding.
+hal_goodbye: this phone call can serve no purpose anymore. Goodbye.
+happy_saved: I'm happy to tell you, your message has been saved.
+is: is
+keywords_cross_fingers: Please enter one or more keywords separated by star, cross your fingers, and then press the pound key.
+like_to_tell_valid_ext: I'd like to tell you that's a valid extension but I can't. Try again.
+martini: I'm afraid that I'm unable to create a connection to the Digium Demonstration Asterisk server.  Believe me, I'm frustrated too.  You may find some helpful debugging information on the Asterisk console. I'm going for a martini.
+messages_curious: To look into your messages press 1 now.  Come on, you know you're curious. If you're so done with this you may quit voicemail at any time by pressing the pound key.
+mind_repeating: Would you mind repeating that?
+minions-not-answering-leave-message: I'm sorry, my minions could not connect your call so please leave a message.
+mode: mode
+night: night
+no_invite_to_conf: That PIN number is invalid for this conference.  Is there a chance you weren't invited?
+no_longer_conf: . . . is no longer in the conference.
+no_problem_help: No problem. I can help you with that.
+no_worries_try_again: No worries. Let's try again.
+none_of_my_business1: . . . Is unavailable. I have no idea what they're up to. None of my business!
+none_of_my_business2: Nobody is available to take your call at the moment. I have no idea what they're up to. None of my business!
+not_me: It's not me, it's you.  Let's find an agent.
+not_pass: You shall not pass!
+not_you: It's not you, it's me.  Let's find an agent.
+not_siri: I think you may have me confused with Siri.
+off: off
+OfficeSpace: Hello, just a moment.
+ogm_home: There is no one to answer your call right now.  Please leave a message and someone will return your call.
+on: on
+open: open
+passwords_not_match: The passwords you entered and re-entered do not match.  I don't know what to tell you.  Please try again?
+pin_number: your PIN number.
+please-hold-minion-connect: Please continue to hold while my minions attempt to connect your call.
+please-hold-while-minion: Please hold on while I find a minion to answer your call.
+press_pound_hash_key: press the pound or hash key.
+press_pound_hash: press pound or hash.
+press-or-say-0: Press or say zero.
+press-or-say-1: Press or say 1
+press-or-say-2: Press or say 2
+press-or-say-3: Press or say 3
+press-or-say-4: press or say 4
+press-or-say-5: Press or say 5
+press-or-say-6: Press or say 6
+press-or-say-7: Press or say 7
+press-or-say-8: Press or say 8
+press-or-say-9: Press or say 9
+prime_number: To proceed, please enter any 7-digit prime number followed by the pound key.
+prompt-not-found: The prompt file was not found.
+quality_control: For quality control purp.. (laughs) for quality control purposes, this call (laughing) may be...
+Randulo-allison: Allsion
+regret_not_saved: "I regret to tell you:  your message has not been saved."
+repeat_pin: I'm going to repeat your PIN number back to you.  I think you said
+said_hold_on: I said hold on!
+saleshell: Please leave a message after the tone, if this is a Sales please call press 5 now
+sendhelp: Thank you for calling. Your location has been identified and a SWAT team has been dispatched to your location. No further action is required by you. You will be rescued shortly.
+SIP_Test_Failure: Keep at it bozo!
+SIP_Test_Success: Your test has succeeded and the SIP device or standard compliance your are attempting to fix has worked. Please enjoy your work until something else breaks.
+sorry_caller_number: "I'm sorry to tell you, you are currently caller number: "
+sorry_didnt_get: I'm so sorry. I didn't get that.
+sorry_login_incorrect: Sorry. Login incorrect. Give it another try.
+sorry_missed: I'm sorry, I missed that.
+sorry_no_messages: Sorry, no more messages. Your wish is my command. Totally.
+sorry_didnt_quite_get: Sorry, I didn't quite get that.
+sorrydave: I'm sorry Dave, I'm afraid I can't do that.
+still_on_phone: is still on the phone.  Jeepers. Chatty Cathy!
+sure_help: Sure. I can help you with that.
+talkin_me: Are you talkin to me?
+telemarketercalling: Telemarketing calls have been reported originating from your number.
+thank_you_calling: Thank you for calling.
+thanks-annoyance: Thank you for calling. Please hold a moment while I locate someone who will put up with your constant complaining and whining.
+timewarp: Due to the transient appearance of a time warp in the vicinity no one will be here to answer for at least the next century. Please leave a message after the tone and we will respond at least one month prior to your call. Thank you and have a nice day.
+tone_time: "At the tone, the time will be: "
+transfer_to_agent: I think I should transfer you to an agent.  Hold on.
+unicorn_blood_MIXDOWN: Asterisk is an open source full featured PBX and IVR platform that runs on the Linux operating system and a little bit of unicorn blood.  For more information visit Asterisk.org.
+unicorn_blood: Asterisk is an open source full featured PBX and IVR platform that runs on the Linux operating system and a little bit of unicorn blood.  For more information visit Asterisk.org.
+unwelcomecall: Your call is not welcome.
+watson: I'm sorry, the person you've reached is not named Watson. We would be glad to come to your assistance but have to pick up the kids at soccer practice first. We will return your call as soon as possible.
+whoareyou: May I ask who's calling?
+wish_command_totally: Um. Would you mind if I showed you how we do it in Canada?
+woo_hoo_call_first: Woohoo! Your call is now first in line and will be answered by the next available representative.
+you_say_yes: Ray, when somebody asks you if you're a god, you say YES!
+yourcallisimportant: You call is important to us. That's why you'll be hearing the same 10 second loop for the next half hour at a charge of 12 cents per minute
+yourcallisimpotent: Your call is impotent to us.
+zombies: Due to the presence of zombies at the location you have dialed the office has been evacuated. Please leave a message and we will return your call as soon as possible, unless of course the Apocalypse occurs first. In this event we'll likely have other priorities. 
+pls-listen-options-changed: Please listen carefully as the menu options have changed.
