@@ -34,7 +34,11 @@ async function translateFile(sourceFile, targetFile, targetLangCode) {
     const [name, text] = line.split(":");
 
     if (text) {
-      const translation = await translator.translateText(text, null, "de");
+      const translation = await translator.translateText(
+        text,
+        null,
+        targetLangCode
+      );
 
       debug && console.log(translation);
 
