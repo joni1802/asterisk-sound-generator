@@ -11,7 +11,7 @@ const authKey = process.env.DEEPL_AUTH_KEY;
 const translator = new deepl.Translator(authKey);
 
 async function init() {
-  translateFile("core-sounds-en.txt", "core-sounds-de.txt", "de");
+  translateFile("extra-sounds-en.txt", "extra-sounds-de.txt", "de");
 }
 
 async function translateFile(sourceFile, targetFile, targetLangCode) {
@@ -27,7 +27,7 @@ async function translateFile(sourceFile, targetFile, targetLangCode) {
   for await (const line of source.readLines()) {
     // Translate max. 1000 lines by default.
     // Deepl Free allows max. 500.000 characters to translate.
-    if (lineNumber === 1000) {
+    if (lineNumber === 2000) {
       break;
     }
 
