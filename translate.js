@@ -18,7 +18,7 @@ async function translateFile(sourceFile, targetFile, targetLangCode) {
   const source = await open(sourceFile);
   const targetDir = "data";
 
-  mkdir(targetDir, { recursive: true });
+  await mkdir(targetDir, { recursive: true });
 
   const target = await open(path.join(targetDir, targetFile), "ax");
 
