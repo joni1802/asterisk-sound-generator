@@ -3,8 +3,10 @@ import path from "node:path";
 import { parseSoundFile } from "./parse.js";
 
 function init() {
-  const sounds = parseSoundFile("data\\core-sounds-de.txt");
+  const sounds = parseSoundFile(path.join("data", "core-sounds-de.txt"));
   const modelName = "tts_models/de/thorsten/vits";
+
+  console.log(sounds);
 
   let counter = 0;
 
