@@ -18,18 +18,21 @@ async function init() {
   await mkdir(targetDir, { recursive: true });
 
   // Just for testing
-  // let counter = 0;
+  let counter = 0;
 
   for (let { name, text } of coreSounds) {
-    // if (counter === 50) {
-    //   break;
-    // }
+    if (counter >= 125) {
+      if (text) {
+        if (name.split("/").length > 1) {
+          let subdir = name.split("/").slice(0, -1);
 
-    if (text) {
-      await tts(text, modelName, path.join(targetDir, `${name}.wav`));
+          mkdir(path.join(targetDir, ...subdir), { recursive: true });
+        }
+        await tts(text, modelName, path.join(targetDir, `${name}.wav`));
+      }
     }
 
-    // counter++;
+    counter++;
   }
 
   console.timeEnd();
