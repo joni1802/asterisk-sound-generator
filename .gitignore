@@ -132,3 +132,4 @@ dist
 # custom
 tests
 test.js
+*.wav
