@@ -133,3 +133,4 @@ dist
 tests
 test.js
 *.wav
+.DS_Store
