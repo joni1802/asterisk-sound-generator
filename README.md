@@ -22,3 +22,12 @@ More details: [Using the Text-to-Speech API with Node.js](https://codelabs.devel
 
 1. Create a .env file in the root directory of this project.
 2. Add `DEEPL_AUTH_KEY=<your deepl api key><` to the .env file.
+
+## Convert audio files
+
+1. Download ffmpeg.
+2. Convert audio to G.711 (alaw/ulaw) `ffmpeg -i path/to/name.mp3 -f mulaw path/to/name.g711`
+
+### Just for testing
+
+Convert audio files back to mp3 `ffmpeg -f mulaw -ar 24000 -i path/to/name.g711 -f mulaw path/to/name.mp3`
