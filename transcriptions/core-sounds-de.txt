@@ -2,18 +2,18 @@
 
 activated: Aktiviert.
 added: Hinzugefügt.
-agent-alreadyon: Dieser Agent ist bereits angemeldet.  Bitte geben Sie Ihre Agentennummer gefolgt von der Quadrattaste ein.
-agent-incorrect: Anmeldung falsch.  Bitte geben Sie Ihre Agentennummer gefolgt von der Quadrattaste ein.
+agent-alreadyon: Dieser Agent ist bereits angemeldet.  Bitte geben Sie Ihre Agentennummer gefolgt von der Rautetaste ein.
+agent-incorrect: Anmeldung falsch.  Bitte geben Sie Ihre Agentennummer gefolgt von der Rautetaste ein.
 agent-loggedoff: Agent abgemeldet.
 agent-loginok: Agent eingeloggt.
 agent-newlocation: Bitte geben Sie eine neue Durchwahl ein, gefolgt von einem Pfund.
-agent-pass: Bitte geben Sie Ihr Passwort ein, gefolgt von der Quadrattaste.
-agent-user: Agenten-Login.  Bitte geben Sie Ihre Agentennummer gefolgt von der Quadrattaste ein.
+agent-pass: Bitte geben Sie Ihr Passwort ein, gefolgt von der Rautetaste.
+agent-user: Agenten-Login.  Bitte geben Sie Ihre Agentennummer gefolgt von der Rautetaste ein.
 all-circuits-busy-now: Alle Schaltkreise sind jetzt besetzt.
 ascending-2tone: [aufsteigende Töne]
-astcc-followed-by-the-pound-key: Gefolgt von der Quadrattaste.
+astcc-followed-by-the-pound-key: Gefolgt von der Rautetaste.
 at-tone-time-exactly: Beim Ertönen des Tons wird die Zeit genau...
-auth-incorrect: Passwort falsch.  Bitte geben Sie Ihr Passwort gefolgt von der Quadrattaste ein.
+auth-incorrect: Passwort falsch.  Bitte geben Sie Ihr Passwort gefolgt von der Rautetaste ein.
 auth-thankyou: Ich danke Ihnen.
 basic-pbx-ivr-main: Vielen Dank für Ihren Anruf bei Super Awesome Company, Waldos führendem Anbieter von perfekten Produkten. Wenn Sie die Durchwahl Ihres Gesprächspartners kennen, können Sie diese jederzeit wählen. Um eine Vertriebspartnerschaft einzugehen, drücken Sie die Eins. Um mit einem Kundenbetreuer zu sprechen, drücken Sie die Zwei. Für die Buchhaltung und andere Forderungen drücken Sie die Drei. Für ein Firmenverzeichnis drücken Sie die Vier. Für eine Vermittlung drücken Sie die Null.
 beep: (dies ist ein einfacher Signalton)
@@ -35,8 +35,8 @@ conf-enteringno: Sie geben die Konferenznummer ein
 conf-errormenu: Ungültige Wahl
 conf-extended: Die Konferenz wurde verlängert.
 conf-full: Diese Konferenz ist voll.
-conf-getchannel: Bitte geben Sie die Kanalnummer gefolgt von der Quadrattaste ein.
-conf-getconfno: Bitte geben Sie Ihre Konferenznummer gefolgt von der Quadrattaste ein.
+conf-getchannel: Bitte geben Sie die Kanalnummer gefolgt von der Rautetaste ein.
+conf-getconfno: Bitte geben Sie Ihre Konferenznummer gefolgt von der Rautetaste ein.
 conf-getpin: Bitte geben Sie die Pin-Nummer der Konferenz ein.
 conf-hasjoin: ist jetzt in der Konferenz.
 conf-hasleft: hat die Konferenz verlassen.
@@ -118,8 +118,8 @@ de-activated: De-aktiviert.
 demo-abouttotry: Ich bin dabei, eine Inter-Asterisk Exchange-Verbindung zu einem Demonstrationsserver bei Digium zu versuchen.  Damit dies funktioniert, müssen Sie bereits mit dem Internet verbunden sein.  Bitte warten Sie einen Moment, während ich versuche, die Verbindung herzustellen.
 demo-congrats: Herzlichen Glückwunsch!  Sie haben die Open-Source-Telefonanlage Asterisk erfolgreich installiert und ausgeführt.  Sie haben auch eine Reihe von Beispielsounds und Konfigurationsdateien installiert, die Ihnen die ersten Schritte erleichtern sollten.  Wie bei einer normalen Telefonanlage werden Sie in dieser Demonstration durch das Wählen von Ziffern navigieren.  Wenn Sie einen Konsolenkanaltreiber anstelle eines echten Telefons verwenden, können Sie die Befehle Wählen, Antworten und Auflegen verwenden, um die Aktionen eines Standardtelefons zu simulieren.
 demo-echodone: Der Echotest ist abgeschlossen.
-demo-echotest: Sie sind dabei, einen Echo-Test durchzuführen.  In diesem Modus wird alles, was Sie sagen, sofort nach dem Empfang an Sie zurückgesendet.  Der Zweck dieses Tests ist es, Ihnen ein hörbares Gefühl für die Latenzzeit zwischen Ihnen und dem Gerät zu geben, auf dem die Echo-Testanwendung läuft.  Sie können den Test beenden, indem Sie auflegen oder die Quadrattaste drücken.
-demo-enterkeywords: Bitte geben Sie ein oder mehrere durch * getrennte Schlüsselwörter ein und drücken Sie dann die Quadrattaste.
+demo-echotest: Sie sind dabei, einen Echo-Test durchzuführen.  In diesem Modus wird alles, was Sie sagen, sofort nach dem Empfang an Sie zurückgesendet.  Der Zweck dieses Tests ist es, Ihnen ein hörbares Gefühl für die Latenzzeit zwischen Ihnen und dem Gerät zu geben, auf dem die Echo-Testanwendung läuft.  Sie können den Test beenden, indem Sie auflegen oder die Rautetaste drücken.
+demo-enterkeywords: Bitte geben Sie ein oder mehrere durch * getrennte Schlüsselwörter ein und drücken Sie dann die Rautetaste.
 demo-instruct: Wenn Sie mehr technische Informationen über Asterisk erfahren möchten, wählen Sie jetzt die 2.  Wenn Sie die Voice-over-IP-Fähigkeiten von Asterisk testen möchten, können Sie 500 wählen, um eine Inter-Asterisk-Exchange- oder IAX-Verbindung zu einem Demonstrationsserver bei Digium aufzubauen.  Damit dieser Test funktioniert, müssen Sie mit dem Internet verbunden sein und mindestens über ein 28,8-Kilobit-Modem verfügen.  Um einen Echo-Test durchzuführen, wählen Sie 600.  Dieser Test ist besonders nützlich, wenn Sie von einem entfernten Standort aus eine Verbindung zu diesem Asterisk-Server hergestellt haben.  Die Beispielkonfiguration hat auch einen einzelnen Benutzer mit der Durchwahl 1234 und dem Passwort 4242.  Dieser Benutzer ist so konfiguriert, dass die Konsole klingelt, wenn seine Nebenstelle angewählt wird.  Wenn Sie 1234 wählen, können Sie versuchen, die Konsole anzurufen.  Wenn die Konsole besetzt oder nicht verfügbar ist, haben Sie die Möglichkeit, eine Voicemail zu hinterlassen.  Um die Voicemail des Benutzers abzufragen, wählen Sie die Durchwahl 8500, um das Voicemail-System aufzurufen.  Schließlich können Sie die Rautetaste drücken, um die Verbindung mit der Telefonanlage zu trennen.
 demo-moreinfo: Asterisk ist eine Open-Source-Telefonanlage und IVR-Plattform mit vollem Funktionsumfang, die auf dem Linux-Betriebssystem läuft.  Weitere Informationen finden Sie unter www.asterisk.org.
 demo-nogo: Ich fürchte, ich konnte keine Verbindung zum Digium-Demonstrations-Asterisk-Server herstellen.  Sie können einige hilfreiche Debugging-Informationen auf der Asterisk-Konsole finden.
@@ -166,7 +166,7 @@ digits/80: achtzig
 digits/8: acht
 digits/90: Neunzig
 digits/9: neun
-digits/a-m: A.M.
+digits/a-m: vormittags
 digits/at: unter
 digits/billion: Milliarden
 digits/day-0: Sonntag
@@ -225,7 +225,7 @@ digits/mon-8: September
 digits/mon-9: Oktober
 digits/oclock: Uhr
 digits/oh: oh
-digits/p-m: P.M.
+digits/p-m: nachmittags
 digits/pound: Pfund
 digits/star: Stern
 digits/thousand: Tausend
@@ -490,11 +490,11 @@ vm-from-extension: Nachricht von der Nebenstelle
 vm-from-phonenumber: Nachricht von Rufnummer
 vm-from: von
 vm-goodbye: Auf Wiedersehen
-vm-helpexit: Drücken Sie den Stern für Hilfe oder die Quadrattaste zum Beenden.
+vm-helpexit: Drücken Sie den Stern für Hilfe oder die Rautetaste zum Beenden.
 vm-INBOX: neu
-vm-incorrect-mailbox: Login falsch.  Mailbox?
+vm-incorrect-mailbox: Anmeldung falsch.  Mailbox?
 vm-incorrect: Anmeldung falsch.
-vm-instructions: Um Ihre Nachrichten abzurufen, drücken Sie jetzt die 1.  Sie können den Anrufbeantworter jederzeit durch Drücken der Quadrattaste beenden.
+vm-instructions: Um Ihre Nachrichten abzurufen, drücken Sie jetzt die 1.  Sie können den Anrufbeantworter jederzeit durch Drücken der Rautetaste beenden.
 vm-intro: Bitte hinterlassen Sie Ihre Nachricht nach dem Ton.  Wenn Sie fertig sind, legen Sie auf oder drücken Sie die Rautetaste. (einfacher Ton ertönt)
 vm-invalid-password: Dieses Passwort erfüllt nicht die Mindestanforderungen für dieses Postfach.  Bitte versuchen Sie es erneut.
 vm-invalidpassword: Dies ist kein gültiges Passwort.  Bitte versuchen Sie es erneut.
@@ -502,7 +502,7 @@ vm-isonphone: ist am Telefon
 vm-isunavail: ist nicht verfügbar
 vm-last: zuletzt
 vm-leavemsg:  Drücken Sie 5, um eine Nachricht zu hinterlassen
-vm-login: Comedian Mail.  Mailbox?
+vm-login: Bitte geben Sie Ihre Mailboxnummer ein.
 vm-mailboxfull: Die Mailbox des Benutzers kann leider keine weiteren Nachrichten annehmen.
 vm-marked-nonurgent: Dringlichkeitsstatus aufgehoben.
 vm-marked-urgent: Nachricht als dringend gekennzeichnet.
@@ -511,9 +511,9 @@ vm-messages: Nachrichten
 vm-minutes: Minuten
 vm-mismatch: Die von Ihnen eingegebenen und erneut eingegebenen Passwörter stimmen nicht überein.  Bitte versuchen Sie es erneut.
 vm-msgforwarded: Ihre Nachricht wurde erfolgreich weitergeleitet.
-vm-msginstruct: Um die nächste Nachricht zu hören, drücken Sie die 6, um diese Nachricht zu wiederholen, drücken Sie die 5, um die vorherige Nachricht zu hören, drücken Sie die 4, um diese Nachricht zu löschen oder nicht zu löschen, drücken Sie die Null, um den Anrufbeantworter zu beenden, drücken Sie die Quadrattaste.
+vm-msginstruct: Um die nächste Nachricht zu hören, drücken Sie die 6, um diese Nachricht zu wiederholen, drücken Sie die 5, um die vorherige Nachricht zu hören, drücken Sie die 4, um diese Nachricht zu löschen oder nicht zu löschen, drücken Sie die Null, um den Anrufbeantworter zu beenden, drücken Sie die Rautetaste.
 vm-msgsaved: Ihre Nachricht wurde gespeichert.
-vm-newpassword: Bitte geben Sie Ihr neues Passwort ein, gefolgt von der Quadrattaste.
+vm-newpassword: Bitte geben Sie Ihr neues Passwort ein, gefolgt von der Rautetaste.
 vm-newuser: Willkommen bei Comedian Mail. Zunächst werde ich Sie durch einen kurzen Einrichtungsprozess führen.
 vm-next: Drücken Sie 6, um die nächste Nachricht abzuspielen.
 vm-no: keine
@@ -534,13 +534,13 @@ vm-pls-try-again: Bitte versuchen Sie es erneut
 vm-press: Presse
 vm-prev: Drücken Sie 4 für die vorherige Nachricht
 vm-reachoper: Drücken Sie 0, um eine Vermittlung zu erreichen
-vm-rec-busy: Sagen Sie nach dem Ton Ihre Besetztmeldung und drücken Sie dann die Quadrattaste.
-vm-rec-name: Sagen Sie nach dem Ton Ihren Namen und drücken Sie dann die Quadrattaste.
-vm-rec-temp: Sprechen Sie nach dem Ton Ihre vorläufige Nachricht und drücken Sie dann die Quadrattaste.
-vm-rec-unv: Sagen Sie nach dem Ton Ihre nicht verfügbare Nachricht und drücken Sie dann die Quadrattaste.
+vm-rec-busy: Sagen Sie nach dem Ton Ihre Besetztmeldung und drücken Sie dann die Rautetaste.
+vm-rec-name: Sagen Sie nach dem Ton Ihren Namen und drücken Sie dann die Rautetaste.
+vm-rec-temp: Sprechen Sie nach dem Ton Ihre vorläufige Nachricht und drücken Sie dann die Rautetaste.
+vm-rec-unv: Sagen Sie nach dem Ton Ihre nicht verfügbare Nachricht und drücken Sie dann die Rautetaste.
 vm-received: erhalten
 vm-record-prepend: Nach dem Signalton sprechen Sie bitte eine Einleitung zu der weitergeleiteten Nachricht.  Wenn Sie fertig sind, drücken Sie das Pfund-Zeichen.
-vm-reenterpassword: Bitte geben Sie Ihr Passwort erneut ein, gefolgt von der Quadrattaste.
+vm-reenterpassword: Bitte geben Sie Ihr Passwort erneut ein, gefolgt von der Rautetaste.
 vm-repeat: Drücken Sie 5, um die aktuelle Nachricht zu wiederholen.
 vm-review-nonurgent: Drücken Sie 4, um den Dringlichkeitsstatus dieser Nachricht aufzuheben.
 vm-review-urgent: Drücken Sie 4, um diese Nachricht als dringend zu kennzeichnen.

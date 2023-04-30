@@ -78,7 +78,7 @@ astcc-card-number-invalid: Die von Ihnen eingegebene Kartennummer ist ungültig.
 astcc-digit-account-number: -stellige Kontonummer
 astcc-followed-by-the-hash-key: gefolgt von dem Hash-Schlüssel.
 astcc-followed-by-the-pound-key: gefolgt von Pfund.
-astcc-login12pound: Bitte geben Sie Ihre 12-stellige Kontonummer ohne Satzzeichen ein, gefolgt von der Quadrattaste.
+astcc-login12pound: Bitte geben Sie Ihre 12-stellige Kontonummer ohne Satzzeichen ein, gefolgt von der Rautetaste.
 astcc-please-enter-your: Bitte geben Sie Ihre...
 astcc-skipping-any-punctuation: Überspringen jeglicher Interpunktion
 asterisk-friend: Asterisk ist Ihr Freund.
@@ -306,7 +306,7 @@ enter-a-time: Geben Sie eine Uhrzeit mit 4 Ziffern ein.  Beginnen Sie mit einer 
 enter-conf-call-number: Bitte geben Sie die Rufnummer der Konferenz ein, an der Sie teilnehmen möchten.
 enter-conf-pin-number: Bitte geben Sie die Pin-Nummer der Konferenz ein.
 enter-ext-of-person: Geben Sie die Durchwahl der Person ein, die Sie erreichen möchten
-enter-password: Bitte geben Sie Ihr Passwort ein, gefolgt von der Quadrattaste.
+enter-password: Bitte geben Sie Ihr Passwort ein, gefolgt von der Rautetaste.
 enter-phone-number10: Bitte geben Sie Ihre zehnstellige Telefonnummer ein, zuerst die Vorwahl.
 entering-conf-number: Sie geben die Konferenznummer ein
 enum-lookup-failed: e-num lookup fehlgeschlagen
@@ -823,7 +823,7 @@ port: Hafen
 portland: Portland
 portnumber: Portnummer
 position: Position
-post-entry-pound: zweistellige Kontonummer, ohne Satzzeichen, gefolgt von der Quadrattaste.
+post-entry-pound: zweistellige Kontonummer, ohne Satzzeichen, gefolgt von der Rautetaste.
 pounds: Pfund
 power-failure: Stromausfall
 presales-support: Unterstützung des Vorverkaufs
@@ -853,7 +853,7 @@ press-enter: Eingabe drücken
 press-escape: Escape drücken
 press-hash: Presse Hash
 press-hash: Presse-Raute
-press-pound-save-changes: Drücken Sie die Quadrattaste, um Ihre Änderungen zu speichern.
+press-pound-save-changes: Drücken Sie die Rautetaste, um Ihre Änderungen zu speichern.
 press-pound-to-login-star-to-hangup: Drücken Sie die Rautetaste, um sich bei der Mailbox anzumelden, oder *, um aufzulegen.
 press-pound: Pfund drücken
 press-pound: Presse Pfund
@@ -948,7 +948,7 @@ san-diego: San Diego
 san-francisco: San Francisco
 san-jose: San Jose
 save-announce-press: Um diese Ansage zu speichern, drücken Sie
-say-temp-msg-prs-pound: Sagen Sie Ihre vorläufige Nachricht und drücken Sie dann die Quadrattaste
+say-temp-msg-prs-pound: Sagen Sie Ihre vorläufige Nachricht und drücken Sie dann die Rautetaste
 says-thats-stupid: sagt, dass das eine wirklich dumme Sache ist.
 scattered: verstreut
 sciences: Wissenschaft
@@ -1323,7 +1323,7 @@ enter_account: Bitte geben Sie Ihre Kontonummer ein.
 error: Fehler
 feeling_lucky_punk: "Sie müssen sich eine Frage stellen
 followed_hash: . . . gefolgt vom Hash-Schlüssel.
-followed_pound: . . gefolgt von der Quadrattaste.
+followed_pound: . . gefolgt von der Rautetaste.
 forget_about_it: Fuggetaboutit. (gelesen im Stil von Tony Soprano)
 get_bleep_outta: Das ist großartig! Und jetzt verpiss dich von hier!
 get_information_first: Kann ich zuerst einige Informationen von Ihnen erhalten?
@@ -1336,10 +1336,10 @@ got_kidding: OMG - Das soll wohl ein Scherz sein.
 hal_goodbye: kann dieses Telefonat keinen Zweck mehr erfüllen. Auf Wiedersehen.
 happy_saved: Ich freue mich, Ihnen mitteilen zu können, dass Ihre Nachricht gespeichert wurde.
 is: ist
-keywords_cross_fingers: Bitte geben Sie ein oder mehrere durch Sternchen getrennte Schlüsselwörter ein, kreuzen Sie Ihre Finger und drücken Sie dann die Quadrattaste.
+keywords_cross_fingers: Bitte geben Sie ein oder mehrere durch Sternchen getrennte Schlüsselwörter ein, kreuzen Sie Ihre Finger und drücken Sie dann die Rautetaste.
 like_to_tell_valid_ext: Ich würde Ihnen gerne sagen, dass das eine gültige Erweiterung ist, aber ich kann es nicht. Versuchen Sie es noch einmal.
 martini: Ich befürchte, dass ich keine Verbindung zum Digium Demonstration Asterisk Server herstellen kann.  Glauben Sie mir, ich bin auch frustriert.  Vielleicht finden Sie einige hilfreiche Debugging-Informationen auf der Asterisk-Konsole. Ich hole mir einen Martini.
-messages_curious: Um Ihre Nachrichten abzurufen, drücken Sie jetzt die 1.  Komm schon, du weißt, dass du neugierig bist. Wenn Sie damit fertig sind, können Sie den Anrufbeantworter jederzeit durch Drücken der Quadrattaste beenden.
+messages_curious: Um Ihre Nachrichten abzurufen, drücken Sie jetzt die 1.  Komm schon, du weißt, dass du neugierig bist. Wenn Sie damit fertig sind, können Sie den Anrufbeantworter jederzeit durch Drücken der Rautetaste beenden.
 mind_repeating: Würden Sie das bitte wiederholen?
 minions-not-answering-leave-message: Es tut mir leid, meine Diener konnten Ihren Anruf nicht verbinden, bitte hinterlassen Sie eine Nachricht.
 mode: Modus
@@ -1375,7 +1375,7 @@ press-or-say-6: Drücken Sie oder sagen Sie 6
 press-or-say-7: Drücken Sie oder sagen Sie 7
 press-or-say-8: Drücken Sie oder sagen Sie 8
 press-or-say-9: Drücken Sie oder sagen Sie 9
-prime_number: Um fortzufahren, geben Sie bitte eine beliebige 7-stellige Primzahl ein, gefolgt von der Quadrattaste.
+prime_number: Um fortzufahren, geben Sie bitte eine beliebige 7-stellige Primzahl ein, gefolgt von der Rautetaste.
 prompt-not-found: Die Prompt-Datei wurde nicht gefunden.
 quality_control: Für Qualitätskontrollzwecke kann dieser Anruf (lacht)...
 Randulo-allison: Allsion
