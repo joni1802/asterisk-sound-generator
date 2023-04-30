@@ -13,7 +13,10 @@ async function init() {
   console.time();
 
   const targetLangCode = "de";
-  const targetDir = path.join("sounds", targetLangCode, "core");
+  const targetDir = path.join(
+    "sounds",
+    `asterisk-core-sounds-${targetLangCode}`
+  );
   const coreSounds = parseSoundFile(
     path.join("transcriptions", `core-sounds-${targetLangCode}.txt`)
   );
@@ -26,7 +29,7 @@ async function init() {
   let counter = 0;
 
   for (let { name, text } of coreSounds) {
-    if (counter === 10) {
+    if (counter === 5) {
       break;
     }
 
