@@ -27,6 +27,12 @@ More details: [Using the Text-to-Speech API with Node.js](https://codelabs.devel
 
 1. Download ffmpeg.
 2. Convert audio to G.711 (alaw/ulaw) `ffmpeg -i path/to/name.mp3 -f mulaw path/to/name.g711`
+3. Convert audio to G.722 `ffmpeg -i path/to/name.mp3 path/to/name.g722`
+
+More detials:
+
+- [Supported codecs Asterisk](https://wiki.asterisk.org/wiki/display/AST/Codec+Modules)
+- [Supported codecs FreePBX](https://wiki.freepbx.org/display/DIMG/Supported+Codecs)
 
 ### Just for testing
 
