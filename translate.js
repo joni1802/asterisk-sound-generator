@@ -11,16 +11,19 @@ const authKey = process.env.DEEPL_AUTH_KEY;
 const translator = new deepl.Translator(authKey);
 
 async function init() {
-  translateFile("extra-sounds-en.txt", "extra-sounds-de.txt", "de");
+  const targetDir = "transcriptions";
+  const targetLangCode = "nl";
+  const sourceFile = path.join(targetDir, "core-sounds-en.txt");
+  const targetFile = path.join(targetDir, `core-sounds-${targetLangCode}.txt`);
+
+  mkdir(targetDir, { recursive: true });
+
+  translateFile(sourceFile, targetFile, targetLangCode);
 }
 
 async function translateFile(sourceFile, targetFile, targetLangCode) {
   const source = await open(sourceFile);
-  const targetDir = "data";
-
-  await mkdir(targetDir, { recursive: true });
-
-  const target = await open(path.join(targetDir, targetFile), "ax");
+  const target = await open(targetFile, "ax");
 
   let lineNumber = 1;
 

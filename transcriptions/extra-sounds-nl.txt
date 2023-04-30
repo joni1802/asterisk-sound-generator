@@ -1,0 +1,1416 @@
+1-for-am-2-for-pm: Druk op 1 voor A.M, of 2 voor P.M.
+1-yes-2-no: Druk op 1 voor ja, of 2 voor nee.
+1: 1 sec stilte
+10: 10 seconden stilte
+2: 2 sec stilte
+3: 3 seconden stilte
+4: 4 sec stilte
+5: 5 seconden stilte
+6: 6 seconden stilte
+7: 7 sec stilte
+8: 8 seconden stilte
+9: 9 seconden stilte
+; Silence directory
+T-changed-to: [T] is veranderd in [Verlenging Y].
+T-is-not-available: [T] is niet beschikbaar
+T-to-disable-ancmnt: [T] om deze aankondiging uit te schakelen
+T-to-enable-ancmnt: [T] om deze aankondiging in te schakelen
+T-to-hear-cur-ancmnt: [T] om de huidige aankondiging te horen
+T-to-leave-msg: [T] om een bericht achter te laten
+T-to-reach-main-office: [T] om het hoofdkantoor te bereiken
+T-to-rec-ancmnt: [T] om deze aankondiging opnieuw op te nemen
+T-to-rtrn-to-main-menu: [T] om terug te keren naar het hoofdmenu
+a-charge-for-this-svc: Een vergoeding voor deze dienst
+a-collect-charge-of: Een collecteheffing van
+a-collect-charge: Een collecte lading
+a-connect-charge-of: Een verbindingslading van
+a-connect-charge: Een connect charge
+abandon-all-hope: Laat alle hoop varen, gij die hier belt.
+abandons: verlaat
+ac: AC
+academic-support: Academische ondersteuning
+access-code: Toegangscode
+access-denied: toegang geweigerd
+access-granted: toegang verleend
+accessible-through-system: toegankelijk via dit systeem
+account-balance-is: Het saldo van de rekening is
+accounting: Boekhouding
+accounts-payable: Crediteuren
+accounts-receivable: Debiteuren
+added-to: toegevoegd aan
+address: adres
+administration: Administratie
+advised-to-seek-shelter: wordt geadviseerd onmiddellijk onderdak te zoeken
+after-the-tone: na de toon
+afternoon: middag
+air-conditioner: airconditioner
+airport: luchthaven
+alabama: Alabama
+alarm: alarm
+alaska: Alaska
+albuquerque: Albuquerque
+all-outgoing-lines-unavailable: Alle uitgaande lijnen zijn momenteel niet beschikbaar
+all-reps-busy: Al onze vertegenwoordigers hebben het momenteel druk.
+all-your-base: Al jouw basis is van ons.
+altitude: hoogte
+amp: Amp
+ampersand: ampersand
+amps: Ampère
+an-error-has-occurred: Er is een fout opgetreden.
+an-error-has-occured: Er is een fout opgetreden. (Symlink naar "an-error-has-occurred")
+and-area-code: en het netnummer...
+and-or: en/of
+and-prs-pound-whn-finished: En druk op pond als je klaar bent
+and: en
+another-time: een andere tijd
+approaching: nadert
+approximately: ongeveer
+are-you-still-there: Ben je er nog steeds?
+are-you-still-there2: Ben je er nog steeds?
+arizona: Arizona
+arkansas: Arkansas
+arlington: Arlington
+around: rond
+astcc-account-balance-is: Uw rekeningsaldo is...
+astcc-account-number-invalid: Uw rekeningnummer is ongeldig
+astcc-balance-of-account-is: Het saldo van uw rekening is...
+astcc-card-number-invalid: Het door u ingevoerde kaartnummer is ongeldig.
+astcc-digit-account-number: -cijferig rekeningnummer
+astcc-followed-by-the-hash-key: gevolgd door de hash sleutel.
+astcc-followed-by-the-pound-key: gevolgd door pond.
+astcc-login12pound: Voer uw 12-cijferige rekeningnummer in, zonder leestekens, gevolgd door de pondtoets.
+astcc-please-enter-your: Voer uw...
+astcc-skipping-any-punctuation: waarbij alle leestekens worden overgeslagen
+asterisk-friend: Asterisk is je vriend.
+at-any-time: te allen tijde
+at-customers-request: op verzoek van de klant
+at-following-number: Op het volgende nummer
+at-sign: om te tekenen
+athletics: Atletiek
+atlanta: Atlanta
+atlantic: atlantische
+attention-required: Uw aandacht is vereist
+attic: zolder
+auditing: Auditing
+austin: Austin
+available-options: beschikbare mogelijkheden
+available: Beschikbaar
+avg-speed-answer: gemiddelde antwoordsnelheid
+away-naughty-boy: Hij is momenteel weg van zijn telefoon, de stoute jongen.
+away-naughty-girl: Ze is momenteel weg van haar telefoon, de stoute meid.
+baby-sleeping-mode: baby slaapstand
+back: terug
+backslash: backslash
+bad: slechte
+baltimore: Baltimore
+bar: bar
+barn: Schuur
+barns: Kinderen
+barometer: barometer
+barometric: barometrisch
+basement: kelder
+bathroom: badkamer
+bearing: Lager
+beaufort: beaufort
+because-paranoid: omdat we paranoïde zijn
+bedroom: bedroom
+before-the-number: voor het nummer.
+believe-its-free: Kun je geloven dat dit telefoonsysteem gratis is?
+billing-and-collections: Facturering en invordering
+billing: Facturering
+billionth: miljardste
+bits: bits
+blue-eyed-polar-bear: Probeer je tijd in de wacht door te brengen zonder te denken aan een ijsbeer met blauwe ogen.
+bookstore: Boekhandel
+boston: Boston
+box: Box
+brian: Brian
+bright: helder
+business-development: Bedrijfsontwikkeling
+busy-hangovers: We hebben het allemaal druk met onze katers.
+busy-pls-hold: Al onze lijnen zijn momenteel bezet.  Blijft u alstublieft aan de lijn en iemand zal u binnenkort te woord staan.
+but: maar (niet benadrukt, zoals "allen behalve ik")
+by: door
+bytes: Bytes
+cafeteria: Cafetaria
+california: Californië
+call-forward: Doorschakelen
+call-fwd-cancelled: call forward geannuleerd
+call-fwd-parallel: Call-Forward Parallel
+call-preempted: Deze oproep is gepreempt
+call-quality-menu: Beoordeel de kwaliteit van het gesprek dat u zojuist hebt gevoerd.  Gebruik de toetsen één tot en met vier om de kwaliteit van het gesprek te beoordelen, waarbij één de beste kwaliteit is en vier betekent dat het erg moeilijk was om de andere partij te verstaan.  Druk op vijf als het gesprek voortijdig werd afgebroken.  Druk op zes als het gesprek nooit is afgerond.  Druk op zeven als één richting van het gesprek niet kon worden gehoord.  Druk op acht als er andere problemen waren.
+call-requres: De oproep die je hebt gedaan vereist een...
+call-terminated: oproep beëindigd
+call: Bel
+callerid: nummerweergave
+calls-taken-by: oproepen worden aangenomen door
+calls-waiting-for-rep: oproepen die wachten om met een vertegenwoordiger te spreken
+calls: roept
+campground-office: Kantoor van de camping
+cannot-complete-network-error: Uw oproep kan niet worden voltooid door een netwerkfout.
+cannot-complete-otherend-error: Uw oproep kan niet worden voltooid door een fout bij de ontvangende telefoonmaatschappij.
+cannot-complete-temp-error: Uw oproep kan niet worden voltooid vanwege een tijdelijke fout
+card-balance-is: saldo van de kaart is
+card-is-invalid: kaart is ongeldig
+card-number: kaartnummer
+carport: carport
+carried-away-by-monkeys: Er is momenteel niemand beschikbaar om uw oproep te beantwoorden.  Ze zijn meegenomen door apen.
+cause-code: Oorzaak Code
+ceiling: plafond
+celsius: celsius
+cent: Cent
+central: centraal
+cents-per-minute: Centen per minuut
+cents: Cents
+cents: centen
+ceo-office: Kantoor van de CEO
+chance-of: kans op
+changing: veranderen
+channel-insecure-warn: Dit spraakpad is onveilig - bespreek geen geheime informatie en gebruik geen projectcodes.
+channel-secure: Dit spraakpad is veilig.
+channel: Kanaal
+channel: kanaal
+charlotte: Charlotte
+chat-room: chatroom
+chemistry: Chemie
+chicago: Chicago
+chris: Chris
+claims: Vorderingen
+clear: duidelijk
+clearing: opruimen
+cleveland: Cleveland
+clli: CLLI
+close-parenthesis: haakjes sluiten
+closet: kast
+clouds: wolken
+cloudy: bewolkt
+coffee-pot: koffiepot
+collections: Collecties
+colorado-springs: Colorado Springs
+colorado: Colorado
+columbus: Columbus
+comma: komma
+communications: Communicatie
+company-dir-411: Voor toegang tot onze bedrijfsgids, bel 411 of kies nul om een bericht achter te laten in onze algemene mailbox.
+complaint: Klacht
+compliance: Naleving
+computer-friend1: De computer is je vriend.
+computer-friend2: De computer is je vriend.
+conditions: voorwaarden
+conf-1-to-list-users: Druk op 1 om de gebruikers die momenteel in de conferentie zitten op te sommen.
+conf-2-to-kick-nonadmin: 2 om alle niet-administratieve gebruikers te schoppen.
+conf-3-mute-or-unmute-nonadmin: 3 om alle niet-administratieve gebruikers te dempen of uit te schakelen.
+conf-4-to-record-conf: 4 om deze conferentie op te nemen.
+conf-8-for-more-options: of 8 voor meer opties
+conf-8-to-exit-return-to-conf: of 8 om dit menu te verlaten en terug te keren naar de conferentie.
+conf-banned: Je bent verbannen van deze conferentie.
+conf-hasentered: heeft de conferentie betreden
+conf-onlypersonleft: Je bent nu de enige overgeblevene in deze conferentie.
+conf-peopleinconf: mensen in deze conferentie
+conf-sysop: De sysop
+conf-sysopreq: Systeembeheerder gevraagd.
+conf-sysopreqcancelled: Verzoek van de systeembeheerder geannuleerd.
+conf-youareinconfnum: Je bent in conferentie nummer...
+conference-call: conferentiegesprek
+conference-reservations: Conferentie Reserveringen
+conference: Conferentie
+confirm-number-is: Uw bevestigingsnummer is
+connected: Aangesloten
+connecticut: Connecticut
+connecting: Aansluiten op
+connection-failed: Verbinding mislukt.
+connection-timed-out: De verbinding is verbroken.
+continue-english-press: Om verder te gaan in het Engels, druk op
+continue-in-english: om verder te gaan in het engels,...
+cool: cool
+cooling: koeling
+copy-center: Kopieercentrum
+could-lose-a-few-pounds: zou je een paar pond kunnen verliezen
+counseling-services: Adviesdiensten
+count: tel
+crash: crash
+current-time-is: De huidige tijd is
+currently: momenteel
+customer-accounts: klantenaccounts
+customer-relations: klantrelaties
+customer-service: klantenservice
+cyclone: cycloon
+dallas: Dallas
+date: datum
+day: dag
+daylight: daglicht
+days: dagen
+dc: DC
+deadbeat: Klootzak!
+decibel: decibel
+decibels: decibels
+deck: dek
+decode: decoderen
+default-attendant: standaard bediende
+degree: graad
+degrees: graden
+degrees: graden
+delaware: Delaware
+den: de
+denial-of-service: Ontzegging van de dienst
+denver: Denver
+department-administrator: Afdelingsbeheerder
+department: afdeling
+deposit: depot
+design: ontwerp
+detroit: Detroit
+development: ontwikkeling
+dew-point: dauwpunt
+dial-here-often: Dus, bel je hier vaak?
+digit: cijfer
+digits: cijfers
+dim: dim
+dining-room: eetkamer
+directory-assistance: inlichtingendienst
+directory: directory
+discon-or-out-of-service: Het door u gekozen nummer is afgesloten of niet meer in gebruik.  Controleer het nummer en probeer het opnieuw.
+disconnected: Ontkoppeld
+disk: Schijf
+distribution: Distrobutie
+divided-by: gedeeld door
+dns: DNS
+doing-enum-lookup: Een e-num opzoeken
+dont-know-who-sent: Ik ben bang dat ik niet weet wie dit bericht gestuurd heeft...
+door: door
+doors: doors
+doppler-radar: doppler radar
+down: Down
+down: naar beneden
+driveway: oprit
+driving-directions: voor een routebeschrijving naar onze locatie, druk op
+dryer: droger
+duplex: duplex
+duplication: duplicatie
+early: vroeg
+east: oost
+easterly: oostelijk
+eastern: oostelijk
+echo-test: U hoort nu uw eigen stem in een echotest.
+ed: Ed
+eighteenth: achttiende
+eighth: achtste
+eightieth: tachtigste
+el-paso: El Paso
+eleventh: elfde
+email: Email
+emergency: Noodgeval
+encode: Codeer
+engineering: Engineering
+ent-target-attendant: voer het nummer in van de extensie die u wilt gebruiken voor uw target attendant
+enter-a-time: Voer een tijd in met 4 cijfers.  Begin met een nul voor uren minder dan tien.
+enter-conf-call-number: Voer het nummer in van de conferentie waaraan u wilt deelnemen.
+enter-conf-pin-number: Voer de conference pincode in.
+enter-ext-of-person: voer het toestel in van de persoon die u probeert te bereiken
+enter-password: Voer uw wachtwoord in, gevolgd door de pondtoets.
+enter-phone-number10: Voer uw tiencijferige telefoonnummer in, eerst het netnummer.
+entering-conf-number: U voert het vergadernummer in
+enum-lookup-failed: e-num opzoeken mislukt
+enum-lookup-successful: e-num opzoeken succesvol
+error-number: Foutnummer
+error-number: foutnummer
+est-hold-time-is: de geschatte wachttijd is momenteel
+euro: euro
+euro: euro
+european: Europese
+euros: euro
+euros: euro
+evening: avond
+explanation: uitleg
+ext-or-zero: Kies de extensie van de persoon die u probeert te bereiken, of 0 voor een operator.
+extensions: uitbreidingen
+facilities: Faciliteiten
+fahrenheit: fahrenheit
+falling: vallend
+falling: vallend
+fan: ventilator
+farad: farad
+farads: farads
+fast: snel
+feet: Voeten
+feet: voeten
+female: Vrouw
+fifteenth: vijftiende
+fifth: vijfde
+fiftieth: vijftigste
+finals: Finale
+finance: Financiën
+first-floor: eerste verdieping
+first-in-line: uw oproep is nu de eerste in de rij, en zal worden beantwoord door de eerste beschikbare vertegenwoordiger.
+first: eerste
+flagged-for-lea: is gemarkeerd voor retrvial door wetshandhavers...
+flooding: overstroming
+floor: vloer
+floors: vloeren
+florida: Florida
+fog: zal
+foggy: mistig
+followed-by: gevolgd door
+food-service: Voedselvoorziening
+food-services: Voedsel diensten
+foot: voet
+for-a-daily-wakeup-call: Voor een dagelijkse wake-up call
+for-a-list-of: Voor een lijst van
+for-accounting: Voor de boekhouding
+for-billing: Voor facturering
+for-billing: Voor facturering
+for-english-press: Voor Engels, druk op
+for-extended-status-report: Voor een uitgebreid statusrapport
+for-investor-relations: voor investor relations, pers
+for-louie-louie: voor de tekst van Louie, Louie, press
+for-no-press: voor nee, druk op
+for-qc-and-training-purposes: Voor kwaliteitscontrole en opleidingsdoeleinden
+for-quality-purposes: voor kwaliteitsborging
+for-quick-status-report: Voor een snel statusrapport
+for-sales: Voor de verkoop
+for-service: Voor service
+for-tech-support: Voor technische ondersteuning
+for-tech-support: Voor technische ondersteuning
+for-the-first: Voor de eerste
+for-the-weather: Voor het weer
+for-wakeup-call: Voor een wake-up call...
+for-wx-report: Voor een weerbericht
+for-yes-press: voor ja, druk op
+for: voor
+fort-worth: Fort Worth
+fortieth: veertigste
+fountain: fontein
+fourteenth: veertiende
+fourth: vierde
+foyer: home
+freeze: bevriezing
+freezing: freezing
+frequency: Frequentie
+fresno: Fresno
+from: van (beklemtoond)
+front: voorkant
+ftp: FTP
+furnace: oven
+gale: schurft
+gambling-drunk: We gaan gokken en dronken worden.
+game-room: speelkamer
+garage: garage
+georgia: Georgia
+gigabits: Gigabits
+gigabytes: Gigabytes
+gigahertz: Gigahertz
+giggle1: giechelen
+gmt: greenwich mean time
+go-away1: Ga weg!
+go-away2: Ga weg. (speels)
+good: goed
+good-afternoon: Goedemiddag.
+good-evening: Goedenavond.
+good-morning: Goedemorgen.
+great-room: grote kamer
+greater-than: groter dan
+groovy: groovy
+guest-room: gastenkamer
+gust: zie
+gusting-to: vlagen tot
+gusts: vlagen
+gusty: smaakt
+hail: hagel
+half: half
+hall: hal
+hang-on-a-second-angry: Ik zei, wacht even!
+hang-on-a-second: Wacht even...
+hangup-try-again: Hang op en probeer het opnieuw.
+has-arrived-at: is aangekomen bij
+has-been-changed-to: is veranderd in
+has-been-cleared: is vrijgegeven
+has-been-disconnected: is losgekoppeld
+has-been-left: is achtergelaten
+has-been-set-to: is ingesteld op
+has-been: is
+has-expired: is verlopen
+has-issued-a: heeft een
+has-not-been-seen-for: is niet gezien voor
+has: heeft
+hash: hash
+hash: hash
+hawaii: Hawaii
+headed-towards: Op weg naar
+heading: Rubriek
+health-center: Gezondheidscentrum
+hear-odd-noise: om een vreemd geluid te horen, druk op
+hear-toilet-flush: om een toilet door te horen spoelen, druk op
+heat-index: warmte-index
+heat-pump: warmtepomp
+heat: warmte
+heating: verwarming
+hectopascal: hecto-pascal
+helpdesk: Helpdesk
+hertz: Hertz
+high: hoog
+highway: Snelweg
+hit: raak
+hold-or-dial-0: Blijf in de wacht staan of bel nul om een bericht achter te laten in onze algemene mailbox.
+home: home
+honolulu: Honolulu
+hot-tub: bubbelbad
+house: huis
+housekeeping: Huishouding
+houston: Houston
+http: HTTP
+human-resources: Personeelszaken
+humidity: vochtigheid
+humidity: vochtigheid
+hundredth: honderdste
+hurricane: orkaan
+hz: Hertz (weer?)
+i-dont-understand: Ik begrijp het niet. (emotieloos)
+i-dont-understand2: Ik begrijp het niet. (verward?)
+i-dont-understand3: (Ik begrijp het niet.
+i-dont-understand4: Ik begrijp het niet.
+i-dont-understand5: Ik begrijp het niet. (snel gesproken)
+i-grow-bored: Ik raak verveeld van dit gesprek.
+ice: ijs
+icmp: ICMP
+icy: ijzige
+idaho: Idaho
+if-grtg-played-indefinately: als deze groet voor onbepaalde tijd moet worden afgespeeld
+if-grtg-should-expire-at: als deze groet moet vervallen op
+if-maint-contract-or-emergency: Als je een onderhoudscontract hebt of noodhulp nodig hebt.
+if-rotary-phone: Als u een draaitelefoon hebt, blijf dan aan de lijn na het menu.
+if-this-is-correct-press: als dit correct is, druk dan op
+if-this-is-correct: Als dit klopt...
+if-this-is-not-correct: Als dit niet klopt...
+if-u-know-ext-dial: Als u het toestel kent van de partij die u wilt bereiken, belt u het nu.
+if-unsuccessful-speak-to: Als ik geen succes heb, moet u spreken met...
+if-you-know-the: als je de
+if-you-need-help: als je hulp nodig hebt
+if-youd-like-to-make-a-call: Als u wilt bellen...
+illinois: Illinois
+im-sorry-unable-to-connect-to-eng: Het spijt me, maar ik kon u niet verbinden met onze oproepbare ingenieur.
+imap: IMAP
+in-service: In dienst
+in-the-line: in de lijn
+in-the-queue: in de wachtrij
+in-the: in de
+in-your-city: in uw stad
+in-your-zip-code: in uw postcode
+inbound: inkomend
+inch: inch
+inches: inch
+indiana: Indisch
+indianapolis: Indianapolis
+indicated: aangegeven
+information-technology: Informatie Technologie
+information: informatie
+infuriate-tech-staff: om onze technische staf kwaad te maken met uw duidelijke vragen, druk op [X].
+initiated: Geïnitieerd
+initiating: Het initiëren van
+inside-sales: Inside Sales
+internal-audit: Interne audit
+international-call: Internationale oproep
+international-call: internationale oproep
+interstate: Interstate
+intruder: indringer
+invalid-date: invalid date
+investor-relations: Investeerdersrelaties
+iowa: Iowa
+is-at: is bij
+is-curntly-busy: is momenteel bezig
+is-curntly-unavail: is momenteel niet beschikbaar
+is-currently: is momenteel
+is-not-in-the: is niet in de...
+is-not-set: is niet ingesteld
+is-now-being-recorded: wordt nu opgenomen
+it-now: het nu
+it-services: IT Diensten
+jacksonville: Jacksonville
+janitorial: Conciërge
+jason: Jason
+jedi-extension-trick: Dit is niet de extensie die u zoekt.
+john: John
+just-kidding-not-upset: Grapje; ik wilde je niet van streek maken.
+just-kidding-not-upset2: Grapje; ik wilde je niet van streek maken.
+kansas-city: Kansas City
+kansas: Kansas
+kelvin: kelvin
+kentucky: Kentucky
+kilobits: Kilobits
+kilobytes: Kilobytes
+kilohertz: Kilohertz
+kilometer: Kilometers
+kilometer: kilometer
+kilometers-per-hour: kilometer per uur
+kitchen: keuken
+knock-knock: Klop klop!
+knots: knopen
+lamp: lamp
+lamps: lampen
+landscape: landschap
+language: Taal
+large: grote
+las-vegas: Las Vagas
+last-error-was: De laatste fout op deze lijn was...
+last-num-to-call: Het laatste nummer dat u belde was...
+late: laat
+later: later
+laundry: was
+lea-may-request-info: Wetshandhavers kunnen om deze informatie vragen
+left-bracket: linker beugel
+legal: Wettelijk
+len: Len
+less-than: minder dan
+library: Bibliotheek
+library: bibliotheek
+light: licht
+lightning: bliksem
+lights: lichten
+limit-simul-calls: Om de internetbandbreedte te beschermen en de gesprekskwaliteit te handhaven, heeft dit systeem een limiet voor het aantal gelijktijdige gesprekken.
+lines-complaining-customers: Alle lijnen zitten vol met klagende klanten.
+linux: Linux
+list: lijst
+living-room: woonkamer
+load-average: Gemiddelde belasting
+local-authorities: lokale overheden
+locked: vergrendeld
+locking: vergrendeling
+login-fail: Inloggen mislukt
+long-beach: Long Beach
+los-angeles: Los Angeles
+loss-prevention: Verliespreventie
+loss: Verlies
+lots-o-monkeys: (geluidseffecten van vele boze apen)
+louisiana: Louisiana
+low: laag
+lunch: lunch
+lyrics-louie-louie: [
+        Louie Louie, me gotta go
+        Louie Louie, me gotta go
+        Fine little girl she waits for me
+        Me catch the ship for cross the sea
+        Me sail the ship all alone
+        Me never thinks me make it home
+        (chorus)
+        Three nights and days me sail the sea
+        Me think of girl constantly
+        On the ship I dream she there
+        I smell the rose in her hair
+        (chorus, guitar solo)
+        Me see Jamaica moon above
+        It won't be long, me see my love
+        I take her in my arms and then
+        Me tell her I never leave again]
+machine: Machine
+made-it-up: Het is niet omdat ik het verzonnen heb dat het niet waar is.
+mail: Mail
+mailbox: mailbox
+mailroom: Postkamer
+main-menu: Hoofdmenu
+maine: Maine
+maintenance: Onderhoud
+male: Mannelijk
+management: Beheer
+manufacturing: Productie
+marketing: marketing
+marryme: Wil je met me trouwen?  Druk op 1 voor ja of 2 voor nee.
+maryland: Maryland
+massachusetts: Massachusetts
+master: meester
+mathematics: Wiskunde
+maximum: maximaal
+megabits: megabits
+megabytes: megabytes
+megahertz: megahertz
+memory: geheugen
+memphis: Memphis
+menu: menu
+mesa: Mesa
+message-from: bericht van
+message-number: Berichtnummer
+meter: meter
+meter: meter
+meters: meters
+meters: meters
+miami: Miami
+michigan: Michigan
+midnight-tomorrow-night: middernacht morgenavond
+midnight-tonight: middernacht
+midnight: middernacht
+mike: Mike
+miles-per-hour: mijl per uur
+miles: mijlen
+millionth: miljoenste
+milwaukee: Milwaukee
+minimum: minimum
+minneapolis: Minneapolis
+minnesota: Minnesota
+minute: minuut
+missed: gemist
+mississippi: Mississippi
+missouri: Missouri
+mist: stront
+mist: stront
+misty: mistig
+monitored: bewaakt
+montana: Montana
+month: maand
+months: maanden
+moo1: Moo!
+moo2: mooooo!
+morning: ochtend
+moron: Idioot. (gezegd door een boze Allison)
+mostly: meestal
+motor-pool: Motor Pool
+mountain: berg
+moving: verhuizen
+ms: milliseconden
+nashville: Nashville
+national-weather-service: Nationale weerdienst
+nautical-miles: nautische mijlen
+nbdy-avail-to-take-call: Niemand is beschikbaar om je telefoontje aan te nemen.
+near: in de buurt van
+nebraska: Nebraska
+negative: negatief
+network-operations-center: Netwerk Operatie Centrum
+network-operations: Netwerk Operaties
+nevada: Nevada
+new-accounts: Nieuwe rekeningen
+new-hampshire: New Hampshire
+new-jersey: New Jersey
+new-mexico: New Mexico
+new-orleans: New Orleans
+new-york: New York
+nineteenth: negentiende
+ninetieth: negentigste
+ninth: negende
+no-112-1: deze lijn ondersteunt geen een twee diensten [snel]
+no-112-2: deze lijn ondersteunt geen één twee diensten
+no-911-1: deze lijn ondersteunt geen nine one one diensten [snel]
+no-911-2: deze lijn ondersteunt geen nine one one diensten
+no-empty-conferences: Er bestaan momenteel geen lege conferenties.
+no-info-about-number: over dit nummer is geen verdere informatie beschikbaar
+no-longer-in-service: is niet langer in dienst
+no-reply-no-mailbox: u kunt dit bericht niet beantwoorden omdat de afzender geen mailbox heeft
+no-route-exists-to-dest: Er bestaat geen route naar de gekozen bestemming.
+nobody-but-chickens: Niemand hier behalve wij kippen!
+node: knooppunt
+north-carolina: North Carolina
+north-dakota: North Dakota
+north: noord
+northeast: noordoost
+northerly: noordelijk
+northwest: noordwest
+not-auth-pstn: U bent niet gemachtigd om uit te bellen via het PSTN.
+not-enough-credit: Je hebt niet genoeg krediet om dit nummer te bellen.
+not-necessary-1: Het is niet nodig om een 1 te draaien bij het kiezen van dit nummer.
+not-necessary-ac: Het is niet nodig het netnummer te kiezen wanneer u dit nummer belt.
+not-necessary-dial-1-or-ac: Het is niet nodig een 1 of het netnummer te kiezen wanneer u dit nummer belt.
+not-rqsted-wakeup: Je hebt niet om een wakeup call gevraagd.
+not-taking-your-call: De partij op het door u gekozen nummer heeft besloten op dit moment geen oproepen van uw nummer aan te nemen.
+not-yet-assigned: is nog niet toegewezen
+not-yet-connected: is nog niet aangesloten.
+nothing-recorded: niets is opgenomen
+now: nu.
+num-not-in-db: Nummer niet gevonden in de database.
+num-outside-area: Het nummer dat u belt ligt buiten uw lokale belgebied. Bel alstublieft...
+oakland: Oakland
+octothorpe: octothorpe
+off-duty: Buiten diensttijd
+off: uit
+office-code: kantoorcode
+office-iguanas: Het kantoor is overspoeld met leguanen.
+office: Kantoor
+office: kantoor
+ohio: Ohio
+ohm: Ohm
+ohms: Ohms
+oklahoma-city: Oklahoma City
+oklahoma: Oaklahoma
+omaha: Omaha
+on-busy: op drukke
+on-monthly-tel-stment: op uw maandelijkse telefoonafschrift
+on-no-answer: op geen antwoord
+on: Op.
+on: op
+one-small-step: Dat is een kleine stap voor Asterisk, een grote sprong voor de mensheid.
+one-small-step2: Dat is een kleine stap voor Asterisk, een grote sprong voor de mensheid.
+oops1: Oeps
+oops2: Oeps (lacht)
+oops3: Oeps (lange o)
+open-parenthesis: open haakjes
+open: open
+operations: Operaties
+option-is-invalid: Die optie is ongeldig. Probeer het opnieuw.
+option-not-implemented: Die optie wordt niet uitgevoerd.
+or-press: of druk op
+or: of
+or: of
+order-desk: Bestelbalie
+orders: Bestellingen
+oregon: Oregon
+other-options-exercise: Alle andere opties zijn een oefening voor de beller.
+otherwise-press: druk anders op
+otherwise: Anders...
+our-business-hours-are: Onze openingstijden zijn
+outbound: Uitgaande
+outside-sales: Buitendienst
+outside-transfer: externe overdracht
+pacific: pacific
+packet: pakket
+panic: paniek
+partially: gedeeltelijk
+partly: gedeeltelijk
+pascal: pascal
+pascal2: pascal2
+patchy: vlekkerig
+patio: terras
+pence: Pence
+pennies: Pennies
+pennsylvania: Pennsylvania
+penny: Penny
+percent: procent
+percent: procent
+perhaps-we-are: Misschien zijn we
+perhaps-we-are2: Misschien zijn we
+period: periode
+personnel: Personeel
+persons-in-path-of: Personen in het directe pad van de
+philadelphia: Philadelphia
+phoenix: Pheonix
+phone: telefoon
+physics: Natuurkunde
+pin-invalid: Die speld is ongeldig voor deze conferentie.
+pin-number-accepted: Pin nummer geaccepteerd
+ping: Ping
+pipe: pijp
+planning: Planning
+play-room: speelkamer
+play: spelen
+please-answer-the-following: Beantwoord het volgende...
+please-contact-tech-supt: Neem contact op met de technische ondersteuning
+please-enter-first-three-letters: Voer de eerste drie letters van de voor- of achternaam van uw partij in.
+please-enter-the: Voer de
+please-enter-your: Voer uw
+please-hang-up-and-dial-operator: Hang op en bel de operator.
+please-hang-up-and-try-again: Hang op en probeer het opnieuw.
+please-try-again-later: Probeer het later nog eens.
+please-try: probeer het alsjeblieft
+please-wait-connect-oncall-eng: Wacht even, dan probeer ik u door te verbinden met onze oproepbare ingenieur.
+pls-ent-num-transfer: voer het nummer in dat u wilt gebruiken voor de oproepdoorschakeling
+pls-enter-conf-password: Voer het wachtwoord voor de conferentie in
+pls-enter-num-message-after-tone: Voer uw numerieke boodschap in na de toon.
+pls-enter-vm-password: Voer uw voicemail wachtwoord in
+pls-entr-num-uwish2-call: voer het nummer in dat u wilt bellen
+pls-hold-silent30: Even wachten (30 seconden stilte)
+pls-lv-msg-will-contact: Laat een bericht achter na de toon en een vertegenwoordiger zal zo snel mogelijk contact met u opnemen.
+pls-rcrd-name-at-tone: neem uw naam op bij de toon.
+pls-stay-on-line: Blijf aan de lijn en uw oproep wordt beantwoord door de volgende beschikbare vertegenwoordiger.
+pls-try-again: Probeer het opnieuw!
+pls-try-area-code: probeer het netnummer
+pls-try-manually: Probeer het handmatig.
+pls-wait-connect-call: Wacht alstublieft, terwijl ik uw gesprek doorverbind.
+plugh: Plugh (ploo-g)
+pm-announcement-number: Aankondiging nummer
+pm-phrase-management: Zinbeheer.
+pm-prompt-number: Prompt nummer...
+pm-to-record-phrase: Om een zin op te nemen
+pm-to-review-phrase: Een zin herzien
+point: Punt
+point: punt
+pool: zwembad
+pop: POP
+porch: veranda
+port: haven
+portland: Portland
+portnumber: poortnummer
+position: positie
+post-entry-pound: rekeningnummer van één cijfer, waarbij alle leestekens worden overgeslagen, gevolgd door de pondtoets.
+pounds: pond
+power-failure: stroomuitval
+presales-support: Ondersteuning voor presales
+presidents-office: Kantoor van de president
+press-0: Druk op 0.
+press-1: Druk op 1.
+press-1: Druk op 1.
+press-2: Druk op 2.
+press-2: Druk op 2.
+press-3: Druk op 3.
+press-3: Druk op 3.
+press-4: Druk op 4.
+press-4: Druk op 4.
+press-5: Druk op 5.
+press-5: Druk op 5.
+press-6-to-eject: of druk op 6 om de laatste gebruiker uit te werpen.
+press-6: Druk op 6.
+press-6: Druk op 6.
+press-7: Druk op 7.
+press-7: Druk op 7.
+press-8: Druk op 8.
+press-8: Druk op 8.
+press-9: Druk op 9.
+press-9: Druk op 9.
+press-button-again: Druk nog eens op die knop!
+press-enter: Druk op Enter.
+press-escape: Druk op Escape
+press-hash: Press Hash
+press-hash: Pers hash
+press-pound-save-changes: Druk op pond om uw wijzigingen op te slaan.
+press-pound-to-login-star-to-hangup: Druk op hekje om in te loggen op de voicemail, of * om op te hangen.
+press-pound: Press Pond
+press-pound: Pers pond
+press-return: Druk op return
+press-star-cancel: Druk op ster om te annuleren.
+press-star: Persster
+press-star: Persster
+press-the-space-bar: Druk op de spatiebalk
+press-tilde: Druk op tilde
+press: Druk op
+pressure: druk
+pressure: druk
+printing: Afdrukken
+privacy-blacklisted: Op de zwarte lijst
+privacy-blocked: Geblokkeerd
+privacy-if-error-leave-message-or-hangup: Als u vindt dat dit een vergissing is, of onrechtvaardig, laat dan een bericht achter na de toon. Anders kunt u nu ophangen.
+privacy-if-error: Als je denkt dat dit een vergissing is...
+privacy-if-sales-call-contact-in-writing: Als dit een ongevraagd verkoop- of marketinggesprek is, wijzen wij u erop dat wij alleen schriftelijk gecontacteerd willen worden.
+privacy-last-caller-was: De laatste beller was...
+privacy-not: NIET
+privacy-please-dial: Bel alstublieft...
+privacy-please-stay-on-line-to-be-connected: Blijf alstublieft aan de lijn om verbonden te worden.
+privacy-screening-unidentified-calls: Vanwege het enorme aantal ongevraagde oproepen die wij ontvangen, screenen wij nu alle inkomende oproepen waarvan de nummerweergave niet beschikbaar is of wordt geweigerd.
+privacy-stop-calling-not-welcome: Stop alsjeblieft met bellen.  Je bent hier niet welkom.
+privacy-stop-calling-not-welcome2: Stop alsjeblieft met bellen.  Je bent hier niet welkom. (geërgerd)
+privacy-this-number-is: Dit nummer is...
+privacy-to-blacklist-this-number: Om dit nummer op de zwarte lijst te zetten...
+privacy-to-hear-our-contact-details: om onze contactgegevens te horen
+privacy-to-whitelist-last-caller: Om de laatste beller op de witte lijst te zetten...
+privacy-to-whitelist-this-number: Om dit nummer te whitelisten...
+privacy-whitelisted: whitelisted
+privacy-you-are-blacklisted: Je staat op de zwarte lijst van dit systeem.
+privacy-you-are-calling-from: U belt van...
+privacy-your-callerid-is: Uw Caller*ID is...
+product: Product
+production: Productie
+projects: Projecten
+protocol: protocol
+psi: psi
+public-relations: Public Relations
+purchasing: Aankoop
+purposes: Doeleinden
+q-dot-931: q.931
+q-dot-9thirty1: q.9-thirty-one
+quality-assurance: Kwaliteitsborging
+quality-control: Kwaliteitscontrole
+quarter: kwartaal
+quickly: snel
+quiet-mode: stille modus
+quote: offerte
+race: Race
+rain: regen
+rainfall: Regenval
+rainy: regenachtig
+range: Bereik
+reassigned-new-areacode: is opnieuw toegewezen in een andere gebiedscode
+rebates: Kortingen
+received: ontvangen
+receiving: Ontvangst
+reception: Receptie
+recorded: opgenomen
+registrar: Registreer
+remote-already-in-this-mode-2: De afstandsbediening staat al in deze modus.
+remote-already-in-this-mode: afstandsbediening al in deze modus staat.
+remote-base: Afstandsbediening
+repair: Reparatie
+repeat-only: Alleen herhalen
+repeater: Repeater
+research-and-development: Onderzoek & Ontwikkeling
+research: Onderzoek
+reservations: Reserveringen
+reset: reset
+restarting: Opnieuw opstarten
+rhode-island: Rhode Island
+right-bracket: rechterbeugel
+rising: opkomend
+rising: opkomend
+risk-management: Risicobeheer
+roaming: Roaming
+roof: dak
+room-service: Room Service
+room: room
+rooms: rooms
+route-sip: Uw gesprek wordt over SIP geleid.
+rqsted-wakeup-for: Je hebt gevraagd om een wakeup call voor...
+sacramento: Sacramento
+saint-louis: St. Louis
+sales-floor: Verkoopvloer
+sales: Verkoop
+san-antonio: San Antonia
+san-diego: San Diego
+san-francisco: San Francisco
+san-jose: San Jose
+save-announce-press: Om deze mededeling op te slaan, drukt u op
+say-temp-msg-prs-pound: zeg uw tijdelijk bericht en druk dan op de pondtoets
+says-thats-stupid: zegt dat dat een heel dom ding is om te doen.
+scattered: verspreid
+sciences: Wetenschap
+seattle: Seattle
+second-floor: tweede verdieping
+second: tweede
+secretary: Secretaris
+secure: beveiligde
+security-system: beveiligingssysteem
+security: Beveiliging
+self-destruct-in: Dit systeem zal zichzelf vernietigen in...
+self-destruct: Zelfvernietiging
+server: Server
+service-not-implemented: Die dienst wordt niet uitgevoerd.
+service: Service
+set: stel
+seventeenth: zeventiende
+seventh: zevende
+seventieth: zeventigste
+severe: ernstige
+shall-i-try-again: Zal ik het nog eens proberen?
+shiny-brass-lamp: Er is een glanzende koperen lamp in de buurt.
+shipping: Verzending
+shop: Winkel
+show-office: Toon kantoor
+side: zijkant
+sighted: gezien
+simplex: Simplex
+sixteenth: zestiende
+sixth: zesde
+sixtieth: zestigste
+sleet: sleet
+sleeting: ijzel
+slow: langzaam
+slowly: langzaam
+snow: sneeuw
+snowing: sneeuwen
+snowy: besneeuwde
+software: software
+solar: zonne
+someone-you-trust1: Iemand die je vertrouwt is een van ons.
+someone-you-trust2: Iemand die je vertrouwt is een van ons.
+someone-you-trust3: Iemand die je vertrouwt is een van ons.
+sorry-cant-let-you-do-that: Het spijt me, dat kan ik je niet laten doen.
+sorry-cant-let-you-do-that2: Het spijt me, dat kan ik je niet laten doen.
+sorry-cant-let-you-do-that3: Het spijt me, dat kan ik je niet laten doen.
+sorry-mailbox-full: Sorry, maar de mailbox van de gebruiker kan niet meer berichten accepteren.
+sorry2: Het spijt ons, maar we kunnen uw oproep op dit moment niet beantwoorden.
+south-carolina: South Carolina
+south-dakota: South Dakota
+south: zuid
+southeast: zuidoost
+southerly: zuidelijk
+southwest: zuidwest
+spam: Dank u voor het bellen van Speciale Prijs Analyse en Marketing.  Voor goedkope generieke Vallium, Xanex of Viagra druk op 1.  Voor Gucci en Rolex replica's druk op 2.  Om uw penis of borsten te vergroten, drukt u op 3.  Om met de Minister van Financiën van Nigera te spreken over een 50 miljoen dollar rekening, druk op 4.
+spam2: Spam
+speak-louder-into-phone: spreek luider of spreek rechtstreeks in de telefoon om een duidelijke opname te verzekeren.
+speak-louder: spreek luider voor een duidelijke opname
+speak-to-the-operator: spreek met de operator
+speed: snelheid
+splat: Splat
+sprinklers: sprinklers
+ssh: SSH
+staff: personeel
+staffing: personeel
+standard: standaard
+star-for-menu-again: Druk op de ster-toets om dit menu opnieuw te horen
+starting-with-either: beginnend met
+station: station
+status: status
+steady: stabiel
+step-in-stream: Je stapt in de stroom, maar het water heeft zich verplaatst.
+sterling: sterling
+still: stille
+store-accounting: Winkel Boekhouding
+storm: storm
+stove: kachel
+sump-pump: dompelpomp
+sun-room: serre
+sun: zon
+sunny: sunny
+support: Ondersteuning
+swap: Swap
+system-crashed: Het systeem is gecrasht
+system-status-msg: Luister goed naar het volgende statusbericht van het systeem.
+system: Systeem
+system: systeem
+systems: Systemen
+systems: systemen
+talking-to-myself: Praat ik tegen mezelf?
+target-attendant: wachtend op doel
+tcp: TCP
+technical-support: Technische ondersteuning
+telephone-in-your-pocket: Oooo! Is dat een telefoon in je zak, of ben je gewoon blij me te zien?
+telephone-in-your-pocket2: Oooo! Is dat een telefoon in je zak, of ben je gewoon blij me te zien?
+telesales: Telesales
+teletubbie-murder: is bruut vermoord en verminkt door de Teletubbies.
+telnet: Telnet
+temp-disconnected: is tijdelijk losgekoppeld
+temperature: temperaturen
+temperature: temperaturen
+tennessee: Tennessee
+tenth: tiende
+terabits: Terabits
+terabytes: Terabytes
+terminated: beëindigd
+terminating: het beëindigen van
+test-tones-follow: Testtonen volgen.
+texas: Texas
+thank-you-cooperation: Dank u voor uw medewerking.
+thank-you-for-calling: Bedankt voor het bellen.
+thanks-for-calling-today: Bedankt voor het bellen vandaag.
+thanks-for-using: Bedankt voor het gebruik van
+that-is-not-rec-phn-num: Dat is geen erkend telefoonnummer
+that-number: dat aantal
+that-tickles: Oooh, dat kietelt!
+that-you-require: die je nodig hebt
+the-mailbox: De brievenbus
+the-monkeys-twice: De apen!  DE APEN!
+the-new-number-is: Het nieuwe nummer is
+the-next: de volgende
+the-num-i-have-is: het nummer dat ik heb is
+the-number-u-dialed: Het gekozen nummer
+the-party-you-are-calling: De partij die u belt
+the-weather-at: het weer bij
+then-press-pound: druk dan op pond
+there-are: Er zijn...
+there-is-no-customer-support: Dit is geen klantenservice.
+thermostat: thermostaat
+these-are-currently: deze zijn momenteel
+third: derde
+thirteenth: dertiende
+thirtieth: dertigste
+this-call-may-be-monitored-or-recorded: Dit gesprek kan worden gevolgd of opgenomen
+this-call-may-be: Deze oproep kan
+this-call-will-cost: Dit gesprek kost...
+this-call-will-end-in: Dit gesprek zal eindigen in
+this-is-the-voice-mail-system: Dit is het voicemailsysteem
+this-is-yr-wakeup-call: Dit is je wake-up call.
+this: deze
+thnk-u-for-patience: dank u voor uw geduld
+thousandth: duizendste
+through: Via
+thunderstorm: onweer
+tide: getij
+time: tijd
+times: keer
+to-accept-recording: om deze opname te accepteren
+to-be-called-back: Om teruggebeld te worden wanneer een vertegenwoordiger beschikbaar is, druk op...
+to-blklist-last-caller: Om de laatste beller op de zwarte lijst te zetten, drukt u op...
+to-blklist-last-num: Om het laatste nummer op de zwarte lijst te zetten, drukt u op...
+to-call-num-press: Om dit nummer te bellen, druk...
+to-call-prson-w-sent-msg: om de persoon te bellen die dit bericht stuurde
+to-cancel-this-msg: om dit bericht te annuleren
+to-cancel-wakeup: Om een wakeup call te annuleren...
+to-change-exp-date: om de vervaldatum te wijzigen
+to-change-your-pin-number: Om uw pincode te wijzigen
+to-collect-voicemail: om voicemail op te halen
+to-compose-a-message: om een bericht samen te stellen
+to-confirm-wakeup: Om een wakeup call te bevestigen...
+to-control-environ-sys: om milieusystemen te controleren
+to-control-lights-appl: om verlichting en apparaten te bedienen
+to-dial-by-name-press: om op naam te kiezen, druk op
+to-dial-by-name: Om op naam te bellen...
+to-enter-a-diff-number: om een ander nummer in te voeren
+to-enter-a-number: om een nummer in te voeren
+to-erase-yr-temp-grtg: om uw tijdelijke begroeting te wissen
+to-hang-up-2: Om op te hangen
+to-hang-up: Om op te hangen (langzamer)
+to-hear-callerid: Om de Caller*ID van de laatste oproep te horen
+to-hear-menu-again: om dit menu weer te horen
+to-hear-msg-again: om deze boodschap opnieuw te horen.
+to-hear-msg-envelope: om de berichtenvelop te horen
+to-hear-net-status: om de huidige netwerkstatus te horen,...
+to-hear-weather-status: om de weerstatus te horen,...
+to-hear-your-account-balance: Om uw rekeningsaldo te horen
+to-join-a-meeting: om deel te nemen aan een vergadering
+to-leave-message-for: Om een bericht achter te laten voor
+to-log-in-to-voice-mail: Om in te loggen op de voicemail
+to-place-outgoing-call: om een uitgaande oproep te plaatsen
+to-reach-first-rep: Om de eerste beschikbare representatieve
+to-reach-operator: Om de operator te bereiken
+to-reach-operator: om een operator te bereiken
+to-rec-yr-temp-grtg: om uw tijdelijke begroeting op te nemen
+to-record-call: om gesprek op te nemen
+to-redial-the-last-number-you-called: Om het laatst gebelde nummer opnieuw te kiezen
+to-report-emergency: Om een noodgeval te melden...
+to-report-system-network-down: Om een systeem of netwerk down te melden
+to-rerecord-announce: Om deze aankondiging opnieuw op te nemen, drukt u op
+to-rerecord-yr-message: om uw bericht opnieuw op te nemen
+to-rmv-num-blklist: Om een nummer van de zwarte lijst te verwijderen, drukt u op...
+to-rqst-wakeup-call: Om een wakeup call aan te vragen...
+to-send-a-reply: om een antwoord te sturen
+to-snooze-for: Om te snoozen voor...
+to-use-def-attendant: om de standaard bediende te gebruiken, druk gewoon op de toets
+tomorrow-night: morgenavond
+tones-that-follow-are-for-the-deaf: De tonen die volgen zijn voor doven.
+tonight: vanavond
+too-low: te laag
+tornado: tornado
+touchtone1: Als u belt met een draaischijftelefoon, hang dan op, ga naar een telefoonwinkel en koop een van die nieuwe uitvindingen, een telefoon met aanraaktoon.
+touchtone2: En als je belt met een draaischijftelefoon, hallo, dan is er dit ding genaamd touch tone sweety dat je misschien wilt onderzoeken.
+touchtone3: Als u belt met een draaischijftelefoon, hang dan op, ga naar een telefoonwinkel en koop een van die nieuwerwetse uitvindingen uit de 21e eeuw die een telefoon met aanraaktoon heet.
+towards: naar
+tower: toren
+trading-desk: Handelsdesk
+traffic: Verkeer
+training: Handel
+transportation: Vervoer
+travel: Reizen
+treasury: Schatkist
+tucson: Tuscon
+tulsa: Tulsa
+turn-off-recording: om gespreksopname uit te schakelen
+turning-to: naar
+twelveth: twaalfde
+twentieth: twintigste
+twisty-maze: Je bent in een doolhof van kronkelige menu's, allemaal hetzelfde.
+typhoon: typhoon
+udp: UDP
+uh-oh1: Uh oh!  [in een schattige, Teletubbie's achtige stem]
+uh-oh2: Uh oh!  [in een schattige, Teletubbie's achtige stem]
+uk: UK
+unavailable: Niet beschikbaar
+unconditional: onvoorwaardelijk
+units: eenheden
+unix: Unix
+unlocked: ontgrendeld
+unlocking: ontgrendelen
+up: op
+up: op
+uptime: uptime
+user: gebruiker
+users: gebruikers
+utah: Utah
+variable: variabele
+vermont: Vermont
+virginia-beach: Virginia Beach
+virginia: Virgina
+visibility: Zichtbaarheid
+visit-asterisk-website: Bezoek de asterisk-website op w w w dot asterisk dot org
+voice-mail-system: Voicemailsysteem
+volt: Volt
+volts: Volts
+wait-moment: Wacht even.
+wait-offensive-sounds: Wacht even terwijl ik onze gigantische bibliotheek met beledigende geluiden open!
+wakeup-call-cancelled: Je wake-up call is geannuleerd.
+wakeup-call: Wakeup call
+wakeup-daily: Dagelijkse wekdienst
+wakeup-for-daily: Voor de dagelijkse wekker...
+wakeup-for-one-time: Voor een eenmalige wakeup call
+wakeup-onetime: Eenmalig wakker worden
+walks-into-bar-mail: Een man loopt een bar binnen, gaat zitten en... welkom bij Comedian Mail!
+warning: waarschuwing
+was-last-seen: werd het laatst gezien
+was: was
+washing-machine: wasmachine
+washington-dc: Washington, DC
+washington: Washington
+watch: kijk naar
+water-heater: boiler
+watt: Watt
+watts: Watts
+we-apologize: wij verontschuldigen ons
+we-dont-have-tech-support: We hebben geen technische ondersteuning.
+weasels-eaten-phonesys: Wezels hebben ons telefoonsysteem opgegeten.
+weather-station: weerstation
+weather: weer
+web: web
+weeks: weeks
+welcome: welkom
+well-pump: bronpomp
+were-sorry: Het spijt ons...
+west-virginia: West Virgina
+west: west
+westerly: westelijk
+what-are-you-wearing: Wat heb je aan?
+what-time-it-is: Heb je enig idee hoe laat het is?
+what-time-it-is2: Heb je enig idee hoe laat het is?
+when-dialing-this-number: Als je dit nummer belt...
+who-would-you-like-to-call: Wie wil je bellen?
+why-no-answer-mystery: Uw oproep is belangrijk voor ons, maar waarom we die nog niet beantwoord hebben is zelfs voor ons een raadsel.
+wichita: Wichita
+will-apply: zal van toepassing zijn
+will-expire: zal vervallen
+will-not-expire: zal niet vervallen
+will-reflect-charge-of: zal een last weergeven van
+wind-chill: gevoelstemperatuur
+wind: wind
+window: raam
+windows: Windows
+windows: windows
+winds: winds
+windy: winderig
+wisconsin: Wisconsin
+wish-to-continue: wilt u doorgaan?
+within: binnen
+work: werk
+wrong-try-again-smarty: Fout, fout, fout.  Probeer het nog eens, slimmerik.
+wtng-to-spk-w-rep: wachtend om met een vertegenwoordiger te spreken
+www-switchboard-com: www.switchboard.com
+wyoming: Wyoming
+xmas-lights: Kerstverlichting
+xmas-tree: Kerstboom
+yard: werf
+yeah: Ja!
+year: jaar
+years: jaren
+yes-dear: Ja, schat. (geërgerd)
+yes-dear2: Ja, schat. (speels)
+you-are-caller-num: u bent beller nummer
+you-are-curr-call-num: u bent momenteel oproepnummer
+you-can-press: U kunt op
+you-dialed-wrong-number: Je hebt het verkeerde nummer gedraaid.
+you-have-dialed: Je hebt gebeld
+you-have-reached-a-test-number: Je hebt een testnummer bereikt.
+you-have-these-options: Je hebt deze opties.
+you-must-first-dial: U moet eerst
+you-seem-impatient: Je lijkt ongeduldig
+you-sound-cute: Dus, _je_ klinkt schattig.
+you-wish-to-join: u wilt toetreden
+your-account: Uw rekening
+your-msg-has-been-saved: Uw bericht is opgeslagen
+your-msg-is-too-short: Je bericht is te kort.
+your-temp-greeting: uw tijdelijke groet
+zip-code: postcode
+alert: waarschuwing
+cc-amex: American Express
+cc-discover: Ontdek
+cc-mastercard: Mastercard
+cc-visa: Visa
+invalid-featurecode: Het spijt me.  Die functiecode wordt niet ondersteund.  Probeer het opnieuw.
+pls-hold-process-tx: Wacht alstublieft terwijl wij uw transactie verwerken.
+privacy-restricted-by-req: ...beperkt op verzoek van de klant.
+tt-codezone_MIXDOWN: Deze snelweg leidt naar de schaduwzijde van de werkelijkheid...
+tt-codezone: Deze snelweg leidt naar de schaduwzijde van de werkelijkheid...
+tt-hangup: Druk op 1 om dit gesprek te beëindigen, of een andere toets om op te hangen.
+tt-monty-knights: Ga je billen koken, stomme Engelse kniggggits. Ik laat scheten in jullie richting.  Je moeder was een hamster en je vader rook naar vlierbessen. Ga nu weg of ik zal je een tweede keer beschimpen.
+tx-has-been-approved: Uw transactie is goedgekeurd.
+your-notifications: ...uw meldingen.
+your-req-notification: ...uw gevraagde mededeling.
+account_number: Uw rekeningnummer
+after_tone: Na de toon
+andnowstandby: Hou je klaar voor 10 minuten van je leven die je nooit meer terug krijgt.
+at_tone: Op de toon
+awkward: Awkward (gezongen)
+binary: Bedankt voor het bellen. Wij kunnen uw oproep op dit moment niet beantwoorden en hebben uw oproep doorgestuurd naar een Babbage difference engine voor parsing en transcriptie. Om fouten te voorkomen verzoeken wij u een bericht achter te laten in woorden van één lettergreep of minder en geen lange zinnen te maken. U kunt ook een binair bericht achterlaten met de woorden een en nul of oh. Dank u.
+bombsquad: Bedankt voor het bellen. Uw anonieme tip is opgenomen en het bomopruimingsteam is naar uw locatie gestuurd. Er is geen verdere actie nodig, tenzij u een schone korte broek nodig heeft. Daar kunnen we u niet mee helpen.
+challenge_try_again: Dat geeft niet. Ik hou van een uitdaging.  Laten we het nog een keer proberen.
+closed: gesloten
+comedyclub: Bedankt voor het bellen om te informeren naar onze comedy club. Het is te leen om verdere verspreiding van slechte woordspelingen te ontmoedigen. Laat alstublieft contactinformatie achter na de toon.
+countdown: Bedankt voor het bellen. Zelfvernietiging is gestart en zal over dertig seconden plaatsvinden. Als u denkt dat u per ongeluk deze bestemming heeft bereikt, voer dan nu de 12-cijferige code in of hang op en zoek onmiddellijk een schuilplaats.
+crashing_conf: Ga je naar deze conferentie?
+current_account_balance: Uw huidige rekeningsaldo is
+donotcall1: Dit nummer staat op de bel-me-niet lijst.  Uw nummer is geregistreerd.  Als u denkt dat u dit nummer per ongeluk hebt bereikt, kunt u nu op één drukken om een bericht in te spreken.  Laat gerust uw eigen huisnummer achter, zodat wij u op een door ons gekozen tijdstip kunnen terugbellen.
+donotcall2: Voeg dit nummer toe aan uw bel-me-niet lijst.
+eletelephony: "Er was eens een olifant,
+Who tried to use the telephant.
+No! no! I mean an elephone
+Who tried to use the telephone.
+(Dear me! I am not certain quite
+That even now I've got it right.)
+Howe'er it was, he got his trunk
+Entangled in the telephunk;
+The more he tried to get it free,
+The louder buzzed the telephee
+(I fear I'd better drop the song
+Of elephop and telephong!) 
+
+[An Eletelephony Poem by Laura Elizabeth Richards]"
+enter_account: Voer uw rekeningnummer in.
+error: Fout
+feeling_lucky_punk: "Je moet jezelf één vraag stellen...
+followed_hash: . . .gevolgd door de hash sleutel.
+followed_pound: ...gevolgd door de pondtoets.
+forget_about_it: Fuggetaboutit. {lees in de stijl van Tony Soprano}
+get_bleep_outta: Dat is geweldig. En nu wegwezen!
+get_information_first: Kan ik eerst wat informatie van je krijgen?
+get_information: Ik heb alleen wat informatie van je nodig.
+get-in-line-sales-guy: Bedankt voor het bellen. We beantwoorden oproepen alleen op afspraak. Onze eerste beschikbare afspraak is ongeveer 90 dagen vanaf vandaag. Om een afspraak te plannen, druk op 1 en laat de datum en tijd van uw gewenste afspraak en een telefoonnummer thuis achter. We nemen het volgende weekend contact met u op als het beschikbaar is. Om dit bericht te herhalen, druk op 2.
+grammar: Bedankt voor het bellen. Laat alstublieft een bericht achter na de toon. Om telefonische spam en phishing te voorkomen wordt uw bericht door een Engelse majoor (of majorette) bekeken en als er grammaticale, spannings- of structurele fouten in staan, wordt het genegeerd. Spreek duidelijk uit om problemen met homoniemen te voorkomen. Bedankt en nog een fijne dag.
+goodbye_for_the_best: Tot ziens. Nee, echt, het is waarschijnlijk het beste. Tot ziens.
+goodbye_love: Tot ziens. Bedankt voor het uitproberen van de Asterisk open source PBX. Je houdt ervan, toch?
+got_kidding: OMG - Je maakt een grapje.
+hal_goodbye: kan dit telefoontje geen doel meer dienen. Tot ziens.
+happy_saved: Ik ben blij u te kunnen zeggen dat uw bericht is opgeslagen.
+is: is
+keywords_cross_fingers: Voer een of meer trefwoorden in, gescheiden door een sterretje, kruis uw vingers en druk op de pondtoets.
+like_to_tell_valid_ext: Ik zou je graag vertellen dat dat een geldige verlenging is, maar dat kan ik niet. Probeer het nog eens.
+martini: Ik ben bang dat ik geen verbinding kan maken met de Digium Demonstratie Asterisk server.  Geloof me, ik ben ook gefrustreerd.  Misschien vindt u nuttige foutopsporingsinformatie op de Asterisk-console. Ik ga een martini drinken.
+messages_curious: Om je berichten te bekijken druk je nu op 1.  Kom op, je weet dat je nieuwsgierig bent. Als je hier zo klaar mee bent kun je de voicemail op elk moment verlaten door op de pondtoets te drukken.
+mind_repeating: Zou je dat willen herhalen?
+minions-not-answering-leave-message: Het spijt me, mijn bedienden konden u niet doorverbinden, dus laat een bericht achter.
+mode: modus
+night: nacht
+no_invite_to_conf: Die pincode is ongeldig voor deze conferentie.  Is er een kans dat u niet bent uitgenodigd?
+no_longer_conf: zit niet meer in de conferentie.
+no_problem_help: Geen probleem. Ik kan je daarmee helpen.
+no_worries_try_again: Geen zorgen. Laten we het nog eens proberen.
+none_of_my_business1: . . . Is niet beschikbaar. Ik heb geen idee wat ze van plan zijn. Dat zijn mijn zaken niet!
+none_of_my_business2: Er is momenteel niemand beschikbaar om uw telefoontje aan te nemen. Ik heb geen idee wat ze van plan zijn. Dat zijn mijn zaken niet!
+not_me: Ik ben het niet, jij bent het.  Laten we een agent zoeken.
+not_pass: Je zult niet passeren!
+not_you: Het ligt niet aan jou, het ligt aan mij.  Laten we een agent zoeken.
+not_siri: Ik denk dat je me verwart met Siri.
+off: uit
+OfficeSpace: Hallo, een momentje.
+ogm_home: Er is nu niemand om uw oproep te beantwoorden.  Laat een bericht achter en iemand zal u terugbellen.
+on: op
+open: open
+passwords_not_match: De wachtwoorden die je hebt ingevoerd en opnieuw hebt ingevoerd komen niet overeen.  Ik weet niet wat ik moet zeggen.  Probeert u het alstublieft opnieuw?
+pin_number: uw pincode.
+please-hold-minion-connect: Blijf in de wacht staan terwijl mijn handlangers uw gesprek proberen door te verbinden.
+please-hold-while-minion: Wacht even terwijl ik een bediende zoek om uw oproep te beantwoorden.
+press_pound_hash_key: druk op de pond of hash toets.
+press_pound_hash: druk op pond of hasj.
+press-or-say-0: Druk op of zeg nul.
+press-or-say-1: Druk op of zeg 1
+press-or-say-2: Druk op of zeg 2
+press-or-say-3: Druk op of zeg 3
+press-or-say-4: druk op of zeg 4
+press-or-say-5: Druk op of zeg 5
+press-or-say-6: Druk op of zeg 6
+press-or-say-7: Druk op of zeg 7
+press-or-say-8: Druk op of zeg 8
+press-or-say-9: Druk op of zeg 9
+prime_number: Om verder te gaan, voer een willekeurig 7-cijferig primair nummer in, gevolgd door de pondtoets.
+prompt-not-found: Het prompt bestand is niet gevonden.
+quality_control: Voor de kwaliteitscontrole... voor de kwaliteitscontrole kan dit gesprek...
+Randulo-allison: Allsion
+regret_not_saved: "Het spijt me u te moeten vertellen
+repeat_pin: Ik ga uw pincode herhalen.  Ik denk dat u zei
+said_hold_on: Ik zei wacht even!
+saleshell: Laat een bericht achter na de toon, als dit een verkoop is, bel dan nu 5.
+sendhelp: Bedankt voor het bellen. Uw locatie is geïdentificeerd en een SWAT team is naar uw locatie gestuurd. U hoeft verder niets te doen. U wordt binnenkort gered.
+SIP_Test_Failure: Ga zo door bozo!
+SIP_Test_Success: Uw test is geslaagd en het SIP-apparaat of de standaardnaleving die u probeert te repareren heeft gewerkt. Geniet van uw werk totdat er iets anders kapot gaat.
+sorry_caller_number: "Het spijt me u te moeten vertellen, u bent momenteel beller nummer
+sorry_didnt_get: Het spijt me zo. Ik heb dat niet begrepen.
+sorry_login_incorrect: Sorry. Aanmelding onjuist. Probeer het nog eens.
+sorry_missed: Het spijt me, dat heb ik gemist.
+sorry_no_messages: Sorry, geen berichten meer. Uw wens is mijn bevel. Helemaal.
+sorry_didnt_quite_get: Sorry, dat had ik niet begrepen.
+sorrydave: Het spijt me Dave, ik ben bang dat ik dat niet kan doen.
+still_on_phone: is nog steeds aan de telefoon.  Jeepers. Chatty Cathy!
+sure_help: Natuurlijk. Ik kan je daarmee helpen.
+talkin_me: Heb je het tegen mij?
+telemarketercalling: Er zijn telemarketingoproepen gemeld vanaf uw nummer.
+thank_you_calling: Bedankt voor het bellen.
+thanks-annoyance: Bedankt voor het bellen. Wacht even terwijl ik iemand zoek die uw constante geklaag en gezeur kan verdragen.
+timewarp: Door de voorbijgaande verschijning van een tijdsvervorming in de buurt zal er de komende eeuw niemand zijn om te antwoorden. Laat een bericht achter na de toon en we zullen minstens een maand voor uw oproep reageren. Dank u en een prettige dag verder.
+tone_time: "Bij de toon, zal de tijd
+transfer_to_agent: Ik denk dat ik je moet overplaatsen naar een agent.  Wacht even.
+unicorn_blood_MIXDOWN: Asterisk is een open source PBX- en IVR-platform dat draait op het besturingssysteem Linux en een beetje eenhoornbloed.  Ga voor meer informatie naar Asterisk.org.
+unicorn_blood: Asterisk is een open source PBX- en IVR-platform dat draait op het besturingssysteem Linux en een beetje eenhoornbloed.  Ga voor meer informatie naar Asterisk.org.
+unwelcomecall: Uw oproep is niet welkom.
+watson: Het spijt me, de persoon die u heeft bereikt heet niet Watson. We willen u graag helpen, maar we moeten eerst de kinderen ophalen van de voetbaltraining. We bellen u zo snel mogelijk terug.
+whoareyou: Mag ik vragen wie er belt?
+wish_command_totally: Um. Zou je het erg vinden als ik je laat zien hoe we het in Canada doen?
+woo_hoo_call_first: Woohoo! Uw oproep is nu de eerste in de rij en zal worden beantwoord door de volgende beschikbare vertegenwoordiger.
+you_say_yes: Ray, als iemand je vraagt of je een god bent, zeg je JA!
+yourcallisimportant: Uw telefoontje is belangrijk voor ons. Daarom hoort u het komende half uur dezelfde 10 seconden loop tegen 12 cent per minuut.
+yourcallisimpotent: Uw oproep is machteloos voor ons.
+zombies: Door de aanwezigheid van zombies op de locatie die u gebeld heeft is het kantoor geëvacueerd. Laat een bericht achter en we bellen u zo snel mogelijk terug, tenzij de Apocalyps eerst komt. In dat geval hebben we waarschijnlijk andere prioriteiten.
+pls-listen-options-changed: Luister goed, want de menuopties zijn veranderd.
