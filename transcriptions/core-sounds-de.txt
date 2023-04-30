@@ -149,7 +149,7 @@ digits/16: sechzehn
 digits/17: siebzehn
 digits/18: achtzehn
 digits/19: Neunzehn
-digits/1: eine
+digits/1: eins
 digits/20: zwanzig
 digits/2: zwei
 digits/30: dreißig
@@ -232,6 +232,18 @@ digits/thousand: Tausend
 digits/today: heute
 digits/tomorrow: morgen
 digits/yesterday: gestern
+digits/1-and: einund
+digits/1F: eine
+digits/1N: ein
+digits/2-and: zweiund
+digits/3-and: dreiund
+digits/4-and: vierund
+digits/5-and: fünfund
+digits/6-and: sechsund
+digits/7-and: siebenund
+digits/8-and: achtund
+digits/9-and: neunund
+digits/millions: Millionen
 dir-first: Buchstaben des Vornamens Ihrer Partei.
 dir-firstlast: ... die Buchstaben des Vor- oder Nachnamens Ihrer Partei.
 dir-instr: Wenn dies die gesuchte Person ist, drücken Sie jetzt die 1, andernfalls drücken Sie bitte jetzt Stern.
