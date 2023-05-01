@@ -60,7 +60,7 @@ an-error-has-occurred: Es ist ein Fehler aufgetreten.
 an-error-has-occured: Ein Fehler ist aufgetreten. (Symlink zu 'an-error-has-occurred')
 and-area-code: und die Vorwahl...
 and-or: und/oder
-and-prs-pound-whn-finished: Und drücken Sie auf "Pfund", wenn Sie fertig sind.
+and-prs-pound-whn-finished: Und drücken Sie auf "Raute", wenn Sie fertig sind.
 and: und
 another-time: ein anderes Mal
 approaching: Anflug auf
@@ -77,7 +77,7 @@ astcc-balance-of-account-is: Der Saldo Ihres Kontos ist...
 astcc-card-number-invalid: Die von Ihnen eingegebene Kartennummer ist ungültig.
 astcc-digit-account-number: -stellige Kontonummer
 astcc-followed-by-the-hash-key: gefolgt von dem Hash-Schlüssel.
-astcc-followed-by-the-pound-key: gefolgt von Pfund.
+astcc-followed-by-the-pound-key: gefolgt von der Raute.
 astcc-login12pound: Bitte geben Sie Ihre 12-stellige Kontonummer ohne Satzzeichen ein, gefolgt von der Rautetaste.
 astcc-please-enter-your: Bitte geben Sie Ihre...
 astcc-skipping-any-punctuation: Überspringen jeglicher Interpunktion
@@ -824,7 +824,7 @@ portland: Portland
 portnumber: Portnummer
 position: Position
 post-entry-pound: zweistellige Kontonummer, ohne Satzzeichen, gefolgt von der Rautetaste.
-pounds: Pfund
+pounds: Pfunde
 power-failure: Stromausfall
 presales-support: Unterstützung des Vorverkaufs
 presidents-office: Büro des Präsidenten
@@ -855,8 +855,8 @@ press-hash: Presse Hash
 press-hash: Presse-Raute
 press-pound-save-changes: Drücken Sie die Rautetaste, um Ihre Änderungen zu speichern.
 press-pound-to-login-star-to-hangup: Drücken Sie die Rautetaste, um sich bei der Mailbox anzumelden, oder *, um aufzulegen.
-press-pound: Pfund drücken
-press-pound: Presse Pfund
+press-pound: Drücken Sie Raute
+press-pound: Drücken Sie Raute
 press-return: Rückkehr drücken
 press-star-cancel: Zum Abbrechen Stern drücken.
 press-star: Presse-Stern
@@ -1363,8 +1363,8 @@ passwords_not_match: Die von Ihnen eingegebenen und erneut eingegebenen Kennwör
 pin_number: Ihre PIN-Nummer.
 please-hold-minion-connect: Bitte bleiben Sie dran, während meine Mitarbeiter versuchen, Ihren Anruf zu verbinden.
 please-hold-while-minion: Bitte bleiben Sie dran, während ich einen Lakaien finde, der Ihren Anruf entgegennimmt.
-press_pound_hash_key: drücken Sie die Pfund- oder Rautetaste.
-press_pound_hash: drücken Sie Pfund oder Rauten.
+press_pound_hash_key: drücken Sie die Rautetaste.
+press_pound_hash: drücken Sie Raute.
 press-or-say-0: Drücken Sie oder sagen Sie Null.
 press-or-say-1: Drücken Sie oder sagen Sie 1
 press-or-say-2: Drücken Sie oder sagen Sie 2

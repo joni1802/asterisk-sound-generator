@@ -6,7 +6,7 @@ agent-alreadyon: Dieser Agent ist bereits angemeldet.  Bitte geben Sie Ihre Agen
 agent-incorrect: Anmeldung falsch.  Bitte geben Sie Ihre Agentennummer gefolgt von der Rautetaste ein.
 agent-loggedoff: Agent abgemeldet.
 agent-loginok: Agent eingeloggt.
-agent-newlocation: Bitte geben Sie eine neue Durchwahl ein, gefolgt von einem Pfund.
+agent-newlocation: Bitte geben Sie eine neue Durchwahl ein, gefolgt von einer Raute.
 agent-pass: Bitte geben Sie Ihr Passwort ein, gefolgt von der Rautetaste.
 agent-user: Agenten-Login.  Bitte geben Sie Ihre Agentennummer gefolgt von der Rautetaste ein.
 all-circuits-busy-now: Alle Schaltkreise sind jetzt besetzt.
@@ -226,7 +226,7 @@ digits/mon-9: Oktober
 digits/oclock: Uhr
 digits/oh: oh
 digits/p-m: nachmittags
-digits/pound: Pfund
+digits/pound: Raute
 digits/star: Stern
 digits/thousand: Tausend
 digits/today: heute
@@ -539,7 +539,7 @@ vm-rec-name: Sagen Sie nach dem Ton Ihren Namen und drücken Sie dann die Rautet
 vm-rec-temp: Sprechen Sie nach dem Ton Ihre vorläufige Nachricht und drücken Sie dann die Rautetaste.
 vm-rec-unv: Sagen Sie nach dem Ton Ihre nicht verfügbare Nachricht und drücken Sie dann die Rautetaste.
 vm-received: erhalten
-vm-record-prepend: Nach dem Signalton sprechen Sie bitte eine Einleitung zu der weitergeleiteten Nachricht.  Wenn Sie fertig sind, drücken Sie das Pfund-Zeichen.
+vm-record-prepend: Nach dem Signalton sprechen Sie bitte eine Einleitung zu der weitergeleiteten Nachricht.  Wenn Sie fertig sind, drücken Sie das Raute-Zeichen.
 vm-reenterpassword: Bitte geben Sie Ihr Passwort erneut ein, gefolgt von der Rautetaste.
 vm-repeat: Drücken Sie 5, um die aktuelle Nachricht zu wiederholen.
 vm-review-nonurgent: Drücken Sie 4, um den Dringlichkeitsstatus dieser Nachricht aufzuheben.
@@ -562,7 +562,7 @@ vm-theperson: Die Person bei der Durchwahl
 vm-tmpexists: Es gibt eine temporäre Begrüßung, die Ihre Standardansagen außer Kraft setzt.
 vm-tocallback: Drücken Sie 2, um die Person anzurufen, die diese Nachricht gesendet hat
 vm-tocallnum: Drücken Sie 1, um diese Nummer anzurufen
-vm-tocancel: oder Pfund zum Abbrechen.
+vm-tocancel: oder Raute zum Abbrechen.
 vm-tocancelmsg: Drücken Sie Stern, um diese Nachricht abzubrechen
 vm-toenternumber: 1 drücken, um eine Nummer einzugeben
 vm-toforward: Drücken Sie 8, um die Nachricht an einen anderen Benutzer weiterzuleiten
