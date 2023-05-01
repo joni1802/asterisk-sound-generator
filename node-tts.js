@@ -4,6 +4,7 @@ import { parseSoundFile } from "./parse.js";
 import { mkdir, writeFile } from "node:fs/promises";
 import googleTtsApi from "@google-cloud/text-to-speech";
 import * as dotenv from "dotenv";
+import { existsSync } from "node:fs";
 
 dotenv.config();
 
@@ -29,7 +30,7 @@ async function init() {
   let counter = 0;
 
   for (let { name, text } of coreSounds) {
-    if (counter === 5) {
+    if (counter === 10) {
       break;
     }
 
@@ -55,6 +56,10 @@ async function init() {
 }
 
 function coquiTts(text, modelName, targetFile) {
+  if (fileExits(targetFile)) {
+    return;
+  }
+
   return new Promise((resolve, reject) => {
     execFile(
       "tts",
@@ -80,6 +85,10 @@ function coquiTts(text, modelName, targetFile) {
 }
 
 async function googleTts(text, langCode, voiceName, targetFile) {
+  if (fileExits(targetFile)) {
+    return;
+  }
+
   const client = new googleTtsApi.TextToSpeechClient();
 
   const request = {
@@ -101,6 +110,16 @@ async function googleTts(text, langCode, voiceName, targetFile) {
   });
 
   console.log(targetFile);
+}
+
+function fileExits(filePath) {
+  if (existsSync(filePath)) {
+    console.log(`${filePath} skipped. File already exists.`);
+
+    return true;
+  } else {
+    return false;
+  }
 }
 
 init();
