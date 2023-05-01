@@ -1,7 +1,5 @@
 import { execFile } from "node:child_process";
-import path from "node:path";
-import { parseSoundFile } from "./parse.js";
-import { mkdir, writeFile } from "node:fs/promises";
+import { writeFile } from "node:fs/promises";
 import googleTtsApi from "@google-cloud/text-to-speech";
 import * as dotenv from "dotenv";
 import { existsSync } from "node:fs";
@@ -10,52 +8,7 @@ dotenv.config();
 
 const debug = false;
 
-async function init() {
-  console.time();
-
-  const targetLangCode = "de";
-  const targetDir = path.join(
-    "sounds",
-    `asterisk-core-sounds-${targetLangCode}`
-  );
-  const coreSounds = parseSoundFile(
-    path.join("transcriptions", `core-sounds-${targetLangCode}.txt`)
-  );
-  const modelName = "tts_models/de/thorsten/vits";
-  const voiceName = "de-DE-Neural2-C";
-
-  await mkdir(targetDir, { recursive: true });
-
-  // Just for testing
-  let counter = 0;
-
-  for (let { name, text } of coreSounds) {
-    if (counter === 10) {
-      break;
-    }
-
-    if (text) {
-      if (name.split("/").length > 1) {
-        let subdir = name.split("/").slice(0, -1);
-
-        mkdir(path.join(targetDir, ...subdir), { recursive: true });
-      }
-      // await coquiTts(text, modelName, path.join(targetDir, `${name}.wav`));
-      await googleTts(
-        text,
-        `${targetLangCode}-DE`,
-        voiceName,
-        path.join(targetDir, `${name}.mp3`)
-      );
-    }
-
-    counter++;
-  }
-
-  console.timeEnd();
-}
-
-function coquiTts(text, modelName, targetFile) {
+export function coquiTts(text, modelName, targetFile) {
   if (fileExits(targetFile)) {
     return;
   }
@@ -84,7 +37,7 @@ function coquiTts(text, modelName, targetFile) {
   });
 }
 
-async function googleTts(text, langCode, voiceName, targetFile) {
+export async function googleTts(text, langCode, voiceName, targetFile) {
   if (fileExits(targetFile)) {
     return;
   }
@@ -99,7 +52,10 @@ async function googleTts(text, langCode, voiceName, targetFile) {
       languageCode: langCode,
       name: voiceName,
     },
-    audioConfig: { audioEncoding: "MP3" },
+    audioConfig: {
+      audioEncoding: "LINEAR16",
+      effectsProfileId: ["telephony-class-application"],
+    },
   };
 
   const [response] = await client.synthesizeSpeech(request);
@@ -112,6 +68,15 @@ async function googleTts(text, langCode, voiceName, targetFile) {
   console.log(targetFile);
 }
 
+export async function googleListVoices(langCode) {
+  const client = new googleTtsApi.TextToSpeechClient();
+  const [response] = await client.listVoices();
+
+  return response.voices.filter((voice) => {
+    return voice.languageCodes.includes(langCode);
+  });
+}
+
 function fileExits(filePath) {
   if (existsSync(filePath)) {
     console.log(`${filePath} skipped. File already exists.`);
@@ -121,5 +86,3 @@ function fileExits(filePath) {
     return false;
   }
 }
-
-init();
