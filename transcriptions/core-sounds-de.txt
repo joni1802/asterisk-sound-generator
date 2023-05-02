@@ -522,7 +522,7 @@ vm-nobox: Sie können auf diese Nachricht nicht antworten, weil der Absender kei
 vm-nomore: Keine Nachrichten mehr.
 vm-nonumber: Ich fürchte, ich weiß nicht, von wem diese Nachricht stammt.
 vm-num-i-have: Die Nummer, die ich habe, lautet
-vm-Old: alt
+vm-Old: alte
 vm-onefor-full: Drücken Sie eine, um ... zu hören.
 vm-onefor: Drücken Sie 1 für
 vm-options: Drücken Sie 1, um Ihre nicht verfügbare Nachricht aufzuzeichnen, drücken Sie 2, um Ihre Besetzt-Nachricht aufzuzeichnen, drücken Sie 3, um Ihren Namen aufzuzeichnen, drücken Sie 4, um Ihre vorläufige Ansage aufzuzeichnen, drücken Sie 5, um Ihr Passwort zu ändern, drücken Sie Stern, um zum Hauptmenü zurückzukehren.
