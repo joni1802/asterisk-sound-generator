@@ -21,7 +21,7 @@ beeperr: (dies ist ein Fehlersignalton)
 call-forwarding: Weiterleitung von Anrufen.
 call-fwd-no-ans: Anrufumleitung bei Nichtmelden.
 call-fwd-on-busy: Anrufumleitung bei Besetzt.
-call-fwd-unconditional: Unbedingter Aufruf nach vorn.
+call-fwd-unconditional: Bedingungslose Anrufumleitung.
 call-waiting: Anklopfen.
 calling: Anrufe.
 cancelled: Abgesagt.
