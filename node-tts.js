@@ -46,7 +46,7 @@ export async function googleTts(text, langCode, voiceName, targetFile) {
 
   const request = {
     input: {
-      text,
+      text: splittedSentences(text),
     },
     voice: {
       languageCode: langCode,
@@ -75,6 +75,16 @@ export async function googleListVoices(langCode) {
   return response.voices.filter((voice) => {
     return voice.languageCodes.includes(langCode);
   });
+}
+
+// Workaround for the following error thrown by the google text to speech api:
+// "This request contains sentences that are too long. To fix, split up long sentences with sentence ending punctuation e.g. periods."
+// Replace a comma in front of a number with an punctuation.
+function splittedSentences(text) {
+  const regex = /,(\s\d),/g;
+
+  // The $1 is the backreference of the value inside the capuring group.
+  return text.replace(regex, ".$1");
 }
 
 function fileExits(filePath) {
