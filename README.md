@@ -25,15 +25,24 @@ More details: [Using the Text-to-Speech API with Node.js](https://codelabs.devel
 
 ## Convert audio files
 
-1. Download ffmpeg.
-2. Convert audio to G.711 (alaw/ulaw) `ffmpeg -i path/to/name.mp3 -f mulaw path/to/name.g711`
-3. Convert audio to G.722 `ffmpeg -i path/to/name.mp3 path/to/name.g722`
+Using the ffmpeg binary to convert the sound files to supported audio codecs for Asterisk. The default audio sampling rate of the created sound files by the Google TTS API is 16000 HZ.
 
-More detials:
+### Convert WAV to G.722 and G.711 (alaw, ulaw)
 
-- [Supported codecs Asterisk](https://wiki.asterisk.org/wiki/display/AST/Codec+Modules)
-- [Supported codecs FreePBX](https://wiki.freepbx.org/display/DIMG/Supported+Codecs)
+- Convert WAV to G.711 (alaw/ulaw) `ffmpeg -i path/to/name.wav -f mulaw path/to/name.g711`
+- Convert MP3 to G.722 `ffmpeg -i path/to/name.wav -ar 16000 path/to/name.g722`
+
+### Convert MP3 to G.722 and G.711 (alaw, ulaw)
+
+- Convert MP3 to G.711 (alaw/ulaw) `ffmpeg -i path/to/name.mp3 -f mulaw path/to/name.g711`
+- Convert MP3 to G.722 `ffmpeg -i path/to/name.mp3 path/to/name.g722`
 
 ### Just for testing
 
 Convert audio files back to mp3 `ffmpeg -f mulaw -ar 24000 -i path/to/name.g711 -f mulaw path/to/name.mp3`
+
+More details:
+
+- [Google Audio Codecs](https://cloud.google.com/speech-to-text/docs/encoding)
+- [Supported codecs Asterisk](https://wiki.asterisk.org/wiki/display/AST/Codec+Modules)
+- [Supported codecs FreePBX](https://wiki.freepbx.org/display/DIMG/Supported+Codecs)
