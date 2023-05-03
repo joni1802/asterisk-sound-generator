@@ -810,10 +810,10 @@ pls-try-manually: Bitte versuchen Sie es manuell.
 pls-wait-connect-call: Bitte warten Sie, während ich Ihren Anruf verbinde.
 plugh: Plugh (ploo-g)
 pm-announcement-number: Ankündigungsnummer
-pm-phrase-management: Verwaltung der Phrasen.
+pm-phrase-management: Satzverwaltung.
 pm-prompt-number: Prompt Nummer...
-pm-to-record-phrase: So nehmen Sie eine Phrase auf
-pm-to-review-phrase: So überprüfen Sie eine Phrase
+pm-to-record-phrase: Um einen Satz aufzunehmen
+pm-to-review-phrase: Um einen Satz anzuhören
 point: Punkt
 point: Punkt
 pool: Pool
@@ -828,26 +828,26 @@ pounds: Pfunde
 power-failure: Stromausfall
 presales-support: Unterstützung des Vorverkaufs
 presidents-office: Büro des Präsidenten
-press-0: 0 drücken
-press-1: 1 drücken
-press-1: 1 drücken
-press-2: 2 drücken
-press-2: 2 drücken
-press-3: Presse 3
-press-3: Presse 3
+press-0: Drücken Sie 0
+press-1: Drücken Sie 1
+press-1: Drücken Sie 1
+press-2: Drücken Sie 2
+press-2: Drücken Sie 2
+press-3: Drücken Sie 3
+press-3: Drücken Sie 3
 press-4: Drücken Sie 4
 press-4: Drücken Sie 4
-press-5: 5 drücken
-press-5: 5 drücken
+press-5: Drücken Sie 5
+press-5: Drücken Sie 5
 press-6-to-eject: oder drücken Sie 6, um den letzten Benutzer zu entfernen.
-press-6: Presse 6
-press-6: Presse 6
+press-6: Drücken Sie 6
+press-6: Drücken Sie 6
 press-7: Drücken Sie 7
 press-7: Drücken Sie 7
-press-8: Presse 8
-press-8: Presse 8
-press-9: Presse 9
-press-9: Presse 9
+press-8: Drücken Sie 8
+press-8: Drücken Sie 8
+press-9: Drücken Sie 9
+press-9: Drücken Sie 9
 press-button-again: Drücken Sie den Knopf noch einmal!
 press-enter: Eingabe drücken
 press-escape: Escape drücken
