@@ -65,14 +65,7 @@ async function createSoundFiles(answers) {
 
   await mkdir(targetDir, { recursive: true });
 
-  // Just for testing
-  let counter = 0;
-
   for (let { name, text } of transcriptionArray) {
-    if (counter === 4) {
-      break;
-    }
-
     if (text) {
       if (name.split("/").length > 1) {
         let subdir = name.split("/").slice(0, -1);
@@ -90,8 +83,6 @@ async function createSoundFiles(answers) {
         );
       }
     }
-
-    counter++;
   }
 
   console.timeEnd();
