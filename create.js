@@ -1,7 +1,7 @@
 import { coquiTts, googleTts, googleListVoices } from "./node-tts.js";
 import { parseSoundFile } from "./parse.js";
 import { readdirSync } from "node:fs";
-import { mkdir } from "node:fs/promises";
+import { mkdir, rename, readFile } from "node:fs/promises";
 import inquirer from "inquirer";
 import path from "node:path";
 
@@ -54,6 +54,27 @@ const questions = [
   },
 ];
 
+async function moveExtraSoundFiles(
+  newTargetPaths,
+  targetPath,
+  targetFileExt = "wav"
+) {
+  for (const { folderName, fileName } of newTargetPaths) {
+    const oldPath = path.join(targetPath, `${fileName}.${targetFileExt}`);
+    const newPath = path.join(
+      targetPath,
+      folderName,
+      `${fileName}.${targetFileExt}`
+    );
+
+    await mkdir(path.join(targetPath, folderName), { recursive: true });
+
+    await rename(oldPath, newPath);
+
+    console.log(`${oldPath} => ${newPath}`);
+  }
+}
+
 async function createSoundFiles(answers) {
   console.time();
 
@@ -70,7 +91,7 @@ async function createSoundFiles(answers) {
       if (name.split("/").length > 1) {
         let subdir = name.split("/").slice(0, -1);
 
-        mkdir(path.join(targetDir, ...subdir), { recursive: true });
+        await mkdir(path.join(targetDir, ...subdir), { recursive: true });
       }
       // await coquiTts(text, modelName, path.join(targetDir, `${name}.wav`));
 
@@ -83,6 +104,14 @@ async function createSoundFiles(answers) {
         );
       }
     }
+  }
+
+  if (/^extra/.test(transcription)) {
+    const extraSoundsDirs = await readFile("extra-sounds-dirs.json", {
+      encoding: "utf8",
+    });
+
+    await moveExtraSoundFiles(JSON.parse(extraSoundsDirs), targetDir);
   }
 
   console.timeEnd();
