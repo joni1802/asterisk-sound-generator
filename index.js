@@ -1,5 +1,6 @@
 import inquirer from "inquirer";
 import convert from "./convert.js";
+import extraSounds from "./extra-sounds.js";
 
 async function init() {
   const question = [
@@ -20,6 +21,10 @@ async function init() {
           name: "Translate transcription file.",
           value: "translate",
         },
+        {
+          name: "Generate list of directories for the extra sound files.",
+          value: "extra-sounds",
+        },
       ],
     },
   ];
@@ -34,7 +39,10 @@ async function init() {
       await convert();
       break;
     case "translate":
-    // await translate()
+      // await translate()
+      break;
+    case "extra-sounds":
+      await extraSounds();
   }
 }
 

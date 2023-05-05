@@ -1,0 +1,618 @@
+[
+  {
+    "folderName": "ha",
+    "fileName": "ac"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "air-conditioner"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "alarm"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "amp"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "amps"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "attic"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "baby-sleeping-mode"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "back"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "basement"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "bathroom"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "bedroom"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "bright"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "callerid"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "carport"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "closet"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "coffee-pot"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "cool"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "cooling"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "dc"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "decibel"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "decibels"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "deck"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "degree"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "degrees"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "den"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "dim"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "dining-room"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "door"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "doors"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "down"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "driveway"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "dryer"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "fan"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "farad"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "farads"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "first-floor"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "floor"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "floors"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "for-extended-status-report"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "for-quick-status-report"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "for-wx-report"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "fountain"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "foyer"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "front"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "furnace"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "game-room"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "garage"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "great-room"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "guest-room"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "hall"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "has-been-left"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "heat-pump"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "heat"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "heating"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "hot-tub"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "house"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "intruder"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "is"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "kelvin"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "kitchen"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "lamp"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "lamps"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "landscape"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "laundry"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "library"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "light"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "lights"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "living-room"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "locked"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "locking"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "mailbox"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "master"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "off"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "office"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "ohm"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "ohms"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "on"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "open"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "patio"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "phone"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "play-room"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "play"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "pool"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "porch"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "power-failure"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "pressure"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "psi"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "quiet-mode"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "reset"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "roof"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "room"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "rooms"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "second-floor"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "secure"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "security-system"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "set"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "side"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "solar"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "sprinklers"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "still"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "stove"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "sump-pump"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "sun-room"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "system"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "systems"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "thermostat"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "to-control-environ-sys"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "to-control-lights-appl"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "tower"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "unlocked"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "unlocking"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "up"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "volt"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "volts"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "washing-machine"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "water-heater"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "watt"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "watts"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "well-pump"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "window"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "windows"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "xmas-lights"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "xmas-tree"
+  },
+  {
+    "folderName": "ha",
+    "fileName": "yard"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "around"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "barometer"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "ceiling"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "dew-point"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "falling"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "feet"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "foot"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "gust"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "gusting-to"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "gusts"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "gusty"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "heat-index"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "humidity"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "inch"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "inches"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "kilometer"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "large"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "meter"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "mist"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "northeast"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "northwest"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "percent"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "point"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "rising"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "southeast"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "southwest"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "steady"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "temperature"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "wind-chill"
+  },
+  {
+    "folderName": "wx",
+    "fileName": "winds"
+  }
+]
