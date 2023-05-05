@@ -322,7 +322,7 @@ euros: Euro
 evening: Abend
 explanation: Erklärung
 ext-or-zero: Bitte wählen Sie die Durchwahl der Person, die Sie erreichen möchten, oder die 0 für eine Vermittlung.
-extensions: Erweiterungen
+extensions: Nebenstellen
 facilities: Einrichtungen
 fahrenheit: fahrenheit
 falling: fallend
@@ -526,7 +526,7 @@ it-services: IT-Dienste
 jacksonville: Jacksonville
 janitorial: Hausmeisterdienste
 jason: Jason
-jedi-extension-trick: Dies ist nicht die Erweiterung, die Sie suchen.
+jedi-extension-trick: Dies ist nicht die Nebenstelle, die Sie suchen.
 john: John
 just-kidding-not-upset: War nur ein Scherz; ich wollte euch nicht verärgern.
 just-kidding-not-upset2: War nur ein Scherz; ich wollte euch nicht verärgern.

@@ -264,7 +264,7 @@ do-not-disturb: Bitte nicht stören.
 enabled: Aktiviert.
 enter-num-blacklist: Bitte geben Sie die Nummer ein, die auf die schwarze Liste gesetzt werden soll.
 entr-num-rmv-blklist: Bitte geben Sie die Nummer ein, die von der schwarzen Liste entfernt werden soll.
-extension: Erweiterung.
+extension: Nebenstelle.
 feature-not-avail-line: Diese Funktion ist auf dieser Leitung nicht verfügbar.
 followme/call-from: eingehende Anrufe von
 followme/no-recording: Sie haben einen eingehenden Anruf
@@ -453,7 +453,7 @@ ss-noservice: Die von Ihnen gewählte Nummer ist nicht in Betrieb. Bitte überpr
 telephone-number: Telefonnummer.
 time: Zeit.
 to-call-this-number: Um diese Nummer anzurufen.
-to-extension: Zur Verlängerung.
+to-extension: Zur Nebenstelle.
 to-listen-to-it: Zum Anhören.
 to-rerecord-it: Um sie neu aufzunehmen.
 transfer: Bleiben Sie bitte dran, während ich diese Erweiterung ausprobiere.
@@ -478,7 +478,7 @@ vm-deleted: Nachricht gelöscht.
 vm-dialout: Bitte warten Sie, während ich Ihren Anruf verbinde
 vm-duration: Diese Nachricht dauert ...
 vm-enter-num-to-call: Bitte geben Sie die gewünschte Rufnummer ein
-vm-extension: Erweiterung
+vm-extension: Nebenstelle
 vm-Family: Familie
 vm-first: erste
 vm-for: für
