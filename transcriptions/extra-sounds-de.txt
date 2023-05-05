@@ -360,7 +360,7 @@ for-billing: Für die Rechnungsstellung
 for-billing: Für die Rechnungsstellung
 for-english-press: Für Englisch, drücken Sie
 for-extended-status-report: Für einen erweiterten Statusbericht
-for-investor-relations: für Investor Relations, Presse
+for-investor-relations: für Anlegerbeziehungen, drücken Sie
 for-louie-louie: für den Text von louie, louie, drücken Sie
 for-no-press: für nein, drücken Sie
 for-qc-and-training-purposes: Zur Qualitätskontrolle und für Schulungszwecke
@@ -851,19 +851,19 @@ press-9: Drücken Sie 9
 press-button-again: Drücken Sie den Knopf noch einmal!
 press-enter: Eingabe drücken
 press-escape: Escape drücken
-press-hash: Presse Hash
-press-hash: Presse-Raute
+press-hash: Drücken Sie Raute
+press-hash: Drücken Sie Raute
 press-pound-save-changes: Drücken Sie die Rautetaste, um Ihre Änderungen zu speichern.
 press-pound-to-login-star-to-hangup: Drücken Sie die Rautetaste, um sich bei der Mailbox anzumelden, oder *, um aufzulegen.
 press-pound: Drücken Sie Raute
 press-pound: Drücken Sie Raute
 press-return: Rückkehr drücken
 press-star-cancel: Zum Abbrechen Stern drücken.
-press-star: Presse-Stern
-press-star: Presse-Stern
+press-star: Drücken Sie Stern
+press-star: Drücken Sie Stern
 press-the-space-bar: Drücken Sie die Leertaste
 press-tilde: Tilde drücken
-press: Presse
+press: Drücken Sie
 pressure: Druck
 pressure: Druck
 printing: Drucken
@@ -1261,7 +1261,7 @@ yes-dear: Ja, Liebes. (verärgert)
 yes-dear2: Ja, Liebes. (spielerisch)
 you-are-caller-num: Sie sind Anrufer Nummer
 you-are-curr-call-num: Sie sind derzeit Anrufer Nummer
-you-can-press: You can press
+you-can-press: Drücken Sie
 you-dialed-wrong-number: Sie haben die falsche Nummer gewählt.
 you-have-dialed: Sie haben gewählt
 you-have-reached-a-test-number: Sie haben eine Testnummer erreicht.

@@ -531,7 +531,7 @@ vm-opts: Drücken Sie 2, um Ordner zu wechseln, drücken Sie 3 für erweiterte O
 vm-passchanged: Ihre Passwörter sind geändert worden.
 vm-password: Passwort
 vm-pls-try-again: Bitte versuchen Sie es erneut
-vm-press: Presse
+vm-press: Drücken Sie
 vm-prev: Drücken Sie 4 für die vorherige Nachricht
 vm-reachoper: Drücken Sie 0, um eine Vermittlung zu erreichen
 vm-rec-busy: Sagen Sie nach dem Ton Ihre Besetztmeldung und drücken Sie dann die Rautetaste.
