@@ -260,7 +260,7 @@ dir-nomore: Es sind keine kompatiblen Einträge mehr im Verzeichnis vorhanden.
 dir-pls-enter: Bitte geben Sie die erste ...
 dir-usingkeypad: ... mit Hilfe Ihrer Tonwahltastatur.  Verwenden Sie die Taste 7 für Q und die Taste 9 für Z.
 dir-welcome: Willkommen im Verzeichnis
-disabled: Behinderte.
+disabled: Deaktiviert.
 do-not-disturb: Bitte nicht stören.
 enabled: Aktiviert.
 enter-num-blacklist: Bitte geben Sie die Nummer ein, die auf die schwarze Liste gesetzt werden soll.
@@ -583,3 +583,4 @@ vm-youhave: Sie haben
 with: Mit.
 you-entered: Sie haben eingegeben.
 your: Ihr.
+intercom: Gegensprechanlage
