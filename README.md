@@ -1,15 +1,17 @@
-# This is a title
+# Library for
 
 ## Create audio files
 
-### Using Coqui TTS
+### Prerequisites
+
+#### Using Coqui TTS
 
 1. Install python.
 2. Install Coqui TTS by running `pip install TTS`.
 
 More details: [Coqui TTS Github Repo](https://github.com/coqui-ai/TTS)
 
-### Using Google Text to Speech
+#### Using Google Text to Speech
 
 1. Create a service account for the Google Text to Speech API.
 2. Create a key pair for the service account and download the JSON file.
@@ -29,13 +31,9 @@ Using the ffmpeg binary to convert the sound files to supported audio codecs for
 
 ### Convert WAV to G.722 and G.711 (alaw, ulaw)
 
-- Convert WAV to G.711 (alaw/ulaw) `ffmpeg -i path/to/name.wav -f mulaw path/to/name.g711`
+- Convert WAV to G.711 alaw `ffmpeg -i path/to/name.wav -ar 8000 -codec:a pcm_alaw -f alaw path/to/name.alaw`
+- Convert WAV to G.711 ulaw `ffmpeg -i path/to/name.wav -ar 8000 -codec:a pcm_mulaw -f mulaw path/to/name.ulaw`
 - Convert MP3 to G.722 `ffmpeg -i path/to/name.wav -ar 16000 path/to/name.g722`
-
-### Convert MP3 to G.722 and G.711 (alaw, ulaw)
-
-- Convert MP3 to G.711 (alaw/ulaw) `ffmpeg -i path/to/name.mp3 -f mulaw path/to/name.g711`
-- Convert MP3 to G.722 `ffmpeg -i path/to/name.mp3 path/to/name.g722`
 
 ### Just for testing
 
