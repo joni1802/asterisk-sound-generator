@@ -1,4 +1,4 @@
-import { readdir, rename, mkdir, writeFile } from "node:fs/promises";
+import { readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import inquirer from "inquirer";
 
@@ -24,25 +24,6 @@ async function getTargetPaths(sourcePath) {
   }
 
   return targetPaths;
-}
-
-export async function moveFiles(sourcePath, targetPath, targetFileExt = "wav") {
-  const newTargetPaths = await getTargetPaths(sourcePath);
-
-  for (const { folderName, fileName } of newTargetPaths) {
-    const oldPath = path.join(targetPath, `${fileName}.${targetFileExt}`);
-    const newPath = path.join(
-      targetPath,
-      folderName,
-      `${fileName}.${targetFileExt}`
-    );
-
-    await mkdir(path.join(targetPath, folderName), { recursive: true });
-
-    await rename(oldPath, newPath);
-
-    console.log(`${oldPath} => ${newPath}`);
-  }
 }
 
 export default async function init() {
