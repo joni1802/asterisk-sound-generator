@@ -266,6 +266,7 @@ enter-num-blacklist: Bitte geben Sie die Nummer ein, die auf die schwarze Liste 
 entr-num-rmv-blklist: Bitte geben Sie die Nummer ein, die von der schwarzen Liste entfernt werden soll.
 extension: Nebenstelle.
 feature-not-avail-line: Diese Funktion ist auf dieser Leitung nicht verfügbar.
+followme: Folge mir.
 followme/call-from: eingehende Anrufe von
 followme/no-recording: Sie haben einen eingehenden Anruf
 followme/options: Drücken Sie 1, um den Anruf anzunehmen, oder 2, um ihn abzulehnen.
