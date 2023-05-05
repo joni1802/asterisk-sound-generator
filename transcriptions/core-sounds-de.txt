@@ -12,7 +12,7 @@ agent-user: Agenten-Login.  Bitte geben Sie Ihre Agentennummer gefolgt von der R
 all-circuits-busy-now: Alle Schaltkreise sind jetzt besetzt.
 ascending-2tone: [aufsteigende Töne]
 astcc-followed-by-the-pound-key: Gefolgt von der Rautetaste.
-at-tone-time-exactly: Beim Ertönen des Tons wird die Zeit genau...
+at-tone-time-exactly: Beim Ertönen des Tons wird die genaue Uhrzeit wie folgt sein...
 auth-incorrect: Passwort falsch.  Bitte geben Sie Ihr Passwort gefolgt von der Rautetaste ein.
 auth-thankyou: Ich danke Ihnen.
 basic-pbx-ivr-main: Vielen Dank für Ihren Anruf bei Super Awesome Company, Waldos führendem Anbieter von perfekten Produkten. Wenn Sie die Durchwahl Ihres Gesprächspartners kennen, können Sie diese jederzeit wählen. Um eine Vertriebspartnerschaft einzugehen, drücken Sie die Eins. Um mit einem Kundenbetreuer zu sprechen, drücken Sie die Zwei. Für die Buchhaltung und andere Forderungen drücken Sie die Drei. Für ein Firmenverzeichnis drücken Sie die Vier. Für eine Vermittlung drücken Sie die Null.
@@ -168,6 +168,7 @@ digits/90: Neunzig
 digits/9: neun
 digits/a-m: vormittags
 digits/at: unter
+digits/and: und
 digits/billion: Milliarden
 digits/day-0: Sonntag
 digits/day-1: Montag
