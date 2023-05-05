@@ -283,6 +283,7 @@ hours: Stunden
 if-correct-press: Wenn dies der Fall ist, drücken Sie...
 im-sorry: Es tut mir leid.
 info-about-last-call: Informationen über Ihren letzten Anruf.
+intercom: Gegensprechanlage
 invalid: Es tut mir leid, das ist keine gültige Durchwahl.  Bitte versuchen Sie es erneut.
 is-in-use: Ist in Gebrauch.
 is-set-to: ist eingestellt auf.
@@ -583,4 +584,4 @@ vm-youhave: Sie haben
 with: Mit.
 you-entered: Sie haben eingegeben.
 your: Ihr.
-intercom: Gegensprechanlage
+
