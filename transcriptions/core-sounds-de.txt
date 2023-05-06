@@ -560,7 +560,7 @@ vm-tempgreetactive: Ihre vorläufige Begrüßung ist derzeit aktiv
 vm-tempgreeting2: Drücken Sie 1, um Ihre vorläufige Ansage aufzunehmen, oder 2, um die vorläufige Ansage zu löschen.
 vm-tempgreeting: Drücken Sie 1, um Ihre vorläufige Ansage aufzunehmen
 vm-tempremoved: Ihre vorläufige Begrüßung wurde entfernt
-vm-then-pound: dann drücken Sie die Taste
+vm-then-pound: dann drücken Sie die Rautetaste
 vm-theperson: Die Person bei der Durchwahl
 vm-tmpexists: Es gibt eine temporäre Begrüßung, die Ihre Standardansagen außer Kraft setzt.
 vm-tocallback: Drücken Sie 2, um die Person anzurufen, die diese Nachricht gesendet hat
