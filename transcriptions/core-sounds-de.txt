@@ -1,4 +1,4 @@
-; Core Asterisk Sounds in English
+; Core Asterisk Sounds in German
 
 activated: Aktiviert.
 added: Hinzugefügt.
