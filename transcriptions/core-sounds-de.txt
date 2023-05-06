@@ -114,7 +114,7 @@ confbridge-rest-talk-vol-out: ...um die Sprachlautstärke auf den Standardwert z
 confbridge-there-are: Derzeit gibt es...
 confbridge-unlocked: Die Konferenz ist nun freigeschaltet.
 confbridge-unmuted: Sie sind nicht mehr stummgeschaltet.
-de-activated: De-aktiviert.
+de-activated: Deaktiviert.
 demo-abouttotry: Ich bin dabei, eine Inter-Asterisk Exchange-Verbindung zu einem Demonstrationsserver bei Digium zu versuchen.  Damit dies funktioniert, müssen Sie bereits mit dem Internet verbunden sein.  Bitte warten Sie einen Moment, während ich versuche, die Verbindung herzustellen.
 demo-congrats: Herzlichen Glückwunsch!  Sie haben die Open-Source-Telefonanlage Asterisk erfolgreich installiert und ausgeführt.  Sie haben auch eine Reihe von Beispielsounds und Konfigurationsdateien installiert, die Ihnen die ersten Schritte erleichtern sollten.  Wie bei einer normalen Telefonanlage werden Sie in dieser Demonstration durch das Wählen von Ziffern navigieren.  Wenn Sie einen Konsolenkanaltreiber anstelle eines echten Telefons verwenden, können Sie die Befehle Wählen, Antworten und Auflegen verwenden, um die Aktionen eines Standardtelefons zu simulieren.
 demo-echodone: Der Echotest ist abgeschlossen.
