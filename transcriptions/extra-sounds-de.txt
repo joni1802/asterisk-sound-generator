@@ -301,7 +301,7 @@ email: E-Mail
 emergency: Notfall
 encode: Verschlüsseln
 engineering: Technik
-ent-target-attendant: Bitte geben Sie die Nummer der Nebenstelle ein, die Sie für Ihren Zielteilnehmer verwenden möchten
+ent-target-attendant: Bitte geben Sie die Nummer der Durchwahl ein, die Sie für Ihren Zielteilnehmer verwenden möchten
 enter-a-time: Geben Sie eine Uhrzeit mit 4 Ziffern ein.  Beginnen Sie mit einer Null für Stunden, die kleiner als zehn sind.
 enter-conf-call-number: Bitte geben Sie die Rufnummer der Konferenz ein, an der Sie teilnehmen möchten.
 enter-conf-pin-number: Bitte geben Sie die Pin-Nummer der Konferenz ein.
@@ -322,7 +322,7 @@ euros: Euro
 evening: Abend
 explanation: Erklärung
 ext-or-zero: Bitte wählen Sie die Durchwahl der Person, die Sie erreichen möchten, oder die 0 für eine Vermittlung.
-extensions: Nebenstellen
+extensions: Durchwahlen
 facilities: Einrichtungen
 fahrenheit: fahrenheit
 falling: fallend
@@ -526,7 +526,7 @@ it-services: IT-Dienste
 jacksonville: Jacksonville
 janitorial: Hausmeisterdienste
 jason: Jason
-jedi-extension-trick: Dies ist nicht die Nebenstelle, die Sie suchen.
+jedi-extension-trick: Dies ist nicht die Durchwahl, die Sie suchen.
 john: John
 just-kidding-not-upset: War nur ein Scherz; ich wollte euch nicht verärgern.
 just-kidding-not-upset2: War nur ein Scherz; ich wollte euch nicht verärgern.

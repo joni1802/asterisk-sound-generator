@@ -120,7 +120,7 @@ demo-congrats: Herzlichen Glückwunsch!  Sie haben die Open-Source-Telefonanlage
 demo-echodone: Der Echotest ist abgeschlossen.
 demo-echotest: Sie sind dabei, einen Echo-Test durchzuführen.  In diesem Modus wird alles, was Sie sagen, sofort nach dem Empfang an Sie zurückgesendet.  Der Zweck dieses Tests ist es, Ihnen ein hörbares Gefühl für die Latenzzeit zwischen Ihnen und dem Gerät zu geben, auf dem die Echo-Testanwendung läuft.  Sie können den Test beenden, indem Sie auflegen oder die Rautetaste drücken.
 demo-enterkeywords: Bitte geben Sie ein oder mehrere durch * getrennte Schlüsselwörter ein und drücken Sie dann die Rautetaste.
-demo-instruct: Wenn Sie mehr technische Informationen über Asterisk erfahren möchten, wählen Sie jetzt die 2.  Wenn Sie die Voice-over-IP-Fähigkeiten von Asterisk testen möchten, können Sie 500 wählen, um eine Inter-Asterisk-Exchange- oder IAX-Verbindung zu einem Demonstrationsserver bei Digium aufzubauen.  Damit dieser Test funktioniert, müssen Sie mit dem Internet verbunden sein und mindestens über ein 28,8-Kilobit-Modem verfügen.  Um einen Echo-Test durchzuführen, wählen Sie 600.  Dieser Test ist besonders nützlich, wenn Sie von einem entfernten Standort aus eine Verbindung zu diesem Asterisk-Server hergestellt haben.  Die Beispielkonfiguration hat auch einen einzelnen Benutzer mit der Durchwahl 1234 und dem Passwort 4242.  Dieser Benutzer ist so konfiguriert, dass die Konsole klingelt, wenn seine Nebenstelle angewählt wird.  Wenn Sie 1234 wählen, können Sie versuchen, die Konsole anzurufen.  Wenn die Konsole besetzt oder nicht verfügbar ist, haben Sie die Möglichkeit, eine Voicemail zu hinterlassen.  Um die Voicemail des Benutzers abzufragen, wählen Sie die Durchwahl 8500, um das Voicemail-System aufzurufen.  Schließlich können Sie die Rautetaste drücken, um die Verbindung mit der Telefonanlage zu trennen.
+demo-instruct: Wenn Sie mehr technische Informationen über Asterisk erfahren möchten, wählen Sie jetzt die 2.  Wenn Sie die Voice-over-IP-Fähigkeiten von Asterisk testen möchten, können Sie 500 wählen, um eine Inter-Asterisk-Exchange- oder IAX-Verbindung zu einem Demonstrationsserver bei Digium aufzubauen.  Damit dieser Test funktioniert, müssen Sie mit dem Internet verbunden sein und mindestens über ein 28,8-Kilobit-Modem verfügen.  Um einen Echo-Test durchzuführen, wählen Sie 600.  Dieser Test ist besonders nützlich, wenn Sie von einem entfernten Standort aus eine Verbindung zu diesem Asterisk-Server hergestellt haben.  Die Beispielkonfiguration hat auch einen einzelnen Benutzer mit der Durchwahl 1234 und dem Passwort 4242.  Dieser Benutzer ist so konfiguriert, dass die Konsole klingelt, wenn seine Durchwahl angewählt wird.  Wenn Sie 1234 wählen, können Sie versuchen, die Konsole anzurufen.  Wenn die Konsole besetzt oder nicht verfügbar ist, haben Sie die Möglichkeit, eine Voicemail zu hinterlassen.  Um die Voicemail des Benutzers abzufragen, wählen Sie die Durchwahl 8500, um das Voicemail-System aufzurufen.  Schließlich können Sie die Rautetaste drücken, um die Verbindung mit der Telefonanlage zu trennen.
 demo-moreinfo: Asterisk ist eine Open-Source-Telefonanlage und IVR-Plattform mit vollem Funktionsumfang, die auf dem Linux-Betriebssystem läuft.  Weitere Informationen finden Sie unter www.asterisk.org.
 demo-nogo: Ich fürchte, ich konnte keine Verbindung zum Digium-Demonstrations-Asterisk-Server herstellen.  Sie können einige hilfreiche Debugging-Informationen auf der Asterisk-Konsole finden.
 demo-nomatch: Es tut mir leid, es gibt keine Treffer für diese Schlüsselwörter
@@ -265,7 +265,7 @@ do-not-disturb: Bitte nicht stören.
 enabled: Aktiviert.
 enter-num-blacklist: Bitte geben Sie die Nummer ein, die auf die schwarze Liste gesetzt werden soll.
 entr-num-rmv-blklist: Bitte geben Sie die Nummer ein, die von der schwarzen Liste entfernt werden soll.
-extension: Nebenstelle.
+extension: Durchwahl.
 feature-not-avail-line: Diese Funktion ist auf dieser Leitung nicht verfügbar.
 followme: Folge mir.
 followme/call-from: eingehende Anrufe von
@@ -358,7 +358,7 @@ number-not-answering: Die Nummer geht nicht ran.
 number: Nummer.
 one-moment-please: Einen Moment, bitte.
 pbx-invalid: Es tut mir leid, das ist keine gültige Durchwahl.  Bitte versuchen Sie es erneut.
-pbx-invalidpark: Es tut mir leid, es ist kein Anruf auf dieser Nebenstelle geparkt.  Bitte versuchen Sie es erneut.
+pbx-invalidpark: Es tut mir leid, es ist kein Anruf auf dieser Durchwahl geparkt.  Bitte versuchen Sie es erneut.
 pbx-parkingfailed: Parkversuch gescheitert.
 pbx-transfer: Übertragung.
 phonetic/9_p: Neuner
@@ -457,7 +457,7 @@ ss-noservice: Die von Ihnen gewählte Nummer ist nicht in Betrieb. Bitte überpr
 telephone-number: Telefonnummer.
 time: Zeit.
 to-call-this-number: Um diese Nummer anzurufen.
-to-extension: Zur Nebenstelle.
+to-extension: Zur Durchwahl.
 to-listen-to-it: Zum Anhören.
 to-rerecord-it: Um sie neu aufzunehmen.
 transfer: Bleiben Sie bitte dran, während ich diese Erweiterung ausprobiere.
@@ -482,7 +482,7 @@ vm-deleted: Nachricht gelöscht.
 vm-dialout: Bitte warten Sie, während ich Ihren Anruf verbinde
 vm-duration: Diese Nachricht dauert ...
 vm-enter-num-to-call: Bitte geben Sie die gewünschte Rufnummer ein
-vm-extension: Nebenstelle
+vm-extension: Durchwahl
 vm-Family: Familie
 vm-first: erste
 vm-for: für
@@ -490,7 +490,7 @@ vm-forward-multiple: Drücken Sie 1, um diese Nachricht zu senden, oder 2, um ei
 vm-forward: Drücken Sie 1, um eine Durchwahl einzugeben, drücken Sie 2, um das Telefonbuch zu benutzen
 vm-forwardoptions: Drücken Sie 1, um eine Nachricht voranzustellen oder 2, um die Nachricht ohne Voranstellen weiterzuleiten
 vm-Friends: Freunde
-vm-from-extension: Nachricht von der Nebenstelle
+vm-from-extension: Nachricht von der Durchwahl
 vm-from-phonenumber: Nachricht von Rufnummer
 vm-from: von
 vm-goodbye: Auf Wiedersehen
