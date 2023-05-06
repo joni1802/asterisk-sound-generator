@@ -533,7 +533,7 @@ vm-options: Drücken Sie 1, um Ihre nicht verfügbare Nachricht aufzuzeichnen, d
 vm-opts-full: Drücken Sie 2, um auf die in anderen Ordnern gespeicherten Nachrichten zuzugreifen.  Drücken Sie 3, um eine Nachricht für eine andere Mailbox aufzunehmen.  Drücken Sie 0 für Ansagen und Passwortverwaltung.
 vm-opts: Drücken Sie 2, um Ordner zu wechseln, drücken Sie 3 für erweiterte Optionen, drücken Sie Null für Mailbox-Optionen.
 vm-passchanged: Ihre Passwörter sind geändert worden.
-vm-password: Passwort
+vm-password: Passwort.
 vm-pls-try-again: Bitte versuchen Sie es erneut
 vm-press: Drücken Sie
 vm-prev: Drücken Sie 4 für die vorherige Nachricht
@@ -584,5 +584,5 @@ vm-Work: Arbeit
 vm-youhave: Sie haben
 with: Mit.
 you-entered: Sie haben eingegeben.
-your: Ihr.
+your: Ihre.
 
