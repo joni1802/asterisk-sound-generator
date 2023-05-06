@@ -1,2 +1,0 @@
-- [] add source to parseSoundFile(). By default it is the english transcription.
-- [] create directory when creating the sound files and the name contains has a "/"
