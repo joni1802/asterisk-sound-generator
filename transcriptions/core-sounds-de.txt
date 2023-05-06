@@ -388,6 +388,7 @@ phonetic/w_p: Whiskey
 phonetic/x_p: Röntgenbild
 phonetic/y_p: Yankee
 phonetic/z_p: zulu
+please-enter-your-extension-then-press-pound: Bitte geben Sie Ihre Durchwahl ein und drücken anschließend die Rautetaste.
 please-try-again: Bitte versuchen Sie es erneut.
 please-try-call-later: Bitte versuchen Sie Ihren Anruf später noch einmal.
 pls-hold-while-try: Bitte warten Sie, während wir versuchen, Sie zu verbinden.
