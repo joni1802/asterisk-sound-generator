@@ -6,7 +6,7 @@ export function parseSoundFile(sourceFile) {
 
   return lines.map((line) => {
     let [name, text] = line.split(":");
-    let specialChars = /\[.*\]|\(.*\)|\<.*\>/;
+    let specialChars = /\[.*\]|\(.*\)|\<.*\>|\.\.\./g;
 
     text = text?.replace(specialChars, "");
 
