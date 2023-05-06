@@ -5,55 +5,6 @@ import { mkdir, rename, readFile } from "node:fs/promises";
 import inquirer from "inquirer";
 import path from "node:path";
 
-const questions = [
-  {
-    type: "list",
-    name: "transcription",
-    message: "Choose a transcription.",
-    choices() {
-      const dir = readdirSync("transcriptions");
-
-      // Order files by language code
-      return dir.sort((a, b) => {
-        const [_, aLangCode] = a.match(/^.*-([a-z]{2,})\.txt$/);
-        const [__, bLangCode] = b.match(/^.*-([a-z]{2,})\.txt$/);
-
-        return aLangCode.charCodeAt(0) - bLangCode.charCodeAt(0);
-      });
-    },
-  },
-  {
-    type: "list",
-    name: "tts",
-    message: "Choose a Text-To-Speech engine.",
-    choices: ["Coqui", "Google"],
-    filter(val) {
-      return val.toLowerCase();
-    },
-  },
-  {
-    type: "rawlist",
-    name: "voice",
-    message: "Which voice name should be used?",
-    default: 13,
-    when(answers) {
-      return answers.tts === "google";
-    },
-    async choices() {
-      const langCode = "de-DE";
-      const voices = await googleListVoices(langCode);
-
-      return voices.map((voice) => ({
-        name: `${voice.name} (${voice.ssmlGender})`,
-        value: {
-          langCode,
-          name: voice.name,
-        },
-      }));
-    },
-  },
-];
-
 async function moveExtraSoundFiles(
   newTargetPaths,
   targetPath,
@@ -117,4 +68,55 @@ async function createSoundFiles(answers) {
   console.timeEnd();
 }
 
-inquirer.prompt(questions).then(createSoundFiles);
+export default function init() {
+  const questions = [
+    {
+      type: "list",
+      name: "transcription",
+      message: "Choose a transcription.",
+      choices() {
+        const dir = readdirSync("transcriptions");
+
+        // Order files by language code
+        return dir.sort((a, b) => {
+          const [_, aLangCode] = a.match(/^.*-([a-z]{2,})\.txt$/);
+          const [__, bLangCode] = b.match(/^.*-([a-z]{2,})\.txt$/);
+
+          return aLangCode.charCodeAt(0) - bLangCode.charCodeAt(0);
+        });
+      },
+    },
+    {
+      type: "list",
+      name: "tts",
+      message: "Choose a Text-To-Speech engine.",
+      choices: ["Coqui", "Google"],
+      filter(val) {
+        return val.toLowerCase();
+      },
+    },
+    {
+      type: "rawlist",
+      name: "voice",
+      message: "Which voice name should be used?",
+      default: 13,
+      when(answers) {
+        return answers.tts === "google";
+      },
+      async choices() {
+        const langCode = "de-DE";
+        const voices = await googleListVoices(langCode);
+
+        return voices.map((voice) => ({
+          name: `${voice.name} (${voice.ssmlGender})`,
+          value: {
+            langCode,
+            name: voice.name,
+          },
+        }));
+      },
+    },
+  ];
+
+  inquirer.prompt(questions).then(createSoundFiles);
+}

@@ -1,4 +1,5 @@
 import inquirer from "inquirer";
+import create from "./create.js";
 import convert from "./convert.js";
 import extraSounds from "./extra-sounds.js";
 
@@ -33,7 +34,7 @@ async function init() {
 
   switch (action) {
     case "create":
-      // await create()
+      await create();
       break;
     case "convert":
       await convert();
