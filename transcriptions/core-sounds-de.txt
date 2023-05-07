@@ -265,6 +265,8 @@ do-not-disturb: Bitte nicht stören.
 enabled: Aktiviert.
 enter-num-blacklist: Bitte geben Sie die Nummer ein, die auf die schwarze Liste gesetzt werden soll.
 entr-num-rmv-blklist: Bitte geben Sie die Nummer ein, die von der schwarzen Liste entfernt werden soll.
+enter-num-whitelist: Bitte geben Sie die Nummer ein, die auf die Erlaubnisliste gesetzt werden soll. 
+entr-num-rmv-allowlist: Bitte geben Sie die Nummer ein, die von der Erlaubnisliste entfernt werden soll.
 extension: Durchwahl.
 feature-not-avail-line: Diese Funktion ist auf dieser Leitung nicht verfügbar.
 followme: Folge mir.
