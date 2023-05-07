@@ -1,12 +1,13 @@
 {
   "name": "asterisk-sounds-de",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "",
   "main": "index.js",
   "directories": {
     "test": "tests"
   },
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
