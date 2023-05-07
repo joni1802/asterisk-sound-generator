@@ -48,21 +48,7 @@ More details: [Coqui TTS Github Repo](https://github.com/coqui-ai/TTS)
 1. Download the prebuilt FFmpeg binary from an official source.
 2. Copy the binary (executable) to the root directory of this project or add it to the PATH environment variable.
 
-# Manually convert audio files
-
-The default audio sampling rate of the created sound files by the Google TTS API is 16000 HZ.
-
-## Convert WAV to G.722 and G.711 (alaw, ulaw)
-
-- Convert WAV to G.711 alaw `ffmpeg -i path/to/name.wav -ar 8000 -codec:a pcm_alaw -f alaw path/to/name.alaw`
-- Convert WAV to G.711 ulaw `ffmpeg -i path/to/name.wav -ar 8000 -codec:a pcm_mulaw -f mulaw path/to/name.ulaw`
-- Convert MP3 to G.722 `ffmpeg -i path/to/name.wav -ar 16000 path/to/name.g722`
-
-## Just for testing
-
-Convert audio files back to mp3 `ffmpeg -f mulaw -ar 24000 -i path/to/name.g711 -f mulaw path/to/name.mp3`
-
-More details:
+## More usefull sources
 
 - [Google Audio Codecs](https://cloud.google.com/speech-to-text/docs/encoding)
 - [Supported codecs Asterisk](https://wiki.asterisk.org/wiki/display/AST/Codec+Modules)
