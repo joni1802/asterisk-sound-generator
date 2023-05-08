@@ -9,7 +9,7 @@ agent-loginok: Agent eingeloggt.
 agent-newlocation: Bitte geben Sie eine neue Durchwahl ein, gefolgt von einer Raute.
 agent-pass: Bitte geben Sie Ihr Passwort ein, gefolgt von der Rautetaste.
 agent-user: Agenten-Login.  Bitte geben Sie Ihre Agentennummer gefolgt von der Rautetaste ein.
-all-circuits-busy-now: Alle Schaltkreise sind jetzt besetzt.
+all-circuits-busy-now: Alle Leitungen sind derzeit belegt.
 ascending-2tone: [aufsteigende Töne]
 astcc-followed-by-the-pound-key: Gefolgt von der Rautetaste.
 at-tone-time-exactly: Beim Ertönen des Tons wird die genaue Uhrzeit wie folgt sein...
