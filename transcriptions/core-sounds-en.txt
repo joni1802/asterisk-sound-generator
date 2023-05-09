@@ -253,6 +253,7 @@ enabled: Enabled.
 enter-num-blacklist: Please enter the number to be blacklisted.
 entr-num-rmv-blklist: Please enter the number to be removed from the blacklist.
 extension: Extension.
+featurecode: Featurecode
 feature-not-avail-line: That feature is not available on this line.
 followme/call-from: incoming call from
 followme/no-recording: you have an incoming call
