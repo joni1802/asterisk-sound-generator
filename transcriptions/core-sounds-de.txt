@@ -268,6 +268,7 @@ entr-num-rmv-blklist: Bitte geben Sie die Nummer ein, die von der schwarzen List
 enter-num-whitelist: Bitte geben Sie die Nummer ein, die auf die Erlaubnisliste gesetzt werden soll. 
 entr-num-rmv-allowlist: Bitte geben Sie die Nummer ein, die von der Erlaubnisliste entfernt werden soll.
 extension: Durchwahl.
+featurecode: Funktionscode
 feature-not-avail-line: Diese Funktion ist auf dieser Leitung nicht verfügbar.
 followme: Folge mir.
 followme/call-from: eingehende Anrufe von
