@@ -1,4 +1,11 @@
-import { readFile, readdir, writeFile, open } from "node:fs/promises";
+import {
+  readFile,
+  readdir,
+  writeFile,
+  open,
+  copyFile,
+  mkdir,
+} from "node:fs/promises";
 import path from "node:path";
 
 async function getSoundFiles(sourcePath, files = []) {
@@ -8,26 +15,56 @@ async function getSoundFiles(sourcePath, files = []) {
     if (file.isDirectory()) {
       await getSoundFiles(path.join(sourcePath, file.name), files);
     } else {
-      const { name } = path.parse(file.name);
+      const { name, ext } = path.parse(file.name);
+      const index = files.findIndex((f) => f.name === name);
 
-      if (!files.includes(name)) {
-        files.push(name);
+      if (index !== -1) {
+        files[index].ext.push(ext);
+      } else {
+        files.push({ name, ext: [ext], path: sourcePath });
       }
+
+      // if (!files.includes(name)) {
+      //   files.push(name);
+      // }
     }
   }
 
   return files;
 }
 
-const freepbx = await getSoundFiles("E:\\Coding\\freepbx-sounds\\en");
+async function init() {
+  const freepbxSource = "E:\\Coding\\freepbx-sounds\\en";
+  const freepbx = await getSoundFiles(freepbxSource);
 
-const asteriskExtra = await getSoundFiles(
-  "E:\\Coding\\asterisk-extra-sounds-en-g722"
-);
-const asteriskCore = await getSoundFiles("E:\\Coding\\asterisk-core");
+  const asteriskExtra = await getSoundFiles(
+    "E:\\Coding\\asterisk-extra-sounds-en-g722"
+  );
+  const asteriskCore = await getSoundFiles("E:\\Coding\\asterisk-core");
 
-const combinedSounds = [...asteriskCore, ...asteriskExtra];
+  const combinedSounds = [...asteriskCore, ...asteriskExtra];
 
-const difference = freepbx.filter((file) => !combinedSounds.includes(file));
+  const difference = freepbx.filter((file) => {
+    const index = combinedSounds.findIndex((f) => f.name === file.name);
 
-console.log(difference);
+    if (index === -1) {
+      return true;
+    } else {
+      return false;
+    }
+  });
+
+  // await mkdir("temp");
+
+  // for (const file of difference) {
+  //   // const sourceFile = path.join(freepbxSource, )
+
+  //   await copyFile();
+  // }
+
+  // console.log(difference.length);
+
+  console.log(difference);
+}
+
+init();
