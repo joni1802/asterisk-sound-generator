@@ -14,6 +14,7 @@
   "license": "MIT",
   "type": "module",
   "dependencies": {
+    "@google-cloud/speech": "^5.4.1",
     "@google-cloud/text-to-speech": "^4.2.2",
     "deepl-node": "^1.9.0",
     "dotenv": "^16.0.3",

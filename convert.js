@@ -15,7 +15,7 @@ function ffmpeg(cmd) {
   });
 }
 
-async function convertFile(sourceFile, targetFile, options) {
+export async function convertFile(sourceFile, targetFile, options) {
   if (existsSync(targetFile)) {
     console.log(
       `${sourceFile} ➡️ ${targetFile} already exists. Skipped converting.`

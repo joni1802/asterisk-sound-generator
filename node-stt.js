@@ -1,36 +1,39 @@
 import speech from "@google-cloud/speech";
 import { readFile } from "node:fs/promises";
-
+import path from "node:path";
 import * as dotenv from "dotenv";
 
 dotenv.config();
 
-const client = new speech.SpeechClient();
-const filename = "agent-login.wav";
+export async function googleSpeech(sourceFile, langCode) {
+  const client = new speech.SpeechClient();
 
-const file = await readFile(filename);
-const audioBytes = file.toString("base64");
+  const file = await readFile(sourceFile);
+  const audioBytes = file.toString("base64");
 
-const audio = {
-  content: audioBytes,
-};
+  const audio = {
+    content: audioBytes,
+  };
 
-const config = {
-  encoding: "LINEAR16",
-  // sampleRateHertz: 16000,
-  enableAutomaticPunctuation: true,
-  languageCode: "en-US",
-};
+  const config = {
+    // encoding: "LINEAR16",
+    // sampleRateHertz: 16000,
+    enableAutomaticPunctuation: true,
+    languageCode: langCode,
+  };
 
-const request = {
-  audio: audio,
-  config: config,
-};
+  const request = {
+    audio,
+    config,
+  };
 
-const [response] = await client.recognize(request);
-const transcription = response.results
-  .map((result) => result.alternatives[0].transcript)
-  .join("\n");
-console.log(`Transcription: ${transcription}`);
+  const [response] = await client.recognize(request);
+  const transcription = response.results
+    .map((result) => result.alternatives[0].transcript)
+    .join("\n");
 
-console.log(response.results[0].alternatives);
+  return {
+    name: path.parse(sourceFile).name,
+    transcription,
+  };
+}
