@@ -1,0 +1,53 @@
+agent-login: Agentenanmeldung. Bitte geben Sie Ihre Agentennummer und dann die Raute-Taste ein.
+agent-logoff: Agentenabmeldung. Bitte geben Sie Ihre Agentennummer und dann die Raute-Taste ein.
+areminder-1c-2n: Wenn dies korrekt ist, drücken Sie 1, ansonsten drücken Sie 2.
+areminder-cancel: Abbrechen.
+areminder-cancelled: Ihre Stornierungsanfrage wurde gespeichert.
+areminder-confirm: Bestätigen.
+areminder-confirmed: Vielen Dank, Sie haben Ihren Termin bestätigt.
+areminder-for: Für
+areminder-greeting: Dies ist eine Terminerinnerung.
+areminder-greeting2: Sie haben einen Termin geplant am.
+areminder-instructions: Um diesen Termin zu bestätigen, drücken Sie 1, um abzusagen, drücken Sie 2, um einen neuen Termin anzufordern, drücken Sie 3, oder drücken Sie 0 für Kundenservice.
+areminder-reschedule-callback: Ein Kundendienstmitarbeiter wird Sie kontaktieren, um Ihren Termin zu vereinbaren.
+areminder-reschedule: Neu terminieren.
+areminder-summary-instructions: Um das aktuell geplante Datum erneut zu hören, drücken Sie 1. Um von vorne zu beginnen, drücken Sie 2. Für den Kundenservice drücken Sie 0. Oder wenn Sie fertig sind, legen Sie einfach auf.
+areminder-summary: Sie haben sich dafür entschieden.
+areminder-summary2: Ihr geplanter Termin.
+areminder-transfer: Bitte bleiben Sie in der Leitung, während wir Sie zum Kundenservice weiterleiten.
+authfile: Dies ist ein Anruf von der PBX-Sicherheit. Drücken Sie Raute, um sich zu authentifizieren.
+cdir-matching-entries-continue: Übereinstimmende Einträge. Bitte fahren Sie fort, den Namen der Partei zu buchstabieren, um die Auswahl einzugrenzen.
+cdir-matching-entries-or-pound: Übereinstimmende Einträge. Bitte fahren Sie fort, den Namen der Partei zu buchstabieren, oder drücken Sie die Raute-Taste, um einen der Einträge auszuwählen.
+cdir-please-enter-first-three: Bitte geben Sie die ersten 3 oder mehr Buchstaben des Vornamens oder des Nachnamens der Partei mit Ihrer Tonwahl-Tastatur ein. Verwenden Sie die Taste 1 für Satzzeichen. Drücken Sie 0, um das Verzeichnis zu verlassen und weitere Hilfe zu erhalten.
+cdir-sorry-no-entries: Es tut uns leid. Es gibt keinen Eintrag, der den von Ihnen eingegebenen Tasten entspricht.
+cdir-there-are: Es gibt.
+cdir-transferring-further-assistance: Wir leiten Sie jetzt aus dem Firmenverzeichnis weiter. Bitte halten Sie für weitere Unterstützung an.
+cdir-welcome: Willkommen im Verzeichnis.
+dictation-being-processed: Ihre Diktierung wird jetzt verarbeitet und per E-Mail versendet. Bitte warten Sie.
+dictation-sent: Ihre Diktierung wurde gesendet. Bitte denken Sie daran, die Aufzeichnung vor Verwendung dieser Nummer zu löschen.
+enter-filename-short: Geben Sie einen numerischen Dateinamen für die Diktierung ein, gefolgt von der Raute-Taste.
+exited-vm-will-be-transfered: Sie haben das Voicemail-System verlassen und werden nun zurück zum vorherigen Menü übertragen oder Sie können auflegen, um den Anruf zu beenden.
+featurecode: Funktionscode.
+followme: Weiterleitung.
+incoming-call-1-accept-2-decline: Sie haben einen eingehenden Anruf. Drücken Sie 1, um anzunehmen, 2, um abzulehnen. Drücken Sie 3, um die Anrufer-ID-Informationen zu hören, falls verfügbar.
+incoming-call-no-longer-avail: Es tut uns leid. Der eingehende Anruf ist nicht mehr verfügbar oder wurde von jemand anderem beantwortet.
+intercom: Intercom.
+line-busy-transfer-menu: Die von Ihnen gewählte Nummer ist derzeit besetzt oder nicht verfügbar. Sie können in der Leitung bleiben und zurück zum vorherigen Menü weitergeleitet werden oder auflegen, um den Anruf zu beenden.
+no-valid-responce-pls-try-again: Wir haben keine gültige Antwort erhalten. Bitte versuchen Sie es erneut.
+no-valid-responce-transfering: Wir haben keine gültige Antwort erhalten. Bitte warten Sie, während wir Ihren Anruf verbinden.
+please-enter-your-extension-then-press-pound: Bitte geben Sie Ihre Durchwahl ein. Drücken Sie dann die Raute-Taste.
+vmnotify-followed-by-pound: Gefolgt von der Raute-Taste.
+vmnotify-goodbye: Auf Wiedersehen.
+vmnotify-greeting: Sie haben eine neue Voicemail in Ihrer Mailbox.
+vmnotify-instructions: Um die Nachricht zu hören, drücken Sie 1. Um diese Nachricht abzulehnen, drücken Sie 2. Oder um die Anrufer-ID zu hören, drücken Sie 3.
+vmnotify-instructions2: Um diese Nachricht anzunehmen, drücken Sie 1. Um diese Nachricht abzulehnen, drücken Sie 2. Oder um die Anrufer-ID zu hören, drücken Sie 3
+vmnotify-recname: Nach dem Signalton sagen Sie bitte Ihren Namen.
+vmnotify-thankyou: Vielen Dank.
+vmnotify-too-late: Es tut uns leid, aber die Nachricht wurde von einer anderen Person angenommen.
+vqplus-accept: Drücken Sie 1, um zu akzeptieren, oder 2, um abzulehnen.
+vqplus-callback: Dies ist ein Rückruf für
+vqplus-confirmed: Sie werden zurückgerufen, sobald Ihre Position in der Warteschlange erreicht ist.
+vqplus-enter-name: Bitte nehmen Sie nach dem Signalton Ihren Namen auf. Drücken Sie anschließend die Raute-Taste.
+vqplus-enter-number: Drücken Sie 1, um diese Nummer zu verwenden, oder drücken Sie 2, um eine andere Nummer einzugeben.
+welcome-conf-cntr-pls-enter-num: Willkommen im Sangoma Conference Center. Bitte geben Sie Ihre Konferenzraumnummer ein.
+you-will-be-transfered-menu: Sie werden nun zum vorherigen Menü zurückgeleitet oder Sie können auflegen, um den Anruf zu beenden.

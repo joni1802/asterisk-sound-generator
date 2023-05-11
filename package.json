@@ -18,6 +18,7 @@
     "@google-cloud/text-to-speech": "^4.2.2",
     "deepl-node": "^1.9.0",
     "dotenv": "^16.0.3",
-    "inquirer": "^9.2.0"
+    "inquirer": "^9.2.0",
+    "openai-streams": "^5.3.0"
   }
 }
