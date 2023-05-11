@@ -1,53 +1,53 @@
 agent-login: Agent login. Please enter your agent number followed by the pound key.
-agent-logoff: Asian log off, please enter your agent. Number followed by the pound key.
-areminder-1c-2n: If this is correct, press one, otherwise press 2.
+agent-logoff: Agent logoff. Please enter your agent number followed by the pound key.
+areminder-1c-2n: If this is correct, press 1, otherwise press 2.
 areminder-cancel: Cancel.
 areminder-cancelled: Your cancellation request has been saved.
 areminder-confirm: Confirm.
 areminder-confirmed: Thank you, you have confirmed your appointment.
-areminder-for: 
-areminder-greeting: This is an appointment, reminder.
-areminder-greeting2: You have an appointment scheduled on?
-areminder-instructions: To confirm this appointment, press one to cancel, press 2 to request your appointment, be rescheduled for a new date, press 3, or press 0, for customer service.
+areminder-for: For
+areminder-greeting: This is an appointment reminder.
+areminder-greeting2: You have an appointment scheduled on.
+areminder-instructions: To confirm this appointment, press 1 to cancel, press 2 to request your appointment, be rescheduled for a new date, press 3, or press 0, for customer service.
 areminder-reschedule-callback: A customer service representative will contact you to schedule your appointment.
 areminder-reschedule: Reschedule.
-areminder-summary-instructions: To hear the currently scheduled date again. Press 1 to start over from the beginning, press 2 for customer service, press 0. Or if you're finished, simply hang up.
+areminder-summary-instructions: To hear the currently scheduled date again, press 1. To start over from the beginning, press 2. For customer service, press 0. Or if you're finished, simply hang up.
 areminder-summary: You have chosen to.
 areminder-summary2: Your scheduled appointment.
 areminder-transfer: Please hold while we transfer you to customer service.
 authfile: this is a call from PBX security press hash to authenticate
-cdir-matching-entries-continue: Matching entries. Please continue spelling. The parties name to narrow down the choices.
-cdir-matching-entries-or-pound: Matching entries, please continue spelling, the party's name or press the pound key to choose one of the entries.
-cdir-please-enter-first-three: Please, enter the first 3 or more letters of the parties first or last name using your touch tone keypad. Use the one key for punctuations press 0 to exit the directory and obtain further assistance.
-cdir-sorry-no-entries: I'm sorry. There is no entry. Magic, Nicky's. You've entered.
+cdir-matching-entries-continue: Matching entries. Please continue spelling the parties name to narrow down the choices.
+cdir-matching-entries-or-pound: Matching entries. Please continue spelling the party's name or press the pound key to choose one of the entries.
+cdir-please-enter-first-three: Please enter the first 3 or more letters of the parties first or last name using your touch tone keypad. Use the one key for punctuations. Press 0 to exit the directory and obtain further assistance.
+cdir-sorry-no-entries: I'm sorry. There is no entry matching the keys you've entered.
 cdir-there-are: There are.
-cdir-transferring-further-assistance: We are now transferring you out of the company. Directory, please hold on for further assistance.
+cdir-transferring-further-assistance: We are now transferring you out of the company directory. Please hold on for further assistance.
 cdir-welcome: Welcome to the directory.
-dictation-being-processed: Your education is now being processed and emailed. Please wait.
-dictation-sent: Medication has been sent, please remember to trunk, 8, the recording before using this number again.
-enter-filename-short: Andrew numeric, dictation file name, followed by pound.
+dictation-being-processed: Your dictation is now being processed and emailed. Please wait.
+dictation-sent: Your dictation has been sent. Please remember to trunkate the recording before using this number again.
+enter-filename-short: Enter a numeric dictation file name, followed by pound.
 exited-vm-will-be-transfered: You have exited the voicemail system and will now be transferred back to the previous menu, or you may hang up to end this call.
 featurecode: Feature code.
 followme: Follow me.
-incoming-call-1-accept-2-decline: You have an incoming call. Press 1 to accept 2 to decline. Press 3, D here, the caller ID information if available.
+incoming-call-1-accept-2-decline: You have an incoming call. Press 1 to accept, 2 to decline. Press 3, to here the caller ID information if available.
 incoming-call-no-longer-avail: I'm sorry. The incoming call is no longer available or has been answered by someone else.
 intercom: Intercom.
 line-busy-transfer-menu: The number you just dialed is busy or unavailable at this time. You can hold on and be transferred back to the previous menu or hang up to end this call.
 no-valid-responce-pls-try-again: We have not received a valid response. Please try again.
 no-valid-responce-transfering: We have not received a valid response, please wait while we connect your call.
-please-enter-your-extension-then-press-pound: Please enter your extension then press pound.
+please-enter-your-extension-then-press-pound: Please enter your extension. Then press pound.
 vmnotify-followed-by-pound: Followed by the pound key.
 vmnotify-goodbye: Goodbye.
 vmnotify-greeting: You have a new voicemail in mailbox.
-vmnotify-instructions: Do hear the message press 1 to decline. This message, press 2, or to hear the caller ID press 3.
-vmnotify-instructions2: to accept this message, press 1 to decline, this message, press 2, or to hear the caller ID press 3
+vmnotify-instructions: Do hear the message press 1. To decline this message, press 2. Or to hear the caller ID, press 3.
+vmnotify-instructions2: To accept this message, press 1. To decline this message, press 2. Or to hear the caller ID, press 3
 vmnotify-recname: After the tone, please say your name.
 vmnotify-thankyou: Thank you.
 vmnotify-too-late: I'm sorry, but the message has been accepted by another person.
-vqplus-accept: Press 1 to accept or two to decline.
-vqplus-callback: This is a call back 4.
+vqplus-accept: Press 1 to accept or 2 to decline.
+vqplus-callback: This is a call back for
 vqplus-confirmed: You will be called back once your position in line has been reached.
-vqplus-enter-name: Please record your name after the tone then press pound.
-vqplus-enter-number: Press one to use this number or press 2 to enter a different number.
-welcome-conf-cntr-pls-enter-num: Welcome to the same gonna Conference Center. Please enter your conference room number.
+vqplus-enter-name: Please record your name after the tone. Then press pound.
+vqplus-enter-number: Press 1 to use this number or press 2 to enter a different number.
+welcome-conf-cntr-pls-enter-num: Welcome to the Sangoma Conference Center. Please enter your conference room number.
 you-will-be-transfered-menu: You will now be transferred back to the previous menu, or you may hang up to end this call.
