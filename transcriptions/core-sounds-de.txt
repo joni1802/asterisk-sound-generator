@@ -1,17 +1,17 @@
 aktiviert: Aktiviert.
 hinzugefügt: Hinzugefügt.
-agent-alreadyon: Dieser Agent ist bereits angemeldet. Bitte geben Sie Ihre Agentennummer gefolgt von der #-Taste ein.
-agent-incorrect: Anmeldung fehlgeschlagen. Bitte geben Sie Ihre Agentennummer gefolgt von der #-Taste ein.
+agent-alreadyon: Dieser Agent ist bereits angemeldet. Bitte geben Sie Ihre Agentennummer gefolgt von der Raute-Taste ein.
+agent-incorrect: Anmeldung fehlgeschlagen. Bitte geben Sie Ihre Agentennummer gefolgt von der Raute-Taste ein.
 agent-loggedoff: Agent abgemeldet.
 agent-loginok: Agent angemeldet.
-agent-newlocation: Bitte geben Sie eine neue Durchwahl gefolgt von der #-Taste ein.
-agent-pass: Bitte geben Sie Ihr Passwort gefolgt von der #-Taste ein.
-agent-user: Agent-Anmeldung. Bitte geben Sie Ihre Agentennummer gefolgt von der #-Taste ein.
+agent-newlocation: Bitte geben Sie eine neue Durchwahl gefolgt von der Raute-Taste ein.
+agent-pass: Bitte geben Sie Ihr Passwort gefolgt von der Raute-Taste ein.
+agent-user: Agent-Anmeldung. Bitte geben Sie Ihre Agentennummer gefolgt von der Raute-Taste ein.
 all-circuits-busy-now: Alle Leitungen sind derzeit belegt.
 ascending-2tone: [aufsteigende Töne]
-astcc-followed-by-the-pound-key: Gefolgt von der #-Taste.
+astcc-followed-by-the-pound-key: Gefolgt von der Raute-Taste.
 at-tone-time-exactly: Nach dem Signalton ist es exakt...
-auth-incorrect: Falsches Passwort. Bitte geben Sie Ihr Passwort gefolgt von der #-Taste ein.
+auth-incorrect: Falsches Passwort. Bitte geben Sie Ihr Passwort gefolgt von der Raute-Taste ein.
 auth-thankyou: Vielen Dank.
 basic-pbx-ivr-main: Vielen Dank für Ihren Anruf bei Super Awesome Company, dem führenden Anbieter von perfekten Produkten von Waldo. Wenn Sie die Durchwahl Ihres Gesprächspartners kennen, können Sie diese jederzeit wählen. Für eine Sales-Partnerschaft drücken Sie bitte die Eins. Für einen Kundensupport drücken Sie bitte die Zwei. Für Buchhaltung und andere Forderungen drücken Sie bitte die Drei. Für ein Verzeichnis des Unternehmens drücken Sie bitte die Vier. Für eine Verbindung mit unserem Operator drücken Sie bitte die Null.
 beep: [Dies ist ein einfacher Beep-Ton]
@@ -33,8 +33,8 @@ conf-enteringno: Sie betreten Konferenznummer
 conf-errormenu: Ungültige Auswahl
 conf-extended: Die Konferenz wurde verlängert.
 conf-full: Die Konferenz ist voll.
-conf-getchannel: Bitte geben Sie die Kanalnummer gefolgt von der #-Taste ein.
-conf-getconfno: Bitte geben Sie Ihre Konferenznummer gefolgt von der #-Taste ein.
+conf-getchannel: Bitte geben Sie die Kanalnummer gefolgt von der Raute-Taste ein.
+conf-getconfno: Bitte geben Sie Ihre Konferenznummer gefolgt von der Raute-Taste ein.
 conf-getpin: Bitte geben Sie die Konferenz-PIN-Nummer ein.
 conf-hasjoin: ist jetzt in der Konferenz.
 conf-hasleft: hat die Konferenz verlassen.
@@ -489,7 +489,7 @@ vm-ist-am-Telefon: ist am Telefon
 vm-ist-unverfügbar: ist nicht verfügbar
 vm-letzte: letzte
 vm-nachricht-hinterlassen: Drücken Sie die 5, um eine Nachricht zu hinterlassen
-vm-login: Comedian Mail. Mailbox?
+vm-login: Bitte geben Sie Ihre Mailboxnummer ein.
 vm-mailboxfull: Entschuldigung, aber der Posteingang des Benutzers kann keine weiteren Nachrichten mehr empfangen.
 vm-marked-nonurgent: Dringlichkeitsstatus entfernt.
 vm-marked-urgent: Nachricht als dringend markiert.
