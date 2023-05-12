@@ -18,6 +18,8 @@
     "@google-cloud/text-to-speech": "^4.2.2",
     "deepl-node": "^1.9.0",
     "dotenv": "^16.0.3",
+    "gpt-3-encoder": "^1.1.4",
+    "gpt-tokenizer": "^1.0.4",
     "inquirer": "^9.2.0",
     "openai-streams": "^5.3.0"
   }
