@@ -1,5 +1,7 @@
-aktiviert: Aktiviert.
-hinzugefügt: Hinzugefügt.
+; Core Asterisk Sounds in German
+
+activated: Aktiviert.
+added: Hinzugefügt.
 agent-alreadyon: Dieser Agent ist bereits angemeldet. Bitte geben Sie Ihre Agentennummer gefolgt von der Raute-Taste ein.
 agent-incorrect: Anmeldung fehlgeschlagen. Bitte geben Sie Ihre Agentennummer gefolgt von der Raute-Taste ein.
 agent-loggedoff: Agent abgemeldet.
@@ -139,97 +141,97 @@ dictate/truncating_audio: Audio wird abgeschnitten
 digits/0: Null
 digits/10: Zehn
 digits/11: Elf
-Ziffern/12: zwölf
-Ziffern/13: dreizehn
-Ziffern/14: vierzehn
-Ziffern/15: fünfzehn
-Ziffern/16: sechzehn
-Ziffern/17: siebzehn
-Ziffern/18: achtzehn
-Ziffern/19: neunzehn
-Ziffern/1: eins
-Ziffern/20: zwanzig
-Ziffern/2: zwei
-Ziffern/30: dreißig
-Ziffern/3: drei
-Ziffern/40: vierzig
-Ziffern/4: vier
-Ziffern/50: fünfzig
-Ziffern/5: fünf
-Ziffern/60: sechzig
-Ziffern/6: sechs
-Ziffern/70: siebzig
-Ziffern/7: sieben
-Ziffern/80: achtzig
-Ziffern/8: acht
-Ziffern/90: neunzig
-Ziffern/9: neun
-Ziffern/vormittags: Vormittag
-Ziffern/um: um
-Ziffern/Milliarde: Milliarde
-Ziffern/Tag-0: Sonntag
-Ziffern/Tag-1: Montag
-Ziffern/Tag-2: Dienstag
-Ziffern/Tag-3: Mittwoch
-Ziffern/Tag-4: Donnerstag
-Ziffern/Tag-5: Freitag
-Ziffern/Tag-6: Samstag
-Ziffern/Dollar: Dollar
-Ziffern/10.: zehnter
-Ziffern/11.: elfter
-Ziffern/12.: zwölfter
-Ziffern/13.: dreizehnter
-Ziffern/14.: vierzehnter
-Ziffern/15.: fünfzehnter
-Ziffern/16.: sechzehnter
-Ziffern/17.: siebzehnter
-Ziffern/18.: achtzehnter
-Ziffern/19.: neunzehnter
-Ziffern/1.: erster
-Ziffern/20.: zwanzigster
-Ziffern/2.: zweiter
-Ziffern/30.: dreißigster
-Ziffern/3.: dritter
-Ziffern/40.: vierzigster
-Ziffern/4.: vierter
-Ziffern/50.: fünfzigster
-Ziffern/5.: fünfter
-Ziffern/60.: sechzigster
-Ziffern/6.: sechster
-Ziffern/70.: siebzigster
-Ziffern/7.: siebter
-Ziffern/80.: achtzigster
-Ziffern/8.: achter
-Ziffern/90.: neunzigster
-Ziffern/9.: neunter
-Ziffern/Milliarde: Milliardenste
-Ziffern/Hundertstel: Hundertstel
-Ziffern/Millionstel: Millionstel
-Ziffern/Tausendstel: Tausendstel
-Ziffern/Hundert: Hundert
-Ziffern/Million: Million
-Ziffern/minus: minus
-Ziffern/Mon-0: Januar
-Ziffern/Mon-10: November
-Ziffern/Mon-11.: Dezember
-Ziffern/Mon-1: Februar
-Ziffern/Mon-2: März
-Ziffern/Mon-3: April
-Ziffern/Mon-4: Mai
-Ziffern/Mon-5: Juni
-Ziffern/Mon-6: Juli
-Ziffern/Mon-7: August
-Ziffern/Mon-8: September
-Ziffern/Mon-9: Oktober
-Ziffern/Uhr: Uhr
-Ziffern/oh: null
-Ziffern/nachmittags: Nachmittag
-Ziffern/Pfund: Pfund
-Ziffern/Stern: Stern
-Ziffern/Tausend: Tausend
-Ziffern/heute: heute
-Ziffern/morgen: morgen
-Ziffern/gestern: gestern
+digits/12: zwölf
+digits/13: dreizehn
+digits/14: vierzehn
+digits/15: fünfzehn
+digits/16: sechzehn
+digits/17: siebzehn
+digits/18: achtzehn
+digits/19: neunzehn
+digits/1: eins
+digits/20: zwanzig
+digits/2: zwei
+digits/30: dreißig
+digits/3: drei
+digits/40: vierzig
+digits/4: vier
+digits/50: fünfzig
+digits/5: fünf
+digits/60: sechzig
+digits/6: sechs
+digits/70: siebzig
+digits/7: sieben
+digits/80: achtzig
+digits/8: acht
+digits/90: neunzig
+digits/9: neun
+digits/a-m: Vormittag
+digits/at: um
+digits/billion: Milliarde
+digits/day-0: Sonntag
+digits/day-1: Montag
+digits/day-2: Dienstag
+digits/day-3: Mittwoch
+digits/day-4: Donnerstag
+digits/day-5: Freitag
+digits/day-6: Samstag
+digits/dollars: Dollar
+digits/h-10: zehnter
+digits/h-11: elfter
+digits/h-12: zwölfter
+digits/h-13: dreizehnter
+digits/h-14: vierzehnter
+digits/h-15: fünfzehnter
+digits/h-16: sechzehnter
+digits/h-17: siebzehnter
+digits/h-18: achtzehnter
+digits/h-19: neunzehnter
+digits/h-1: erster
+digits/h-20: zwanzigster
+digits/h-2: zweiter
+digits/h-30: dreißigster
+digits/h-3: dritter
+digits/h-40: vierzigster
+digits/h-4: vierter
+digits/h-50: fünfzigster
+digits/h-5: fünfter
+digits/h-60: sechzigster
+digits/h-6: sechster
+digits/h-70: siebzigster
+digits/h-7: siebter
+digits/h-80: achtzigster
+digits/h-8: achter
+digits/h-90: neunzigster
+digits/h-9: neunter
+digits/h-billion: Milliardenste
+digits/h-hundred: Hundertstel
+digits/h-million: Millionstel
+digits/h-thousand: Tausendstel
+digits/hundred: Hundert
+digits/million: Million
+digits/minus: minus
+digits/mon-0: Januar
+digits/mon-10: November
+digits/mon-11: Dezember
+digits/mon-1: Februar
+digits/mon-2: März
+digits/mon-3: April
+digits/mon-4: Mai
+digits/mon-5: Juni
+digits/mon-6: Juli
+digits/mon-7: August
+digits/mon-8: September
+digits/mon-9: Oktober
+digits/oclock: Uhr
+digits/oh: null
+digits/p-m: Nachmittag
+digits/pound: Pfund
+digits/star: Stern
+digits/thousand: Tausend
+digits/today: heute
+digits/tomorrow: morgen
+digits/yesterday: gestern
 dir-first: Buchstaben des Vornamens Ihrer gewünschten Person.
 dir-firstlast: ... Buchstaben des Vornamens oder Nachnamens Ihrer gesuchten Person.
 dir-instr: Wenn Sie die gesuchte Person gefunden haben, drücken Sie jetzt die 1, andernfalls drücken Sie bitte die Stern-Taste.
@@ -410,47 +412,47 @@ silence/3: (3 Sekunden Stille)
 silence/4: (4 Sekunden Stille)
 silence/5: (5 Sekunden Stille)
 silence/6: (6 Sekunden Stille)
-Stille/7: (7 Sekunden Stille)
-Stille/8: (8 Sekunden Stille)
-Stille/9: (9 Sekunden Stille)
-simultane-anrufbegrenzung-erreicht: Simultane Anrufbegrenzung erreicht.
-etwas-schrecklich-falsch: Etwas ist schrecklich falsch!
-es-tut-uns-leid-dass-sie-probleme-haben: Es tut uns leid, dass Sie Probleme haben.
-es-tut-uns-leid: Es tut uns leid.
-speed-dial-eingabe-leer: Der Speed-Dial Eintrag, den Sie aufgerufen haben, ist leer.
-Speed-Dial: Direktwahl.
-Spiona: Agent
-Spionkonsole: Konsole
-Spion-Dahdi: DAHDI
-Spion-H323: H.323
-Spion-IAX2: IAX (Hinweis: sagt nicht "2")
-Spion-IAX: IAX
-Spion-Jingle: Jingle
-Spion-Local: Lokal
-Spion-MGCP: MGCP
-Spion-MISDN: M I S D N
-Spion-Mobile: Bluetooth Mobile
-Spion-NBS: N B S
-Spion-SIP: SIP
-Spion-Skinny: Skinny
-Spion-Unistim: Unistim
-Spion-USBradio: USB Radio
-Spion-Zap: Zap
-Kein-Dienst-SS: Die gewählte Nummer ist nicht in Betrieb. Bitte überprüfen Sie die Nummer und versuchen es erneut.
-Telefonnummer: Telefonnummer.
-Zeit: Zeit.
-Um-diese-Nummer-anzurufen: Um diese Nummer anzurufen.
-Zur-Durchwahl: Zur Durchwahl.
-Um-es-zu-anzuhoeren: Um es anzuhören.
-Um-es-neu-aufzunehmen: Um es neu aufzunehmen.
-Weiterleitung: Bitte warten Sie, während ich diese Durchwahl versuche.
-Alle-Vertreter-sind-beschaeftigt: Alle Vertreter des Haushalts sind gerade dabei, anderen Telemarketing-Kunden zu helfen. Bitte bleiben Sie in der Leitung, es wird in der Reihenfolge, in der es empfangen wurde, beantwortet.
+silence/7: (7 Sekunden Stille)
+silence/8: (8 Sekunden Stille)
+silence/9: (9 Sekunden Stille)
+simul-call-limit-reached: Simultane Anrufbegrenzung erreicht.
+something-terribly-wrong: Etwas ist schrecklich falsch!
+sorry-youre-having-problems: Es tut uns leid, dass Sie Probleme haben.
+sorry: Es tut uns leid.
+speed-dial-empty: Der Speed-Dial Eintrag, den Sie aufgerufen haben, ist leer.
+speed-dial: Direktwahl.
+spy-agent: Agent
+spy-console: Konsole
+spy-dahdi: DAHDI
+spy-h323: H.323
+spy-iax2: IAX (Hinweis
+spy-iax: IAX
+spy-jingle: Jingle
+spy-local: Lokal
+spy-mgcp: MGCP
+spy-misdn: M I S D N
+spy-mobile: Bluetooth Mobile
+spy-nbs: N B S
+spy-sip: SIP
+spy-skinny: Skinny
+spy-unistim: Unistim
+spy-usbradio: USB Radio
+spy-zap: Zap
+ss-noservice: Die gewählte Nummer ist nicht in Betrieb. Bitte überprüfen Sie die Nummer und versuchen es erneut.
+telephone-number: Telefonnummer.
+time: Zeit.
+to-call-this-number: Um diese Nummer anzurufen.
+to-extension: Zur Durchwahl.
+to-listen-to-it: Um es anzuhören.
+to-rerecord-it: Um es neu aufzunehmen.
+transfer: Bitte warten Sie, während ich diese Durchwahl versuche.
+tt-allbusy: Alle Vertreter des Haushalts sind gerade dabei, anderen Telemarketing-Kunden zu helfen. Bitte bleiben Sie in der Leitung, es wird in der Reihenfolge, in der es empfangen wurde, beantwortet.
 tt-monkeys: [Affen schreien]
 tt-monkeysintro: Sie wurden von Affen weggetragen
 tt-somethingwrong: Etwas ist schrecklich falsch
 tt-weasels: Wiesel haben unser Telefonsystem gegessen
-Nicht identifiziert - kein Rückruf: Nicht identifiziert oder zurückgehalten und kann daher nicht zurückgerufen werden.
-Großbuchstaben: Großbuchstaben
+unidentified-no-callback: Nicht identifiziert oder zurückgehalten und kann daher nicht zurückgerufen werden.
+uppercase: Großbuchstaben
 vm-advopts: Drücken Sie die 3 für erweiterte Optionen
 vm-and: und
 vm-calldiffnum: Drücken Sie die 2, um eine andere Nummer einzugeben
@@ -463,32 +465,32 @@ vm-Cust5: Ordner 9
 vm-delete: Drücken Sie die 7, um diese Nachricht zu löschen.
 vm-deleted: Nachricht gelöscht.
 vm-dialout: Bitte warten Sie, während ich Ihren Anruf verbinde
-vm-dauer: Diese Nachricht dauert ...
+vm-duration: Diese Nachricht dauert ...
 vm-enter-num-to-call: Bitte geben Sie die Nummer ein, die Sie anrufen möchten
-vm-Durchwahl: Durchwahl
-vm-Familie: Familie
-vm-erste: erste
-vm-fuer: für
+vm-extension: Durchwahl
+vm-Family: Familie
+vm-first: erste
+vm-for: für
 vm-forward-multiple: Drücken Sie die 1, um diese Nachricht zu senden, oder die 2, um einen anderen Empfänger hinzuzufügen.
 vm-forward: Drücken Sie die 1, um eine Durchwahl einzugeben, drücken Sie die 2, um das Verzeichnis zu verwenden.
 vm-forwardoptions: Drücken Sie die 1, um eine Nachricht einzufügen oder die 2, um die Nachricht ohne Einfügung weiterzuleiten
-vm-Freunde: Freunde
-vm-von-Durchwahl: Nachricht von Durchwahl
-vm-von-Telefonnummer: Nachricht von Telefonnummer
+vm-Friends: Freunde
+vm-from-extension: Nachricht von Durchwahl
+vm-from-phonenumber: Nachricht von Telefonnummer
 vm-from: von
 vm-goodbye: Auf Wiedersehen
 vm-helpexit: Drücken Sie die Stern-Taste für Hilfe oder die Raute-Taste, um zu beenden.
 vm-INBOX: neu
-vm-inkorrekte-Mailbox: Login inkorrekt. Mailbox?
-vm-inkorrekt: Login inkorrekt.
+vm-incorrect-mailbox: Login inkorrekt. Mailbox?
+vm-incorrect: Login inkorrekt.
 vm-instructions: Drücken Sie die 1, um Ihre Nachrichten anzuhören. Sie können die Voicemail jederzeit durch Drücken der Raute-Taste verlassen.
 vm-intro: Bitte sprechen Sie nach dem Signalton. Wenn Sie fertig sind, legen Sie bitte auf oder drücken Sie die Raute-Taste. (einfaches Ton-Signal ertönt)
-vm-falsches-Passwort: Das Passwort erfüllt nicht die Mindestanforderungen für diese Mailbox. Bitte versuchen Sie es erneut.
-vm-ungültiges-Passwort: Das ist kein gültiges Passwort. Bitte versuchen Sie es erneut.
-vm-ist-am-Telefon: ist am Telefon
-vm-ist-unverfügbar: ist nicht verfügbar
-vm-letzte: letzte
-vm-nachricht-hinterlassen: Drücken Sie die 5, um eine Nachricht zu hinterlassen
+vm-invalid-password: Das Passwort erfüllt nicht die Mindestanforderungen für diese Mailbox. Bitte versuchen Sie es erneut.
+vm-invalidpassword: Das ist kein gültiges Passwort. Bitte versuchen Sie es erneut.
+vm-isonphone: ist am Telefon
+vm-isunavail: ist nicht verfügbar
+vm-last: letzte
+vm-leavemsg: Drücken Sie die 5, um eine Nachricht zu hinterlassen
 vm-login: Bitte geben Sie Ihre Mailboxnummer ein.
 vm-mailboxfull: Entschuldigung, aber der Posteingang des Benutzers kann keine weiteren Nachrichten mehr empfangen.
 vm-marked-nonurgent: Dringlichkeitsstatus entfernt.
