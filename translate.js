@@ -63,7 +63,7 @@ function getTargetFilename(sourceFile, targetLangCode) {
 async function openaiTranslateFile(text, targetFile, language) {
   return new Promise(async (resolve, reject) => {
     const target = createWriteStream(targetFile, { flags: "a" });
-    const content = `Translate a transcription of a phone system to ${language}. Keep the original formatting and only translate everything after the colon on each line. Always translate the word "extension" to the german word "Durchwahl". 
+    const content = `Translate a transcription of a phone system to ${language}. Translate each line individually. Split each line by the colon and only translate everything after the colon. 
 Here is the transcription:
 ${text}
 `;
@@ -214,7 +214,7 @@ export default async function init() {
       // The token limit is 4096 tokens for input and output.
       // Because the amount of tokens used by chatGPT for the output can't be calculated, the limit should be set much lower than 4096 tokens.
       // Also languages like german consume up to three times more tokens then english.
-      const chunks = await getFileChunks(sourceFile, 1000);
+      const chunks = await getFileChunks(sourceFile, 1500);
 
       for (const text of chunks) {
         await openaiTranslateFile(
