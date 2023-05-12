@@ -168,6 +168,7 @@ digits/90: neunzig
 digits/9: neun
 digits/a-m: Vormittag
 digits/at: um
+digits/and: und
 digits/billion: Milliarde
 digits/day-0: Sonntag
 digits/day-1: Montag
@@ -232,6 +233,18 @@ digits/thousand: Tausend
 digits/today: heute
 digits/tomorrow: morgen
 digits/yesterday: gestern
+digits/1-and: einund
+digits/1F: eine
+digits/1N: ein
+digits/2-and: zweiund
+digits/3-and: dreiund
+digits/4-and: vierund
+digits/5-and: fünfund
+digits/6-and: sechsund
+digits/7-and: siebenund
+digits/8-and: achtund
+digits/9-and: neunund
+digits/millions: Millionen
 dir-first: Buchstaben des Vornamens Ihrer gewünschten Person.
 dir-firstlast: ... Buchstaben des Vornamens oder Nachnamens Ihrer gesuchten Person.
 dir-instr: Wenn Sie die gesuchte Person gefunden haben, drücken Sie jetzt die 1, andernfalls drücken Sie bitte die Stern-Taste.
