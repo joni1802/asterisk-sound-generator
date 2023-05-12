@@ -26,9 +26,11 @@ cdir-welcome: Willkommen im Verzeichnis.
 dictation-being-processed: Ihre Diktierung wird jetzt verarbeitet und per E-Mail versendet. Bitte warten Sie.
 dictation-sent: Ihre Diktierung wurde gesendet. Bitte denken Sie daran, die Aufzeichnung vor Verwendung dieser Nummer zu löschen.
 enter-filename-short: Geben Sie einen numerischen Dateinamen für die Diktierung ein, gefolgt von der Raute-Taste.
+enter-num-whitelist: Bitte geben Sie die Nummer ein, die auf die Erlaubnisliste gesetzt werden soll. 
+entr-num-rmv-allowlist: Bitte geben Sie die Nummer ein, die von der Erlaubnisliste entfernt werden soll.
 exited-vm-will-be-transfered: Sie haben das Voicemail-System verlassen und werden nun zurück zum vorherigen Menü übertragen oder Sie können auflegen, um den Anruf zu beenden.
 featurecode: Funktionscode.
-followme: Weiterleitung.
+followme: Folge mir.
 incoming-call-1-accept-2-decline: Sie haben einen eingehenden Anruf. Drücken Sie 1, um anzunehmen, 2, um abzulehnen. Drücken Sie 3, um die Anrufer-ID-Informationen zu hören, falls verfügbar.
 incoming-call-no-longer-avail: Es tut uns leid. Der eingehende Anruf ist nicht mehr verfügbar oder wurde von jemand anderem beantwortet.
 intercom: Intercom.
