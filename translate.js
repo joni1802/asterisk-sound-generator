@@ -60,13 +60,12 @@ function getTargetFilename(sourceFile, targetLangCode) {
   return sourceFile.replace(regex, `$1${targetLangCode}$2`);
 }
 
-async function openaiTranslateFile(sourceFile, targetFile, language) {
+async function openaiTranslateFile(text, targetFile, language) {
   return new Promise(async (resolve, reject) => {
-    const source = await readFile(sourceFile, { encoding: "utf8" });
     const target = createWriteStream(targetFile, { flags: "a" });
     const content = `Translate a transcription of a phone system to ${language}. Keep the original formatting and only translate everything after the colon on each line. Always translate the word "extension" to the german word "Durchwahl". 
 Here is the transcription:
-${source}
+${text}
 `;
 
     const stream = await OpenAI(
@@ -93,9 +92,9 @@ ${source}
   });
 }
 
-function getTranscriptionChunks(transcription, tokenLimit) {
-  const tokens = encode(transcription);
-
+async function getFileChunks(sourceFile, tokenLimit = 3800) {
+  const source = await readFile(sourceFile, { encoding: "utf8" });
+  const tokens = encode(source);
   const chunks = [];
 
   let lastLine = "";
@@ -212,10 +211,17 @@ export default async function init() {
       await deeplTranslateFile(sourceFile, targetFile, targetLangCode);
       break;
     case "chatgpt":
-      await openaiTranslateFile(
-        sourceFile,
-        targetFile,
-        answers.targetLanguage.name
-      );
+      // The token limit is 4096 tokens for input and output.
+      // Because the amount of tokens used by chatGPT for the output can't be calculated, the limit should be set much lower than 4096 tokens.
+      // Also languages like german consume up to three times more tokens then english.
+      const chunks = await getFileChunks(sourceFile, 1000);
+
+      for (const text of chunks) {
+        await openaiTranslateFile(
+          text,
+          targetFile,
+          answers.targetLanguage.name
+        );
+      }
   }
 }
