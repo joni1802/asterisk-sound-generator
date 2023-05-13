@@ -3,7 +3,7 @@ import { existsSync, readdirSync } from "node:fs";
 import path from "node:path";
 import inquirer from "inquirer";
 
-function ffmpeg(cmd) {
+export function ffmpeg(cmd) {
   return new Promise((resolve, reject) => {
     exec(`ffmpeg ${cmd}`, (err, _stdout, stderr) => {
       if (err) {

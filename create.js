@@ -4,6 +4,26 @@ import { readdirSync } from "node:fs";
 import { mkdir, rename, readFile } from "node:fs/promises";
 import inquirer from "inquirer";
 import path from "node:path";
+import { ffmpeg } from "./convert.js";
+import { existsSync } from "node:fs";
+
+async function createSilenceFiles(targetPath) {
+  await mkdir(targetPath, { recursive: true });
+
+  for (let i = 1; i <= 10; i++) {
+    const targetFile = path.join(targetPath, `${i}.wav`);
+
+    if (existsSync(targetFile)) {
+      console.log(`${targetFile} skipped. Already exists.`);
+    } else {
+      console.log(`${targetFile} created.`);
+
+      await ffmpeg(
+        `-f lavfi -i anullsrc=r=16000:cl=stereo -t ${i} ${targetFile}`
+      );
+    }
+  }
+}
 
 async function moveExtraSoundFiles(
   newTargetPaths,
@@ -63,6 +83,12 @@ async function createSoundFiles(answers) {
     });
 
     await moveExtraSoundFiles(JSON.parse(extraSoundsDirs), targetDir);
+  }
+
+  if (/^core/.test(transcription)) {
+    const silentSoundsDir = path.join(targetDir, "silence");
+
+    await createSilenceFiles(silentSoundsDir);
   }
 
   console.timeEnd();
