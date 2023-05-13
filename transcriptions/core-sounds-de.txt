@@ -266,7 +266,7 @@ enabled: Aktiviert.
 enter-num-blacklist: Bitte geben Sie die Nummer ein, die auf die Blacklist gesetzt werden soll.
 entr-num-rmv-blklist: Bitte geben Sie die Nummer ein, die von der Blacklist entfernt werden soll.
 extension: Durchwahl.
-featurecode: Featurecode
+featurecode: Funktionscode
 feature-not-avail-line: Diese Funktion ist auf dieser Leitung nicht verfügbar.
 followme/call-from: eingehender Anruf von
 followme/no-recording: Sie haben einen eingehenden Anruf.
@@ -527,13 +527,13 @@ vm-num-i-have: Die Nummer, die ich habe, ist
 vm-Old: alte
 vm-onefor-full: Drücken Sie 1, um zuzuhören ...
 vm-onefor: Drücken Sie 1 für
-vm-options: Drücken Sie 1, um Ihre nicht verfügbare Nachricht aufzunehmen, drücken Sie 2, um Ihre besetzte Nachricht aufzunehmen, drücken Sie 3, um Ihren Namen aufzunehmen, drücken Sie 4, um Ihre temporäre Ansage aufzunehmen, drücken Sie 5, um Ihr Passwort zu ändern, drücken Sie die Sternchen-Taste, um zum Hauptmenü zurückzukehren.
+vm-options: Drücken Sie 1, um Ihre Nichtverfügbarkeitsnachricht aufzunehmen. Drücken Sie 2, um Ihre Besetztnachricht aufzunehmen. Drücken Sie 3, um Ihren Namen aufzunehmen. Drücken Sie 4, um Ihre temporäre Ansage aufzunehmen. Drücken Sie 5, um Ihr Passwort zu ändern. Drücken Sie die Sternchen-Taste, um zum Hauptmenü zurückzukehren.
 vm-opts-full: Drücken Sie 2, um auf in anderen Ordnern gespeicherte Nachrichten zuzugreifen. Drücken Sie 3, um eine Nachricht für einen anderen Posteingang aufzuzeichnen. Drücken Sie 0 für Grüße und Passwortverwaltung.
 vm-opts: Drücken Sie 2, um Ordner zu wechseln, drücken Sie 3 für erweiterte Optionen, drücken Sie Null für Postfachoptionen.
 vm-passchanged: Ihre Passwörter wurden geändert.
 vm-password: Passwort
 vm-pls-try-again: Bitte versuchen Sie es erneut.
-vm-press: drücken
+vm-press: drücken Sie
 vm-prev: Drücken Sie 4 für die vorherige Nachricht
 vm-reachoper: Drücken Sie 0, um einen Operator zu erreichen.
 vm-rec-busy: Sprechen Sie nach dem Signalton Ihre Besetztnachricht und drücken Sie dann die Raute-Taste.
