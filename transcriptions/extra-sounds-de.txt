@@ -301,7 +301,7 @@ email: E-Mail
 emergency: Notfall
 encode: Codieren
 engineering: Ingenieurwesen
-ent-target-attendant: Bitte geben Sie die Nummer der Erweiterung ein, die Sie für Ihren Zielbetreuer verwenden möchten.
+ent-target-attendant: Bitte geben Sie die Nummer der Durchwahl ein, die Sie für Ihren Zielbetreuer verwenden möchten.
 enter-a-time: Geben Sie eine Zeit mit 4 Ziffern ein. Beginnen Sie mit einer Null für Stunden unter zehn.
 enter-conf-call-number: Bitte geben Sie die Konferenz-Call-Nummer für die Konferenz ein, an der Sie teilnehmen möchten.
 enter-conf-pin-number: Bitte geben Sie die Konferenz Pin-Nummer ein.
@@ -862,7 +862,7 @@ press-star: Drücken Sie die Stern-Taste
 press-star: Drücken Sie die Stern-Taste
 press-the-space-bar: Drücken Sie die Leertaste.
 press-tilde: Drücken Sie Tilde.
-press: Drücken
+press: Drücken Sie
 pressure: Druck
 pressure: Druck
 printing: Drucken
@@ -1336,7 +1336,7 @@ hal_goodbye: Dieser Anruf hat keinen Zweck mehr. Auf Wiedersehen.
 happy_saved: Ich freue mich, Ihnen mitteilen zu können, dass Ihre Nachricht gespeichert wurde.
 is: ist
 keywords_cross_fingers: Bitte geben Sie ein oder mehrere Keywords getrennt durch Stern ein, kreuzen Sie die Finger und drücken Sie dann die Raute-Taste.
-like_to_tell_valid_ext: Ich würde Ihnen gerne sagen, dass das eine gültige Erweiterung ist, aber das kann ich nicht. Versuchen Sie es noch einmal.
+like_to_tell_valid_ext: Ich würde Ihnen gerne sagen, dass das eine gültige Durchwahl ist, aber das kann ich nicht. Versuchen Sie es noch einmal.
 martini: Ich kann keine Verbindung zum Digium Demonstration Asterisk-Server herstellen. Glauben Sie mir, ich bin auch frustriert. Sie finden möglicherweise hilfreiche Debugging-Informationen auf der Asterisk-Konsole. Ich gehe einen Martini trinken.
 messages_curious: Drücken Sie die 1, um Ihre Nachrichten zu überprüfen. Komm schon, du weißt, dass du neugierig bist. Wenn Sie damit fertig sind, können Sie das Voicemail jederzeit durch Drücken der Raute-Taste beenden.
 mind_repeating: Könnten Sie das bitte wiederholen?
@@ -1399,7 +1399,7 @@ telemarketercalling: Telemarketing-Anrufe wurden von Ihrer Nummer aus gemeldet.
 thank_you_calling: Danke, dass Sie angerufen haben.
 thanks-annoyance: Danke, dass Sie angerufen haben. Bitte warten Sie einen Moment, während ich jemanden suche, der sich mit Ihrem ständigen Beschweren und Jammern abgeben wird.
 timewarp: Aufgrund des vorübergehenden Auftretens eines Zeitdefekts in der Umgebung wird niemand hier sein, um für mindestens ein Jahrhundert zu antworten. Bitte hinterlassen Sie eine Nachricht nach dem Signalton und wir werden mindestens einen Monat vor Ihrem Anruf antworten. Vielen Dank und einen schönen Tag noch.
-tone_time: "Beim Signalton wird die Uhrzeit sein: "
+tone_time: "Beim Signalton wird die Uhrzeit wie folgt sein: "
 transfer_to_agent: Ich denke, ich sollte Sie an einen Agenten weiterleiten. Warten Sie bitte.
 unicorn_blood_MIXDOWN: Asterisk ist eine Open-Source-Telefonanlage und IVR-Plattform, die auf dem Linux-Betriebssystem und ein bisschen Einhornblut läuft. Weitere Informationen finden Sie unter Asterisk.org.
 unicorn_blood: Asterisk ist eine Open-Source-Telefonanlage und IVR-Plattform, die auf dem Linux-Betriebssystem und ein bisschen Einhornblut läuft. Weitere Informationen finden Sie unter Asterisk.org.

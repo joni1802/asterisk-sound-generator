@@ -22,7 +22,7 @@ call-forwarding: Rufumleitung.
 call-fwd-no-ans: Rufumleitung bei Nichtannahme.
 call-fwd-on-busy: Rufumleitung bei Besetzt.
 call-fwd-unconditional: Unbedingte Rufumleitung.
-call-waiting: Rufwarteschleife.
+call-waiting: Anklopfen.
 calling: Anruf wird getätigt.
 cancelled: Abgebrochen.
 cannot-complete-as-dialed: Ihr Anruf kann nicht durchgestellt werden.
@@ -408,7 +408,7 @@ queue-minute: Minute
 queue-minutes: Minuten
 queue-periodic-announce: Alle unsere Vertreter sind zurzeit beschäftigt. Bitte bleiben Sie in der Leitung, Ihr Anruf wird vom nächsten verfügbaren Vertreter beantwortet.
 queue-quantity1: Derzeit warten mehr als ...
-queue-quantity2: ... Anrufer auf eine Verbindung mit einem Vertreter.
+queue-quantity2: ... Anrufer, die auf ein Gespräch mit einem Vertreter warten.
 queue-reporthold: Wartezeit
 queue-seconds: Sekunden
 queue-thankyou: Vielen Dank für Ihre Geduld.
@@ -493,9 +493,9 @@ vm-from-phonenumber: Nachricht von Telefonnummer
 vm-from: von
 vm-goodbye: Auf Wiedersehen
 vm-helpexit: Drücken Sie die Stern-Taste für Hilfe oder die Raute-Taste, um zu beenden.
-vm-INBOX: neu
-vm-incorrect-mailbox: Login inkorrekt. Mailbox?
-vm-incorrect: Login inkorrekt.
+vm-INBOX: neue
+vm-incorrect-mailbox: Anmeldung inkorrekt. Bitte geben Sie Ihre Mailboxnummer ein.?
+vm-incorrect: Anmeldung inkorrekt.
 vm-instructions: Drücken Sie die 1, um Ihre Nachrichten anzuhören. Sie können die Voicemail jederzeit durch Drücken der Raute-Taste verlassen.
 vm-intro: Bitte sprechen Sie nach dem Signalton. Wenn Sie fertig sind, legen Sie bitte auf oder drücken Sie die Raute-Taste. (einfaches Ton-Signal ertönt)
 vm-invalid-password: Das Passwort erfüllt nicht die Mindestanforderungen für diese Mailbox. Bitte versuchen Sie es erneut.
@@ -516,7 +516,7 @@ vm-msgforwarded: Ihre Nachricht wurde erfolgreich weitergeleitet.
 vm-msginstruct: Um die nächste Nachricht zu hören, drücken Sie 6, um diese Nachricht zu wiederholen, drücken Sie 5, um die vorherige Nachricht zu hören, drücken Sie 4, um diese Nachricht zu löschen oder wiederherzustellen, drücken Sie Null, um Voicemail zu beenden, drücken Sie die Raute-Taste.
 vm-msgsaved: Ihre Nachricht wurde gespeichert.
 vm-newpassword: Bitte geben Sie Ihr neues Passwort ein, gefolgt von der Raute-Taste.
-vm-newuser: Willkommen bei Comedian Mail. Zunächst werde ich Sie durch einen kurzen Einrichtungsprozess führen.
+vm-newuser: Herzlich willkommen. Zunächst werde ich Sie durch einen kurzen Einrichtungsprozess führen.
 vm-next: Drücken Sie 6, um die nächste Nachricht abzuspielen.
 vm-no: nein
 vm-nobodyavail: Es ist niemand verfügbar, um Ihren Anruf entgegenzunehmen.
@@ -524,7 +524,7 @@ vm-nobox: Sie können auf diese Nachricht nicht antworten, da der Absender keine
 vm-nomore: Keine weiteren Nachrichten.
 vm-nonumber: Ich befürchte, ich weiß nicht, wer diese Nachricht gesendet hat.
 vm-num-i-have: Die Nummer, die ich habe, ist
-vm-Old: alt
+vm-Old: alte
 vm-onefor-full: Drücken Sie 1, um zuzuhören ...
 vm-onefor: Drücken Sie 1 für
 vm-options: Drücken Sie 1, um Ihre nicht verfügbare Nachricht aufzunehmen, drücken Sie 2, um Ihre besetzte Nachricht aufzunehmen, drücken Sie 3, um Ihren Namen aufzunehmen, drücken Sie 4, um Ihre temporäre Ansage aufzunehmen, drücken Sie 5, um Ihr Passwort zu ändern, drücken Sie die Sternchen-Taste, um zum Hauptmenü zurückzukehren.
@@ -536,10 +536,10 @@ vm-pls-try-again: Bitte versuchen Sie es erneut.
 vm-press: drücken
 vm-prev: Drücken Sie 4 für die vorherige Nachricht
 vm-reachoper: Drücken Sie 0, um einen Operator zu erreichen.
-vm-rec-busy: Sprechen Sie nach dem Signalton Ihre besetzte Nachricht und drücken Sie dann die Raute-Taste.
+vm-rec-busy: Sprechen Sie nach dem Signalton Ihre Besetztnachricht und drücken Sie dann die Raute-Taste.
 vm-rec-name: Sprechen Sie nach dem Signalton Ihren Namen und drücken Sie dann die Raute-Taste.
 vm-rec-temp: Sprechen Sie nach dem Signalton Ihre temporäre Nachricht und drücken Sie dann die Raute-Taste.
-vm-rec-unv: Sprechen Sie nach dem Signalton Ihre nicht verfügbare Nachricht und drücken Sie dann die Raute-Taste.
+vm-rec-unv: Sprechen Sie nach dem Signalton Ihre Nichtverfügbarkeitsnachricht und drücken Sie dann die Raute-Taste.
 vm-received: empfangen
 vm-record-prepend: Sprechen Sie nach dem Signalton eine Einführung zu der weitergeleiteten Nachricht und drücken Sie dann die Raute-Taste.
 vm-reenterpassword: Bitte geben Sie Ihr Passwort erneut ein, gefolgt von der Raute-Taste.
