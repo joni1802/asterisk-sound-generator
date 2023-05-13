@@ -3,7 +3,7 @@
 **If you just want to download the prebuilt sound files, take a look at the Github releases of this project.**
 
 This is a CLI tool for generating Asterisk sound files based of the original transcriptions from the Asterisk Open Source project. The goal is to provide better language support for currently unsupported languages like German. The sound files can be used by any phone software based on Asterisk - like FreePBX.
-The tool uses the DeepL API to translate the transcriptions and the Google Text-To-Speech API to generate the sound files. However, the translations still needs some manual work.
+The tool uses the DeepL and ChatGPT API to translate the transcriptions and the Google Text-To-Speech API to generate the sound files. However, the translations still needs some manual work.
 The tool also converts the generated sound files to the common codecs.
 
 ## Prerequirements
@@ -41,7 +41,14 @@ More details: [Coqui TTS Github Repo](https://github.com/coqui-ai/TTS)
 1. Create a free DeepL account.
 2. Generate an API key.
 3. Create a .env file in the root directory of this project.
-4. Add `DEEPL_AUTH_KEY=<your deepl api key><` to the .env file.
+4. Add `DEEPL_AUTH_KEY=<your deepl api key>` to the .env file.
+
+### Using ChatGPT for translations
+
+1. Create an OpenAI account.
+2. Generate an API key.
+3. Create a .env file in the root directory of this project.
+4. Add `OPEN_AI_AUTH_KEY=<your deepl api key>` to the .env file.
 
 ### Using FFmpeg for converting audio files
 
