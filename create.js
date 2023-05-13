@@ -75,15 +75,7 @@ export default function init() {
       name: "transcription",
       message: "Choose a transcription.",
       choices() {
-        const dir = readdirSync("transcriptions");
-
-        // Order files by language code
-        return dir.sort((a, b) => {
-          const [_, aLangCode] = a.match(/^.*-([a-z]{2,})\.txt$/);
-          const [__, bLangCode] = b.match(/^.*-([a-z]{2,})\.txt$/);
-
-          return aLangCode.charCodeAt(0) - bLangCode.charCodeAt(0);
-        });
+        return readdirSync("transcriptions");
       },
     },
     {
