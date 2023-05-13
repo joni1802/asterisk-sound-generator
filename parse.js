@@ -5,7 +5,7 @@ export function parseSoundFile(sourceFile) {
   const lines = file.split("\n");
 
   return lines.map((line) => {
-    let [name, text] = line.split(":");
+    let [name, text] = line.split(/:(.*)/); //split only by the first colon
     let specialChars = /\[.*\]|\(.*\)|\<.*\>|\.\.\./g;
 
     text = text?.replace(specialChars, "");

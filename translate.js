@@ -20,7 +20,7 @@ async function deeplTranslateFile(sourceFile, targetFile, targetLangCode) {
   let lineNumber = 1;
 
   for await (const line of source.readLines()) {
-    const [name, text] = line.split(":");
+    const [name, text] = line.split(/:(.*)/);
 
     if (text) {
       const translation = await translator.translateText(
