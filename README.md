@@ -1,6 +1,6 @@
 # Asterisk Sound Generator ☎️
 
-**If you just want to download the prebuilt sound files, take a look at the [Github releases](https://github.com/joni1802/asterisk-sounds-generator/releases/latest) of this project.**
+**If you just want to download the prebuilt sound files, take a look at the [Github releases](https://github.com/joni1802/asterisk-sound-generator/releases/latest) of this project.**
 
 This is a CLI tool for generating Asterisk sound files based of the original transcriptions from the Asterisk Open Source project. The goal is to provide better language support for currently unsupported languages like German. The sound files can be used by any phone software based on Asterisk - like FreePBX.
 The tool uses the DeepL and ChatGPT API to translate the transcriptions and the Google Text-To-Speech API to generate the sound files. However, the translations still needs some manual work.
