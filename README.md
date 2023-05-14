@@ -17,7 +17,7 @@ The tool also converts the generated sound files to the common codecs.
 ## Install CLI
 
 1. Clone the repository `git clone https://github.com/joni1802/asterisk-sound-generator.git`.
-2. Change into the directory `cd asterisk-sounds-generator`
+2. Change into the directory `cd asterisk-sound-generator`
 3. Install the Node modules `npm install`
 4. Start the CLI tool `npm run start`
 
