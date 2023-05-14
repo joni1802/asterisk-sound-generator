@@ -10,6 +10,7 @@ The tool also converts the generated sound files to the common codecs.
 
 - Installed [Node.js](https://nodejs.org/) runtime (atleast Version 20.0.0)
 - DeepL account with access to the [DeepL API](https://www.deepl.com/docs-api) (Free for up to 500.000 characters per month)
+- OpenAI account (Not free but really cheap)
 - Google Cloud account with access to the [Google Text-to-Speech API](https://cloud.google.com/text-to-speech) (Free for up to 1 Mio. characters per month)
 - [FFmpeg binary](https://ffmpeg.org/download.html) for converting the sound files
 
