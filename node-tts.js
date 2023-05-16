@@ -1,3 +1,7 @@
+// @ts-check
+/**
+ * @file Provides functions for the Coqui and Google text-to-speech APIs.
+ */
 import { execFile } from "node:child_process";
 import { writeFile } from "node:fs/promises";
 import googleTtsApi from "@google-cloud/text-to-speech";
@@ -8,12 +12,20 @@ dotenv.config();
 
 const debug = false;
 
+/**
+ * Node wrapper for the Coqui TTS command line tool.
+ * Creates audio files from the provided text.
+ * @param {string} text - transcription
+ * @param {string} modelName - model name used for the audio
+ * @param {string} targetFile - target audio file
+ * @returns {Promise<void>}
+ */
 export function coquiTts(text, modelName, targetFile) {
-  if (fileExits(targetFile)) {
-    return;
-  }
-
   return new Promise((resolve, reject) => {
+    if (fileExits(targetFile)) {
+      resolve();
+    }
+
     execFile(
       "tts",
       ["--text", text, "--model_name", modelName, "--out_path", targetFile],
@@ -37,6 +49,15 @@ export function coquiTts(text, modelName, targetFile) {
   });
 }
 
+/**
+ * Wrapper for the Google Text-To-Speech API.
+ * Creates audio files from the provided text.
+ * @param {string} text - transcription
+ * @param {string} langCode - language code
+ * @param {string} voiceName - voice name of the AI
+ * @param {string} targetFile - target audio file
+ * @returns {Promise<void>}
+ */
 export async function googleTts(text, langCode, voiceName, targetFile) {
   if (fileExits(targetFile)) {
     return;
@@ -58,6 +79,7 @@ export async function googleTts(text, langCode, voiceName, targetFile) {
     },
   };
 
+  // @ts-ignore
   const [response] = await client.synthesizeSpeech(request);
 
   await writeFile(targetFile, response.audioContent, {
@@ -68,18 +90,27 @@ export async function googleTts(text, langCode, voiceName, targetFile) {
   console.log(targetFile);
 }
 
+/**
+ * Gets a list of the available Google TTS voices filtered by the provided language code.
+ * @param {string} langCode - language code
+ * @returns {Promise<import("@google-cloud/text-to-speech").protos.google.cloud.texttospeech.v1.IVoice[] | null | undefined>}
+ */
 export async function googleListVoices(langCode) {
   const client = new googleTtsApi.TextToSpeechClient();
   const [response] = await client.listVoices();
 
-  return response.voices.filter((voice) => {
-    return voice.languageCodes.includes(langCode);
+  return response.voices?.filter((voice) => {
+    return voice.languageCodes?.includes(langCode);
   });
 }
 
-// Workaround for the following error thrown by the google text to speech api:
-// "This request contains sentences that are too long. To fix, split up long sentences with sentence ending punctuation e.g. periods."
-// Replace a comma in front of a number with an punctuation.
+/**
+ * Workaround for the following error thrown by the google text to speech api:
+ * "This request contains sentences that are too long. To fix, split up long sentences with sentence ending punctuation e.g. periods."
+ * Replaces a comma in front of a number with a punctuation.
+ * @param {string} text - source text
+ * @returns {string} - modified text
+ */
 function splittedSentences(text) {
   const regex = /,(\s\d),/g;
 
@@ -87,6 +118,11 @@ function splittedSentences(text) {
   return text.replace(regex, ".$1");
 }
 
+/**
+ * Checks if the file exists.
+ * @param {string} filePath - file path of the file
+ * @returns {boolean}
+ */
 function fileExits(filePath) {
   if (existsSync(filePath)) {
     console.log(`${filePath} skipped. File already exists.`);
