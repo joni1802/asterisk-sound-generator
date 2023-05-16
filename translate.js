@@ -1,3 +1,8 @@
+// @ts-check
+/**
+ * @file Used for translating the transcriptions by using the DeepL and OpenAI APIs.
+ */
+
 import * as dotenv from "dotenv";
 import * as deepl from "deepl-node";
 import { open, mkdir, readdir, readFile } from "node:fs/promises";
@@ -11,8 +16,16 @@ dotenv.config();
 
 const debug = false;
 
+/**
+ * Reads the source file line by line, parses it and translates the text with the DeepL API.
+ * The translated text will be written to the target file line by line.
+ * @param {string} sourceFile - the file that will be translated
+ * @param {string} targetFile - the translated file
+ * @param {deepl.TargetLanguageCode} targetLangCode - target language code
+ */
 async function deeplTranslateFile(sourceFile, targetFile, targetLangCode) {
   const authKey = process.env.DEEPL_AUTH_KEY;
+  // @ts-ignore
   const translator = new deepl.Translator(authKey);
   const source = await open(sourceFile);
   const target = await open(targetFile, "ax");
@@ -47,19 +60,37 @@ async function deeplTranslateFile(sourceFile, targetFile, targetLangCode) {
   target.close();
 }
 
+/**
+ * Returns the list of all support languages by DeepL
+ * @returns {Promise<readonly deepl.Language[]>}
+ */
 function getTargetLanguages() {
   const authKey = process.env.DEEPL_AUTH_KEY;
+  // @ts-ignore
   const translator = new deepl.Translator(authKey);
 
   return translator.getTargetLanguages();
 }
 
+/**
+ * Reads the name of the source file, extracts the language code and replaces it with the target language code.
+ * @param {string} sourceFile - source file name
+ * @param {string} targetLangCode - target language code
+ * @returns {string} - new file name with target language code
+ */
 function getTargetFilename(sourceFile, targetLangCode) {
   const regex = /^(.*-).*(\.txt)$/i;
 
   return sourceFile.replace(regex, `$1${targetLangCode}$2`);
 }
 
+/**
+ * Translates the text using gpt-3.5-turbo. The response stream gets piped to a target file.
+ * @param {string} text - text that gets translated
+ * @param {*} targetFile - the translated file
+ * @param {*} language - any language
+ * @returns {Promise<void>} - when the stream is finished
+ */
 async function openaiTranslateFile(text, targetFile, language) {
   return new Promise(async (resolve, reject) => {
     const target = createWriteStream(targetFile, { flags: "a" });
@@ -92,6 +123,15 @@ ${text}
   });
 }
 
+/**
+ * The model gpt-3.5-turbo only supports 4096 tokens for the requenst and the response combined.
+ * This function splits the request into smaller chunks sized by the token limit.
+ * It makes sure that every chunks ends with whole line.
+ * Because the used tokens by the response are unknown, the token limit should be set much smaller than the maximum support limit.
+ * @param {string} sourceFile - source transcription file
+ * @param {number} tokenLimit - token limit per chunk
+ * @returns {Promise<string[]>} - array of text chunks of the source file
+ */
 async function getFileChunks(sourceFile, tokenLimit = 3800) {
   const source = await readFile(sourceFile, { encoding: "utf8" });
   const tokens = encode(source);
@@ -116,10 +156,20 @@ async function getFileChunks(sourceFile, tokenLimit = 3800) {
   return chunks;
 }
 
+/**
+ * Logs the line number followed by a tab and the line to stdout.
+ * @param {number} lineNumber - line number
+ * @param {string} line - text with line number
+ */
 function logger(lineNumber, line) {
   console.log(`${lineNumber}\t${line}`);
 }
 
+/**
+ * Initiates the command line user interface.
+ * Translates the selected transcriptions into the selected language.
+ * @returns {Promise<void>}
+ */
 export default async function init() {
   const targetDir = "transcriptions";
 
