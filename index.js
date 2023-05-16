@@ -1,9 +1,17 @@
+// @ts-check
+/**
+ * @file Entry point of the cli tool.
+ */
 import inquirer from "inquirer";
 import create from "./create.js";
 import convert from "./convert.js";
 import translate from "./translate.js";
 import extraSounds from "./extra-sounds.js";
 
+/**
+ * Starts the command line user interface.
+ * @returns {Promise<void>}
+ */
 async function init() {
   const question = [
     {

@@ -1,8 +1,17 @@
+// @ts-check
+/**
+ * @file Converts the audio files from wav to ulaw, alaw and g722 using ffmpeg.
+ */
 import { exec } from "node:child_process";
 import { existsSync, readdirSync } from "node:fs";
 import path from "node:path";
 import inquirer from "inquirer";
 
+/**
+ * Node wrapper for the ffmpeg cli tool.
+ * @param {string} cmd - the raw ffmpeg command
+ * @returns {Promise<string>} - output from the ffmpeg binary.
+ */
 export function ffmpeg(cmd) {
   return new Promise((resolve, reject) => {
     exec(`ffmpeg ${cmd}`, (err, _stdout, stderr) => {
@@ -10,11 +19,18 @@ export function ffmpeg(cmd) {
         reject(err);
       }
 
-      resolve(stderr);
+      resolve(stderr); // the output from ffmpeg is not stdout.
     });
   });
 }
 
+/**
+ * A higher level wrapper for using ffmpeg.
+ * @param {string} sourceFile - source file
+ * @param {string} targetFile - target file
+ * @param {string[]} options - ffmpeg options
+ * @returns {Promise<string | undefined>}
+ */
 export async function convertFile(sourceFile, targetFile, options) {
   if (existsSync(targetFile)) {
     console.log(
@@ -29,6 +45,13 @@ export async function convertFile(sourceFile, targetFile, options) {
   return await ffmpeg(`-i ${sourceFile} ${options.join(" ")} ${targetFile}`);
 }
 
+/**
+ * Converts all files of a directory recursively to the target file format.
+ * @param {string} sourcePath - path to the folder with the audio files
+ * @param {string} sourceFileExt - the file extension of the files being converted
+ * @param {string} targetFileExt - the target extension to convert into
+ * @param {string[]} options - ffmpeg options
+ */
 async function convertAllFiles(
   sourcePath,
   sourceFileExt,
@@ -63,6 +86,10 @@ async function convertAllFiles(
   }
 }
 
+/**
+ * Initiates the command line interface
+ * @returns {Promise<void>}
+ */
 export default async function init() {
   const questions = [
     {

@@ -1,13 +1,35 @@
+// @ts-check
+/**
+ * @file Rengerates the directory structure for the extra sound files.
+ * Unlike the core files the transcription for the extra files does not contain directories for some files.
+ * This file generates a json file with the directory structure by using the original extra sound directory provided by Asterisk.
+ */
 import { readdir, writeFile } from "node:fs/promises";
 import path from "node:path";
 import inquirer from "inquirer";
 
+/**
+ * Gets all folders from the original extra sounds folder.
+ * @param {string} sourcePath - path to an original extra sounds folder
+ * @returns {Promise<import("fs").Dirent[]>} - folders
+ */
 async function getFolders(sourcePath) {
   const dir = await readdir(sourcePath, { withFileTypes: true });
 
   return dir.filter((entry) => entry.isDirectory());
 }
 
+/**
+ * @typedef {Object} TargetPath
+ * @property {string} folderName - name of the folder
+ * @property {string} fileName - name of the audio file inside that folder
+ */
+
+/**
+ * Returns all file names and their associated folder in an array.
+ * @param {string} sourcePath - path to an original extra sounds folder
+ * @returns {Promise<TargetPath[]>}
+ */
 async function getTargetPaths(sourcePath) {
   const folders = await getFolders(sourcePath);
 
@@ -26,6 +48,10 @@ async function getTargetPaths(sourcePath) {
   return targetPaths;
 }
 
+/**
+ * Initiates the command line interface
+ * @returns {Promise<void>}
+ */
 export default async function init() {
   const questions = [
     {
