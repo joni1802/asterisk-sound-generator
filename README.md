@@ -6,6 +6,11 @@ This is a CLI tool for generating Asterisk sound files based of the original tra
 The tool uses the DeepL and ChatGPT API to translate the transcriptions and the Google Text-To-Speech API to generate the sound files. However, the translations still needs some manual work.
 The tool also converts the generated sound files to the common codecs.
 
+## READMEs
+
+- Install sound files in FreePBX [docs/install-sounds-freepbx.md](https://github.com/joni1802/asterisk-sound-generator/blob/master/docs/install-sounds-freepbx.md)
+- How to contribute to this project [docs/contribute-to-project.md](https://github.com/joni1802/asterisk-sound-generator/blob/master/docs/contribute-to-project.md)
+
 ## Prerequirements
 
 - Installed [Node.js](https://nodejs.org/) runtime (atleast Version 20.0.0)
