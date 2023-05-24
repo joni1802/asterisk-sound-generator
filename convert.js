@@ -49,7 +49,7 @@ export async function convertFile(sourceFile, targetFile, options) {
  * Converts all files of a directory recursively to the target file format.
  * @param {string} sourcePath - path to the folder with the audio files
  * @param {string} sourceFileExt - the file extension of the files being converted
- * @param {string} targetFileExt - the target extension to convert into
+ * @param {"g722" | "ulaw" | "alaw" | "gsm"} targetFileExt - the target extension to convert into
  * @param {string[]} options - ffmpeg options
  */
 async function convertAllFiles(
