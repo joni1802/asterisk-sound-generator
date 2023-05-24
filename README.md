@@ -58,8 +58,8 @@ More details: [Coqui TTS Github Repo](https://github.com/coqui-ai/TTS)
 
 ### Using FFmpeg for converting audio files
 
-1. Download the prebuilt FFmpeg binary from an official source.
-2. Copy the binary (executable) to the root directory of this project or add it to the PATH environment variable.
+1. Download the prebuilt FFmpeg binaries from an official source. For windows I suggest to download the full build from [gyan.dev](https://www.gyan.dev/ffmpeg/builds/). This version also contains the needed library for the GSM encoder.
+2. Copy the ffmpeg binary (executable) to the root directory of this project or add it to the PATH environment variable.
 
 ## More usefull sources
 

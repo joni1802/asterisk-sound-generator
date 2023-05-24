@@ -112,6 +112,11 @@ export default async function init() {
           value: "alaw",
           checked: true,
         },
+        {
+          name: "GSM",
+          value: "gsm",
+          checked: true,
+        },
       ],
     },
     {
@@ -158,6 +163,12 @@ export default async function init() {
             "-ar 8000",
             "-codec:a pcm_alaw",
             "-f alaw",
+          ]);
+        case "gsm":
+          await convertAllFiles(sourcePath, sourceExt, "gsm", [
+            "-ar 8000",
+            "-codec:a gsm",
+            "-ac 1",
           ]);
       }
     }
