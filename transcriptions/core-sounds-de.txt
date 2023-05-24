@@ -518,7 +518,7 @@ vm-msgsaved: Ihre Nachricht wurde gespeichert.
 vm-newpassword: Bitte geben Sie Ihr neues Passwort ein, gefolgt von der Raute-Taste.
 vm-newuser: Herzlich willkommen. Zunächst werde ich Sie durch einen kurzen Einrichtungsprozess führen.
 vm-next: Drücken Sie 6, um die nächste Nachricht abzuspielen.
-vm-no: nein
+vm-no: keine
 vm-nobodyavail: Es ist niemand verfügbar, um Ihren Anruf entgegenzunehmen.
 vm-nobox: Sie können auf diese Nachricht nicht antworten, da der Absender keinen Posteingang hat.
 vm-nomore: Keine weiteren Nachrichten.
