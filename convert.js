@@ -49,7 +49,7 @@ export async function convertFile(sourceFile, targetFile, options) {
  * Converts all files of a directory recursively to the target file format.
  * @param {string} sourcePath - path to the folder with the audio files
  * @param {string} sourceFileExt - the file extension of the files being converted
- * @param {"g722" | "ulaw" | "alaw" | "gsm"} targetFileExt - the target extension to convert into
+ * @param {string} targetFileExt - the target extension to convert into
  * @param {string[]} options - ffmpeg options
  */
 async function convertAllFiles(
@@ -117,6 +117,11 @@ export default async function init() {
           value: "gsm",
           checked: true,
         },
+        {
+          name: "SLN16",
+          value: "sln16",
+          checked: true,
+        },
       ],
     },
     {
@@ -169,6 +174,13 @@ export default async function init() {
             "-ar 8000",
             "-codec:a gsm",
             "-ac 1",
+          ]);
+        case "sln16":
+          await convertAllFiles(sourcePath, sourceExt, "sln16", [
+            "-ar 16000",
+            "-ac 1",
+            "-codec:a pcm_s16le",
+            "-f s16le",
           ]);
       }
     }
