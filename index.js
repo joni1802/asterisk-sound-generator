@@ -7,6 +7,7 @@ import create from "./create.js";
 import convert from "./convert.js";
 import translate from "./translate.js";
 import extraSounds from "./extra-sounds.js";
+import zip from "./zip.js";
 
 /**
  * Starts the command line user interface.
@@ -35,6 +36,10 @@ async function init() {
           name: "Generate list of directories for the extra sound files.",
           value: "extra-sounds",
         },
+        {
+          name: "Zip sound files. The raw WAV files will be exluded.",
+          value: "zip",
+        },
       ],
     },
   ];
@@ -53,6 +58,8 @@ async function init() {
       break;
     case "extra-sounds":
       await extraSounds();
+    case "zip":
+      await zip();
   }
 }
 
