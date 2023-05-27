@@ -58,6 +58,7 @@ async function init() {
       break;
     case "extra-sounds":
       await extraSounds();
+      break;
     case "zip":
       await zip();
   }
