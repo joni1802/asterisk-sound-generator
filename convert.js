@@ -62,7 +62,7 @@ async function convertAllFiles(
 
   for (const file of dir) {
     if (file.isDirectory()) {
-      convertAllFiles(
+      await convertAllFiles(
         path.join(sourcePath, file.name),
         sourceFileExt,
         targetFileExt,
@@ -169,12 +169,14 @@ export default async function init() {
             "-codec:a pcm_alaw",
             "-f alaw",
           ]);
+          break;
         case "gsm":
           await convertAllFiles(sourcePath, sourceExt, "gsm", [
             "-ar 8000",
             "-codec:a gsm",
             "-ac 1",
           ]);
+          break;
         case "sln16":
           await convertAllFiles(sourcePath, sourceExt, "sln16", [
             "-ar 16000",
